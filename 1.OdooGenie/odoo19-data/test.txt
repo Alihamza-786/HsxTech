@@ -1,0 +1,1 @@
+https://www.odoo.com/documentation/19.0/applications/inventory_and_mrp/manufacturing/reporting/delayed.html

@@ -1,0 +1,10 @@
+https://www.odoo.com/documentation/19.0/applications/essentials/activities.html#
+https://www.odoo.com/documentation/19.0/applications/essentials/reporting.html
+https://www.odoo.com/documentation/19.0/applications/essentials/search.html
+https://www.odoo.com/documentation/19.0/applications/essentials/html_editor.html
+https://www.odoo.com/documentation/19.0/applications/essentials/contacts.html
+https://www.odoo.com/documentation/19.0/applications/essentials/contacts/merge.html
+https://www.odoo.com/documentation/19.0/applications/essentials/export_import_data.html
+https://www.odoo.com/documentation/19.0/applications/essentials/in_app_purchase.html
+https://www.odoo.com/documentation/19.0/applications/essentials/keyboard_shortcuts.html
+https://www.odoo.com/documentation/19.0/applications/essentials/property_fields.html
