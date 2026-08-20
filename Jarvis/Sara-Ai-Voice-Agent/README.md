@@ -12,7 +12,7 @@ Sara is a real-time conversational AI agent built with LiveKit. Users can commun
 
 ## Demo
 
-[![Sara — AI Voice Agent Demo](assets/demo.png)](https://youtu.be/U9D9_PYFu3w)
+[![Sara — AI Voice Agent Demo](demo.png)](https://youtu.be/U9D9_PYFu3w)
 
 ▶️ **[Watch the demo](https://youtu.be/U9D9_PYFu3w)** — real-time voice conversation with an AI avatar, multilingual interaction, and screen understanding (click the image above to play).
 
