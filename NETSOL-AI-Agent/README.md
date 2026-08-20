@@ -24,6 +24,7 @@ The agent uses scraped NETSOL website data as its knowledge base and can retriev
 * Tool-based agent orchestration
 * FastAPI backend
 * Chainlit conversational interface
+* Google OAuth
 
 ## Architecture
 
