@@ -1,0 +1,63 @@
+https://netsoltech.com/blog/best-practices-for-application-retirement-in-aws-migration
+Blog
+From Legacy to Agility – Best Practices for Application Retirement in AWS Migration
+By
+NETSOL Technologies
+, on August 18, 2023
+The world of technology is a constantly evolving phenomenon which makes it exciting to witness companies leverage Amazon Web Services (AWS) in order to enhance their operations.
+Table of Contents
+Series Part 1: Considering Migration Factory Approach
+Cloud Migration Factory – What’s This?
+Key Components of AWS Cloud Migration Factory
+The Workflow
+Advantages of Migration Factory Approach
+Is the Migration Factory Approach Good for All?
+Share this Blog:
+The world of technology is a constantly evolving phenomenon which makes it exciting to witness companies leverage Amazon Web Services (AWS) in order to enhance their operations. With cloud migration, businesses can achieve exceptional efficiency, scalability, and affordability. However, retiring outdated or unnecessary applications can take time and effort.
+This calls for a solution, so what’s it going to be?
+This will be a ‘Six Series’ blog, where you will learn about the best practices recommended by experts on retiring legacy applications and embracing agility when undergoing AWS cloud migration. Let’s start with Phase 1 of this series and dive into its detail, we will scrutinize every move and decision necessary for your business to achieve optimal performance.
+In the ever-evolving world of technology, businesses must stay ahead of the game by embracing cloud technology.  However, we understand that it can be challenging for companies with intricate infrastructures to transition their workloads to the cloud.
+This is why the “Migration Factory” method is gaining traction across the globe because it simplifies the migration process and saves you time and money. Cloud migration factory in AWS is a highly recommended approach by experts and proves to be one of the best approaches when deciding on retiring legacy applications.
+Let’s explore the numerous benefits of this approach, what it entails, and how it can make your company’s cloud migration journey smooth and effortless.
+The term “factory” can be deceiving when discussing the cloud migration factory method. In reality, a team of skilled individuals, efficient processes, and powerful tools working together to assist organizations in planning, executing, and supporting workload migrations is the migration factory approach. The cloud migration factory is focused on the migration process’s technical and human aspects, ensuring a seamless transition.
+During the planning phase, the cloud factory provides valuable guidance on selecting the best migration approach for the organization’s needs, whether single workload migrations or phased/group migrations. The factory also conducts application assessments and prepares the cloud provider’s resources, demonstrating the countless benefits of migrating to the cloud to stakeholders.
+Once planning is complete, the cloud migration factory’s team of experts, advanced processes, and innovative tools work skillfully, executing the migration process through provisioning, testing, cutovers, monitoring, and troubleshooting/rollbacks if necessary.
+Finally, the factory ensures proper security and performance by validating the migration and implementing maintenance, backup, and disaster recovery measures to fully support the application in the public cloud.
+Partnering with a cloud migration factory in AWS brings a confident, thoughtful, and positive approach to cloud migration, making the process a breeze for any organization.
+The four components defined below comprise a detailed list of best practices for achieving successful AWS migration utilizing the power of the cloud factory.
+• Standardized Framework
+When it comes to migration, the Cloud Migration Factory is a reliable way to ensure consistency and predictability. This standardized framework provides clear guidance on migration strategy, tools, and methodologies to be used throughout the process. The result is a smoother and more agile migration experience and a better adherence to best practices by migration teams.
+• Automated Tooling
+This might be confusing for many, but let us explain it in easier words! The Migration Factory approach relies heavily on automation. Repetitive tasks like application discovery, data migration, and infrastructure provisioning can be automated by using various migration tools and scripts. Through this approach, you can not only speed up the migration process but also minimize the risk of human error. A win-win situation!
+• Skilled Workforce
+A skilled and trained workforce is crucial for the success of the Migration Factory. Effectively executing the migration plan requires employees with expertise in cloud technologies and migration methodologies. Without these essential skills, problem-solving and seamless execution cannot be guaranteed during migration.
+• Iterative Approach
+The approach of Migration Factory involves using an iterative methodology. You can get tremendous help through previous migrations’ feedback and lessons learned. Employ these to refine and optimize the migration process continually. This successive improvement guarantees that future migrations will be even more efficient and effective.
+Cloud Factory Migration in AWS is designed to help customers with medium to large-scale server migrations to AWS through the AWS Application Migration Service. It streamlines and automates many of the manual processes involved in migration, making the process faster and more efficient.
+• Step # 1
+Amazon API Gateway receives migration requests via RestAPIs from the migration automation server.
+• Step # 2
+With AWS Lambda functions, you can access the web interface, carry out administrative tasks to handle the migration, and connect to third-party APIs to automate the entire migration procedure.
+The migration metadata is inputted into an Amazon DynamoDB table when using the user Lambda function. The RestAPI from the API Gateway will provide standard HTTP status codes. A user pool in Amazon Cognito authenticates users to the web interface and Rest APIs. Additionally, you can configure authentication against external Security Assertion Markup Language (SAML) identity providers.
+The tools Lambda functions use external Rest APIs to process data and initiate AWS migration through CloudEndure Migration and AWS Application Migration Service (AWS MGN). Additionally, Lambda functions can launch EC2 instances through Amazon EC2 and run automation scripts on the migration automation server using AWS Systems Manager.
+• Step # 3
+When the migration metadata is stored in Amazon DynamoDB, it is sent to the AWS MGN API to start a Rehost migration job and to launch servers. In the case of a Replatform migration pattern to Amazon EC2, the Lambda function of the tools launches CloudFormation templates in the target AWS account to initiate Amazon EC2 instances.
+In addition, this solution includes an optional migration tracker component that monitors the progress of your migration. AWS Glue collects migration metadata from the Cloud Migration Factory DynamoDB table and exports it to Amazon S3. With this data, you can create visual representations and a dashboard to track the progress of your migration.
+By utilizing Cloud Migration Factory on AWS, customers can enhance performance and avoid prolonged cutover windows by automating manual processes and effectively integrating multiple tools. This is made possible through the orchestration platform options provided by this solution. Experts recommend leveraging AWS Application Migration Services to scale the workloads to AWS.
+• Accelerated Migration
+The Migration Factory approach helps organizations save time by automating and standardizing migration tasks. This makes moving applications and workloads to the cloud more accessible, allowing businesses to reap the benefits of adoption quickly. These benefits include improved scalability and reduced infrastructure costs.
+• Cost Efficiency
+Using the Cloud Migration Factory method, with its automated and standardized processes, can significantly reduce the risk of costly errors caused by human mistakes. Moreover, businesses can save on labor and operational costs by adopting accelerated migration timelines instead of prolonged migration efforts.
+• Consistent Quality
+Using a standardized framework and automation in the migration process helps maintain consistency. This, in turn, improves the quality of the migrated applications, resulting in fewer post-migration issues and less need for extensive troubleshooting.
+• Scalable Flexibility
+Cloud Migration Factory is specifically designed to handle large-scale and complex migrations. Its flexible and scalable features enable businesses to adjust to changing requirements and easily accommodate future migrations, making it an ideal approach for organizations of all sizes.
+When considering Cloud migration options, it’s vital to remember that there may be better choices than the Cloud Migration Factory for some organizations or tasks. However, the migration factory is an excellent and cost-effective option for organizations with numerous workloads that require migration within a defined timeframe aligned with their business strategy. It’s beneficial for rehost and re-platform migration cases, particularly for organizations grappling with outdated legacy applications. Furthermore, the AWS Cloud Migration can also be utilized for re-architect migrations, specifically for database migration as part of an application’s re-architecture.
+At NETSOL, we firmly believe that the cloud migration factory method is an excellent solution for organizations with specific migration needs. Our team of experts is enthusiastic about guiding your organization through a successful migration and is committed to ensuring that your business strategy is at the forefront of our process. Contact us today to discuss it further!
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

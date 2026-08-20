@@ -1,0 +1,68 @@
+https://netsoltech.com/blog/highlights-from-ai-podcast
+Blog
+AI agents, upskilling, and domain-first innovation: Highlights from NETSOL’s Transcend AI Labs podcast
+By
+NETSOL Technologies
+, on August 11, 2025
+In this episode, NETSOL’s leaders share their AI-first vision, ethics, and innovations shaping the future of asset finance in the Transcend AI Labs Podcast.
+Table of Contents
+Becoming AI-first: From mindset to execution
+Upskilling: AI literacy for all
+Agents are the new employees
+Building with domain context, not just models
+Ethical AI: A responsibility, not a choice
+A wave you can’t afford to miss
+Looking ahead: From chatbots to agentic systems
+Conclusion
+Share this Blog:
+In its inaugural episode of the
+Transcend AI Labs podcast
+, NETSOL Technologies brought together two of its key leaders, Naeem Ghauri (President & Co-Founder) and Faizan Ghauri (Chief Strategy Officer), to unpack the company’s vision, journey, and philosophy around AI, its impact on the asset finance industry, and what’s coming next.
+Here are the key highlights from their conversation:
+NETSOL’s shift to becoming an “AI-first” company isn’t just about adopting technology; it’s about rethinking how the entire organization operates. The transition started years ago, first with the move to an API-first architecture, and later with a deliberate push into AI-led innovation.
+We are not just sprinkling AI across products. It’s embedded into our strategy, planning, and every layer of innovation.”
+- Naeem Ghauri, President & Co-Founder, NETSOL Technologies, Inc.
+This evolution took root with the launch of NETSOL’s internal R&D engine, which focused on emerging technologies like microservices, DevOps, and modular development. It laid the groundwork for NETSOL’s current platforms,
+Transcend Retail
+and
+Transcend Marketplace
+, which now integrate AI capabilities across the customer journey.
+One of the most powerful cultural shifts within NETSOL came through its company-wide commitment to AI education. In 2023, the leadership launched an “AI Literacy 101” program, ensuring that every employee, from engineers to HR, was equipped with a basic understanding of AI.
+Even those not directly involved in software development need to understand how AI touches their work. We made it mandatory and then followed up with advanced training for engineering teams.”
+This emphasis on self-driven learning bore surprising results. Several AI engineers within the company emerged not through external hiring, but through internal self-training. NETSOL’s first batch of AI talent came from within, engineers who had taken it upon themselves to learn, experiment, and build.
+One of the most exciting developments discussed in the podcast is NETSOL’s focus on AI agents, intelligent systems capable of performing tasks that traditionally required human effort.
+Think of agents as digital employees. You hire them, train them on domain-specific data, and they operate 24/7, no sick days, no burnout, no retraining.”
+- Faizaan Ghauri, Chief Strategy Officer, NETSOL Technologies, Inc.
+Unlike generic chatbots, these agents are trained on SLMs (Small Language Models) tailored to asset finance workflows. This enables them to manage complex, domain-specific tasks like underwriting, collections, and customer service with greater accuracy and relevance.
+Agents can scrape data, reason, take actions, and continuously improve with each interaction. The result is significantly reduced operational costs, better customer outcomes, and scalability without adding headcount.
+A major theme throughout the conversation was domain specificity. While powerful large language models (LLMs) like GPT-4 or Claude are transforming how we work, NETSOL believes the real value lies in combining these tools with deep domain knowledge.
+Asset and auto finance is a specialized domain. Startups can build tech, but they don’t know the space the way we do. We bring decades of context, processes, and client needs into how we train our models.”
+This is where SLMs come into play. These models are fine-tuned using anonymized or client-consented data to reflect the nuances of leasing, loan servicing, and contract lifecycle management, areas where off-the-shelf models fall short.
+As the conversation turned to data governance and compliance, both leaders emphasized the critical role of ethical AI practices.
+NETSOL ensures that all AI model training is done using either anonymized data or data shared with explicit client consent. Compliance with GDPR and CCPA regulations is not just a legal requirement; it’s part of the company’s broader commitment to responsible innovation.
+AI should elevate, not exclude. We need to ensure that those who can’t upskill easily aren’t left behind. As leaders, we have a responsibility to make that happen.”
+The episode concluded with a powerful call to action: adopting AI is no longer optional.
+We’ve waited before, when the cloud came, when DevOps came, but those delays weren’t fatal. In the AI era, doing nothing is potentially a business killer.”
+-Naeem Ghauri, President & Co-Founder, NETSOL Technologies, Inc.
+For clients and peers in the industry, the message is clear: now is the time to build internal AI readiness, invest in learning, and work with partners who combine cutting-edge innovation with deep domain expertise.
+NETSOL is already deploying
+key AI features
+across its platforms:
+Intelligent Document Processing to accelerate workflows
+Helpdesk bots trained on internal documentation
+Agentic automation for high-impact areas like debt collection and onboarding
+And this is just the beginning. Voice-enabled agents, multi-agent systems, and industry-specific automation are all part of the company’s AI roadmap, ensuring that clients not only keep up but lead the way.
+This
+podcast
+wasn’t just a reflection on NETSOL’s journey; it was a roadmap for every organization in asset finance looking to stay relevant in the age of AI. As Faizaan Ghauri put it:
+“We’re not experts, we’re students. But we’re learning fast, building fast, and bringing our clients along for the ride.”
+For those ready to explore what AI can do for their business,
+watch the full podcast
+to learn how NETSOL is accelerating its AI journey and bringing clients along for the ride.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

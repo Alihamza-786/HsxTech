@@ -1,0 +1,75 @@
+https://netsoltech.com/blog/the-australian-leasing-market-shaped-by-technological-innovation
+Blog
+The Australian leasing market: Shaped by technological innovation
+By
+Farooq Ghauri
+Regional Director for APAC, NETSOL Technologies
+, on April 23, 2025
+As digital-first generations enter the leasing space, the demand for intuitive, tech-enabled solutions will only accelerate. The Australian market, with its robust digital infrastructure and innovation-friendly business environment, is well-positioned to lead this shift.
+Table of Contents
+Introduction
+The Australian economy: An overview
+The big 4: A quick assessment
+The equipment finance and leasing sector
+The automotive finance and leasing industry
+The preeminent tech trend for 2025: Artificial intelligence
+Conclusion
+Share this Blog:
+As Australia enters 2025, its finance and leasing landscape is evolving rapidly. Shaped by a combination of economic forces, technological advancements, regulatory changes and shifting consumer expectations, the sector is adapting to meet the needs of businesses and individuals.
+Despite the current state of the economy and interest rates, the Australian finance and leasing industry is expected to remain robust, driven by both traditional financial institutions and innovative fintech solutions.
+After a period of unprecedented growth in the past, Australia is now trailing behind other developed countries due to rising cost-of-living pressures and productivity challenges. In contrast to other major developed economies, Australia managed to avoid a recession following the worst economic downturn since the Great Depression. However, currently, Australia’s economy is growing at its slowest pace since the early 1990s, excluding the global health crisis (COVID-19) and is falling behind many of its counterparts.
+According to the Australian Bureau of Statistics, the country’s GDP grew by only 0.8% year-on-year during the first three quarters of 2024, compared to 3.1% in the United States and 1% in the European Union. Like many other nations, Australia experienced a surge in prices following the pandemic, with inflation peaking at 7.8% in December 2022, while wages remained stagnant. The real GDP increased by 0.3% in the three months ending September 2024, up from 0.2% in the preceding quarter.
+Following the 1992 recession, Australia saw an unparalleled, record-setting 28 years of continuous economic growth until the pandemic hit in 2020. Since recovering from the health crisis, the economy has struggled to gain momentum, weighed down by rising interest rates, declining productivity and reduced demand for Australian exports like iron ore.
+Much of the financial strain the country has experienced has been driven by higher mortgage payments due to successive interest rate hikes by the Reserve Bank of Australia (RBA). After slashing the benchmark rate to near zero in response to COVID-19, the RBA increased the rate to 4.35% in a series of moves designed to curb inflation. Treasurer Jim Chalmers, in September 2024, highlighted the higher interest rate environment as a key factor behind the slowdown, stating that the rate hikes were “damaging the economy.”
+“Australia's economy is clearly in a prolonged slow patch, and while that is bad news for sustainable improvements in real incomes and living standards, it is the deliberate outcome of increasing interest rates to control inflation,” Chief Executive of the Australian Industry Group Innes Willox stated.
+Australia’s major banks have shown resilience despite economic uncertainty. According to their
+full financial year results
+, the combined profit after tax for the major banks totaled $29.9 billion, reflecting a 5.7% decline compared to FY23. Return on average equity also dropped by 80 basis points, averaging 10.9%.
+KPMG’s team of experts offered a comprehensive analysis of the four major banks’ full-year results, providing insights into key opportunities for banks to continue evolving or investing in. According to them, digital transformation across the major banks is reshaping the industry, with a focus on the critical interaction between technological innovation, customer-centric strategies and ensuring security and trust.
+In FY24, technology spending rose by 15.2%, reaching $8.9 billion across the major banks, as they accelerated their digital transformation efforts and initiatives. The emphasis is shifting towards digital banking and modernizing core platforms.
+Additionally, banks are intensifying their efforts to explore and adopt important technologies like AI and ML, supported by a strong data infrastructure. These innovations streamline operations and substantially decrease costs, allowing banks to offer more personalized and convenient services to customers. At the same time, insights from KPMG's Global Tech survey showed that 81% of CIOs are concerned about keeping up with the rapid pace of change.
+“We are at a critical digital juncture. The ability to relentlessly orchestrate multiple, complex, concurrent changes whilst harnessing new technology will increasingly differentiate banks,” said Janine Woodside, Partner, Financial Services Transformation at KPMG Australia. “And customers stand to be the winners.”
+According to the World Leasing Yearbook 2025, in Australia, four key products dominate equipment capital expenditure: finance leases, operating leases, hire purchase and chattel mortgages or secured loans (the latter categorized as non-lease). These products are part of a range of
+equipment financing
+options offered by both bank as well as non-bank providers, including many that have partnerships with equipment manufacturers. Customers span both private and public sector industries.
+Pertaining to market participants in the country, finance companies including bank-owned lenders, general financiers and captives, alongside banks, have conventionally been the primary providers of lease finance. In recent decades, most bank-owned finance companies have either been integrated into their parent banks or sold off. Although banks have recently been the dominant source of leasing and equipment financing, improvements in funding access has allowed captives and independent providers to increase their market share.
+Australia also continues to witness the rise of fintech equipment finance providers that leverage digital processes and technology solutions to engage with customers. The focus on simpler and more efficient application processing, as well as enhanced data and asset management, is fostering greater competition and innovation in the market.
+The Australian Finance Industry Association (AFIA) stated that as of June 30, 2024, new equipment finance (inclusive of fleet leasing) was valued at A$39.83bn, representing a 2.6% increase compared to the 2022-23 financial year.
+As with previous years, the annual publication shared that funding by equipment types in 2023-24 was primarily distributed across the following categories: cars and light commercial vehicles, trucks, trailers and buses, mining and earthmoving equipment, and agricultural equipment. Chattel mortgages remained the most preferred origination product. Novated leasing products saw significant growth during the year, making up over 80% of all equipment finance lending in 2023–24.
+The demand for auto loans continues to rise, with lending indicators from the Australian Bureau of Statistics reporting a 4.9% increase in personal loans for vehicles. In July 2024, the total value of new car loans reached $1.55 billion, up from $1.32 billion in July 2023. More Australians are opting for
+car finance
+when purchasing vehicles, marking a recovery from the significant drop in car loan applications in 2020.
+According to the Transport Affordability report by the Australian Automobile Association, the national average for car loan payments is $211.87 per week, or $11,017 annually, reflecting an $88 increase since the first quarter of 2024.
+The report also showed a slight increase in car loan payments across all capital cities and regional centres. Western Australia had the highest car loan payments, while Brisbane had the lowest. Overall, car loan payments in both capital cities and regional centres are quite similar, suggesting that the loan amounts are consistent across Australia, regardless of location.
+The Consumer Sentiment Tracker revealed that Australians spend an average of $12,346 on their car loans. When broken down by age group, the data showed that Millennials and Gen Z are the most likely to have an auto loan, with 23% and 26% of each group, respectively, carrying an auto loan. Interestingly, Gen X has the lowest likelihood of holding a car loan, with only 7% having one. However, they carry the highest average debt, amounting to $13,915.
+The Australian Government has introduced new low-interest loans for
+electric vehicles (EVs)
+, offering buyers the opportunity to save thousands on the purchase of both new and used EVs through government-backed financing. The scheme was unveiled by Minister for Climate Change and Energy Chris Bowen at a BYD dealership in Sydney in December 2024.
+The federal government announced this new loan scheme to support the purchase of battery electric vehicles (BEVs), reducing the cost of EV loans and home EV charging equipment by up to 5% for individuals earning less than $100,000 annually, as well as essential workers such as the police and paramedics.
+Administered through the Commonwealth Bank with a $150 million contribution from the Clean Energy Finance Corporation, the scheme is expected to save buyers around $8,000 on a $40,000, seven-year EV loan, with a cap of $55,000, and is limited to BEVs only.
+BEVs will continue to benefit from the scheme, offering substantial savings for workers purchasing a vehicle through a novated lease. This low-interest loan initiative is expected to help stimulate BEV sales, which slowed to a growth rate of just 3.1% in 2024. Most of the growth in Australia's electrified vehicle market in 2024 has come from PHEVs, albeit from a low starting point, as well as hybrids.
+According to new research from the
+Tech Council of Australia and Datacom
+, Australia’s tech leaders believe that businesses have a major opportunity in 2025 to leverage AI for enhanced efficiency. The 2025 Australian Tech Leaders Survey, released in January 2025, highlighted AI as the top technology trend for the coming year. One-third of survey participants indicated that AI offers the greatest potential for businesses.
+Chief Executive Officer and Board Director of the Tech Council of Australia CEO Damian Kassabgi stated: “AI is transforming how businesses are run and these gains aren’t limited to the tech industry; increasing AI and tech adoption will deliver benefits across the economy. AI has the potential to create 200,000 jobs and $115 billion in economic value by 2030, which will be critical to turning around Australia’s declining productivity. While 2024 was a big growth year for AI, there is huge potential for businesses to further embrace AI to work smarter and boost productivity.”
+Commonwealth Bank is among a select group of banks worldwide to offer customer-facing messaging services powered by Generative AI. The bank highlighted how AI is transforming the experiences of its more than 10 million customers and enhancing customer safety, convenience and recognition.
+During a strategic update in Sydney, the bank demonstrated how
+technology and AI
+are contributing to several improved customer outcomes, including:
+A 50% decrease in customer scam losses, supported by AI-driven safety and security features like NameCheck, CallerCheck and CustomerCheck
+A 30% decline in customer-reported fraud, thanks to tools such as Gen AI-powered suspicious transaction alerts
+AI-driven app messaging, which helped reduce call center wait times by 40% in the past financial year
+“With more than one in three Australians and almost one in four businesses considering us their main financial institution, we have a huge customer base to serve,” said CBA CEO Matt Comyn. “Their preferences and expectations continue to shift, and we aim to meet them by delivering distinct, differentiated and compelling propositions. Technology, and AI in particular, are critical in meeting this ambition. AI allows us to deliver better experiences to more customers at a faster rate, and we’re already seeing significant benefits in a variety of use-cases.”
+Australian RegTech companies are also utilizing AI and ML to provide innovative solutions for analyzing regulatory requirements, monitoring compliance and fulfilling reporting obligations. They are empowered by real-time compliance tracking and risk evaluation, allowing organizations to navigate complex regulatory environments with greater efficiency.
+Monetary policy tightening by the Reserve Bank of Australia (RBA) to curb inflation has led to higher borrowing costs, impacting both personal and commercial lending. This is especially relevant in the leasing market, where interest rates play a pivotal role in determining leasing costs for businesses. Other challenges such as compliance and cybersecurity risks will need to be addressed to ensure the continued growth and stability of the sector.
+The Australian government and regulatory bodies, such as the Australian Prudential Regulation Authority (APRA) and the Australian Securities and Investments Commission (ASIC), are likely to implement stricter regulations to ensure that financial institutions act in the best interest of consumers.
+The Australian finance and leasing landscape is also being shaped by the increasing popularity of alternative financing models, driven by both technological innovation and changing market demands.
+The Australian consumer is becoming more financially-savvy and demanding in 2025, which is influencing the finance and leasing sectors. With the rise of digital platforms, consumers now have access to a wealth of information and tools that empower them to make informed financial decisions. This shift is leading to new expectations for convenience, transparency and flexibility in financial services.
+The growth of digital finance, coupled with the rising demand for flexible, sustainable and transparent financial products, presents significant opportunities for both traditional financial institutions and fintech startups.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

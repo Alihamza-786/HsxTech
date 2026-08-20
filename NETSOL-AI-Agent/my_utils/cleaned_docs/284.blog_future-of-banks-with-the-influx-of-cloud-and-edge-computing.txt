@@ -1,0 +1,56 @@
+https://netsoltech.com/blog/future-of-banks-with-the-influx-of-cloud-and-edge-computing
+Blog
+The Future of Banks with the Influx of Cloud and Edge Computing
+By
+NETSOL Technologies
+, on January 3, 2023
+With NETSOL, hybrid cloud and edge computing, you can achieve your dream and maximize outcomes.
+Table of Contents
+Cloud Computing vs. Edge Computing
+Need for Cloud and Edge Computing in the Banking Sector
+Hybrid Infrastructure, Cloud and Edge Computing
+Cloud and Edge Computing Leading to Revenue Generation with Freedom!
+Share this Blog:
+Despite their reputation for conservatism, banks are increasing their investment in cloud services to innovate, cut costs, and become much more agile in this modern era.
+Global cloud spending by banks is predicted to cross the benchmark of $ 77 billion by 2024.
+– IDC, Market Intelligence & Research Firm
+The reputed market research firm
+IDC
+predicts that by the end of 2024, global cloud spending by banks will reach $77 billion, an increase of more than 16% yearly from 2016.
+Leaders in the banking industry are shifting their focus to the cloud because they recognize that if they want to compete with state-of-the-art banks and FinTechs, they need to be more agile and responsive. They must also be prepared for the subsequent major development in business infrastructure and edge computing, bringing processing power closer to the end-user or consumer.
+Did you know that 67% of the executives agree their mainframe workload should be repositioned as per cloud and edge computing solutions?
+– Accenture
+An overwhelming majority of bank executives surveyed by
+Accenture
+agreed that more than half of their mainframe workloads should be moved to the cloud within the next five years.
+Before analyzing the potential of cloud and edge computing in the banking sector, it’s vital to learn about them and their differences.
+First, let’s understand the meaning behind the
+cloud and edge computing
+. The term ‘cloud’ describes a specific type of network architecture in which Information Technology (IT) resources are pooled, shared, and accessed abstractly. The term ‘edge’ refers to the hardware and software deployed at the peripheral nodes of a network. Running applications on the cloud is known as cloud computing, whereas running applications on edge devices is known as edge computing.
+Now it’s crucial to understand the difference between cloud and edge computing before evaluating its influence on the future of financial institutions.
+First, it’s vital to recognize that cloud and edge computing are distinct, non-interchangeable technologies. Data that requires immediate attention should be processed by edge computing, whereas less time-sensitive data can be handled by
+cloud computing
+In addition to reducing latency, edge computing is favored over cloud computing in areas with spotty or nonexistent internet service. Edge computing is ideal for these places since it enables local storage, an algorithm identical to a mini data center.
+Intelligent and specialized gadgets can also benefit from edge computing. While the functionalities are identical to PCs, these gadgets are not your standard, multipurpose computers. These intelligent computers have been designed to interact with specific machines. While advantageous in some cases, this narrow focus can be a problem for edge computing in sectors where rapid response times are crucial.
+This is a crucial time for financial institutions to be at the forefront of innovation and build data-intensive AI capabilities into their software. It’s the only way to match their rivals’ sleek user interfaces, innovative features, and simple operations. To remain competitive, financial institutions must offer more low-interest rates on loans and checking accounts.
+The growth of cloud computing has its roots, at least in part, in the competitive advantage the cloud offers customers in terms of cost, flexibility, and scalability.”
+– NBER (National Bureau of Economic Research)
+NBER (National Bureau of Economic Research)
+shared its viewpoint on the benefit of hybrid cloud and edge computing in the banking sector. As per them “The growth of cloud computing has its roots, at least in part, in the competitive advantage the cloud offers customers in terms of cost, flexibility, and scalability.”
+In the face of pandemics, unexpected increases in interest rates, or new opportunities brought about by changes in legislation or regulation, it’s essential to recall companies’ challenges with extensive on-premise IT infrastructures as they attempt to meet remote working demands.
+With the rise of Non-Fungible Tokens (NFTs), banks are pressured to adopt policies accepting cryptocurrencies, cardless payment platforms, and other related innovations. The inherent scalability and adaptability of the cloud are necessary for institutions to efficiently deliver or manage these capabilities.
+The Prudential Regulation Authority of the Bank of England is concerned about the security of public cloud providers while UK financial institutions are migrating to them, warning of the perils of vendor lock-in and excessive reliance on a few firms. The data protection and sovereignty regulations of the United Kingdom and the European Union make it highly risky to store sensitive information with US hyperscalers.
+Because of these limitations, a hybrid infrastructure that combines public cloud and on-premise environments is the clear choice for banks. By striking a balance between adaptability and safety, financial institutions can deploy application workloads where they will be most productive or safest. However, hybrid cloud and edge computing are essential due to the requirement for dispersed technologies that allow users in far-flung areas to safely access AI-based solutions and mobile applications.
+By moving data and workloads to regional data centers, edge computing, in tandem with 5G connectivity, eliminates location-based disadvantages, allowing devices, apps, and end-users to benefit from lower latency responses. It’s easy to understand how this would help financial institutions who want to provide advanced payment options, such as personalized and instantaneous processing.
+Edge computing is necessary for any solution that makes decisions based on the customer’s location.
+New
+cloud management tools
+will bring hybrid cloud and edge computing to banks. The most forward-thinking financial institutions will benefit from flexibility and creativity from cloud and edge computing in the next ten years. These companies will develop innovative, hyper-personalized applications and new business models throughout the decade, confident they can flex, grow, or scale as needed. They’ll be data-driven and dynamic, utilizing hybrid infrastructure and edge computing.
+There is no doubt that edge and cloud computing can change the game for modern enterprises. Generating revenue with freedom, scaling the business and taking it to the next level, and focusing on data-driven strategies can alter the business’s future. With NETSOL, hybrid cloud and edge computing, you can achieve your dream and maximize outcomes. Want to know more? Contact Us, and our representative will gladly guide you!
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

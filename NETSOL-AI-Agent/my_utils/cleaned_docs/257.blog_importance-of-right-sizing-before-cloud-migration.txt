@@ -1,0 +1,88 @@
+https://netsoltech.com/blog/importance-of-right-sizing-before-cloud-migration
+Blog
+Importance of Right Sizing Before Cloud Migration
+By
+NETSOL Technologies
+, on July 14, 2023
+Every business owner nurtures the inherent desire to monitor their business's overall spend in an attempt to maximize profits with the best ROI.
+Table of Contents
+Why Do You Mean by Right-Sizing?
+Two Reasons You Should Right Size
+The Main Problem of Businesses When Migrating to the Cloud
+Lessen the Hassle!
+Right Sizing, Reduced Expenses
+Right Sizing the Databases
+AWS Right Sizing – Ensuring A Dramatic Difference!
+Share this Blog:
+Every business owner nurtures the inherent desire to monitor their business’s overall spend in an attempt to maximize profits with the best ROI.  Consequently, most organizations migrate to cloud computing to reduce costs and save on infrastructure expenditure. Despite cloud transitioning has become a trend, a trend, you can only effectively migrate with solid upfront calculations and an understanding of the process.
+However, some companies are often disappointed with the end results. Following the workload migration to the public cloud, many businesses reported inefficiencies and saving that didn’t materialize. Bian & Company shared a report in which enterprises were disappointed with under-deliveries after migration to cloud computing. The cost of ownership doesn’t decline, instead increases in many cases. So, what went wrong?
+“Skipping right sizing in AWS can save time by speeding the migration process. But you will end up with high cloud infrastructure spend.”
+– AWS Whitepaper – Right Sizing Provisioning Instances to Match Workloads
+In a whitepaper by
+AWS named Right Sizing Provisioning Instances to Match Workloads,
+they concluded that businesses can significantly reduce their infrastructure costs by using the AWS right sizing before a migration. But many companies skip this crucial part to speed up the migration procedure, resulting in the highest cloud infrastructure spend that potentially lasts longer.
+Now addressing what went wrong. According to AWS Migration Evaluator,
+84% of the on-premise
+workloads are overprovisioned. When businesses migrate their workload to the cloud, they simply send excessive computing and storage capacity during the process. This causes chaos, which makes the migration an overload instead of efficient. Resultantly, businesses end up transferring their existing inefficiencies instead of efficiencies. Experts are now calling this scenario “Life and Shift.”
+The terminology “AWS Right Sizing” may come across as unfamiliar. Some businesses, however, may have heard about it, yet are still failing to adopt it. So, if this is a new concept, let’s familiarize ourselves with it.
+Right-sizing is a process where businesses can balance and meet the exact demand of their companies by modifying, upgrading, or downgrading their existing cloud infrastructure. This is particularly beneficial in public cloud environments, where businesses can right-size a wide range of services and reduce monthly costs by up to 50%.
+By identifying underutilized resources, right-sizing enables you to make effective decisions, such as vertically adjusting the resources allocated to an instance or releasing them together. Two key elements that can be right-sized are instance size and volume types. You can switch to a smaller size if an instance is underutilized. Additionally, disk storage type and performance can also be adjusted through the right sizing.
+There are two AWS right-sizing recommendations to consider:
+Firstly, the workload isn’t resource intensive any longer.
+Secondly, you might have overprovisioned the computational power accidentally or intentionally.
+Let’s take an example
+If you have 50 Virtual Machines (VMs) in your cloud environment which are not being fully utilized, resizing or deleting some instances may be more efficient. This way, the workload can still run effectively while using fewer resources.
+Many on-premises workloads are over-provisioned, with an excess of computing power, memory, and storage that is unnecessary for efficient operation. This happens when IT operations purchase more hardware than required, especially for mission-critical workloads to meet peak demand.
+Scaling out with more servers increases compute capacity but also adds power, cooling, and management costs. This practice can also occur when moving to cloud-based services through a lift and shift method, which transfers existing inefficiencies to a new location.
+So, what’s the remedy? The suggested route is to remove excess resource capacity to
+lower cloud migration costs by up to 60%
+and reduce long-term cloud workload costs.
+Forrester Research
+also recommends addressing wasteful cloud usage to manage cloud costs effectively.
+When it comes to managing workloads, it’s essential to ensure that the amount of storage and computing power used is appropriate for the task at hand. To achieve this, organizations can analyze data on workload demands over a period of time to determine the average and peak resource consumption.
+This is especially important for companies planning to move to cloud-based services. With AWS EC2 right sizing, businesses can take a thorough and disciplined approach to right sizing IT resources, where they
+can save between 30% to 60%
+on operational and capital expenses.
+“We’ve been able to seamlessly scale our infrastructure, better serve our customers across the globe, & reduce our fixed costs by 75% & operational costs by 83%.”
+The CTO at AdRoll, Valentino Volonghi, shared that they have seamlessly scaled their infrastructure and started serving the customers better with the right sizing. They successfully reduced the fixed cost by 75% and the operational cost by 83%.
+To control cloud costs, it’s best to apply the right sizing. With EC2 right sizing, businesses can analyze the performance and usage of instances. With thorough analysis, they can shut down any instances that are not being used and adjust the size of any that are too big for the workload.
+Since a company’s resource needs change over time, right-sizing should be done regularly to keep costs low. Users can make right sizing easier by establishing a schedule for each team, using tags for all instances, and using tools from cloud providers like AWS, GCP, and Microsoft Azure.
+Let’s discuss different approaches to right sizing and the benefits of each.
+Based on the Usage of Patterns
+Businesses monitor their performances thoroughly. By doing so, they can identify the usage patterns to maximize the potential of the AWS right sizing options. For instance:
+Steady State
+The load remains constant for a long time, allowing the compute load to be accurately forecasted.
+Variability with PredictabilityWith rightsizing AWS, organizations can conveniently witness variable loads on a predictable schedule.
+Developing and Testing
+In this approach, the environments are usually used during business hours. This allows them to be shut off when not required, especially during the evenings or weekends.
+Temporary
+The temporary workloads come with flexible starting times. Per AWS’s right-sizing recommendations, enterprises can consider placing the bid for Spot Instances rather than On-Demand Instances.
+Switching Off Idle Instances
+To lower expenses, one of the most effective methods is to turn off instances that are not currently being used. If an instance has been idle for two weeks or more, it may be safe to terminate it.
+However, it is crucial to consider a few factors before doing so, such as:
+Determining the owner of the instance
+Understanding the impact of termination, and
+Assessing the difficulty and probability of recreating the instance if needed
+Another way to save on costs is to halt instances used for development and testing during non-business hours. This can result in up to a
+70% reduction in expenses
+for companies with a 50-hour work week. Once capacity is needed again, the instances can be restarted.
+Selecting the Right Instance Family, Making the Right Choice
+To reduce costs, you can resize your instance by switching to a different model within the same instance family or to another family. When resizing within the same family, consider the vCPU, memory, network throughput, and ephemeral storage. If your CPU and memory usage remains below 40% over a month, you can reduce the machine size safely.
+If you switch to a different instance family, ensure the new instance is compatible with the current virtualization type, network, and platform. Note that the resized instance will have the same instance store volumes as the original instance.
+To meet changing performance and capacity needs, you can adjust the memory of your database instances. However, remember that scaling up or down won’t affect your storage size. If you need more storage or better performance, consider changing the storage type of your cloud instance.
+Before scaling, ensure you have the proper licensing for commercial engines like SQL Server and Oracle. Lastly, decide when to make the change and whether you want it to take effect immediately or during the instance’s maintenance window.
+AI insurance companies are beginning to provide tools that offer personalized insurance plans based on machine learning and
+artificial intelligence models
+trained on individual customer preferences, such as personalized recommendation systems.
+TSO Logic, a partner of AWS specializing in migration competency, conducted a statistical analysis of 105,000 operating system instances in North America. The study by Mark Schwartz found that only 16% of the instances were accurately provisioned for their workloads. 84% of the instances were running on more giant footprints than necessary, which would result in substantial losses if replicated directly to the cloud.
+The results show that organizations could have reduced their AWS cloud expenses by 36% using optimally sized resources. In other words, rightsizing alone could have saved them over $55 million annually.
+This analysis demonstrates the significant impact of rightsizing. It allows organizations to optimize instances and retain only the resources needed for their workloads, saving them large amounts of money on wasted cloud spend.
+Therefore, it’s essential to consider visibility, ownership and permissions, lifecycle, and optimization to effectively manage cloud costs. By understanding these factors, NETSOL can identify new cloud instances and gain a deeper understanding of cloud resource usage.
+However, this process can take time, even for businesses with ample resources. Partner with NETSOL to efficiently manage right sizing AWS and cloud instances while managing overall spending.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

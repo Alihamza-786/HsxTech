@@ -1,0 +1,77 @@
+https://netsoltech.com/blog/crypto-the-effects-on-traditional-financial-services
+Blog
+Crypto: The effects on traditional financial services
+By
+Jay Edwards
+Vice-President Sales and Wholesale Product Manager at NETSOL Technologies Inc.
+, on March 29, 2023
+Even though the world of blockchain and cryptocurrency is growing exponentially and gaining impressive popularity, traditional financial services providers are hesitant to adopt these digital assets. They visualize crypto's inherent risks as outweighing the benefits it offers.
+Table of Contents
+Cryptocurrency and Financial Services
+Share this Blog:
+Immutable, encrypted, distributed ledger and cryptocurrency capabilities could have an insightful and prominent effect on the financial services industry in the next few years. By embracing Cryptographic Distributed Ledger Technology, players in the financial sector can convert each consumer into a loyal customer.
+The regulatory agency, the Office of the Comptroller of Currency (OCC), wants to change the perception of banks. The OCC believes that crypto has the power to drive financial institutions and push the boundaries of digital innovation positively. They have also announced that national banks and federal savings associations should use stablecoins and public blockchains for payment activities.
+In 2021, the total transaction volume of cryptocurrency grew to $15.8 trillion, according to US-based Chainalysis. That's 567% higher than the 2020 totals. The NBFIs (Non-Bank Financial Institutions) have switched to crypto rapidly compared to traditional financial services.
+Bruce Weber the dean of Lerner College and Andrew Novocin an electrical and computer engineer at the University of Deleware, comment that traditional financial services providers believe financial operations that have limited traceability and low transparency are vulnerable to advanced blockchain applications. Even though they thought that crypto assets need expensive due diligence, digital currencies offer a new world for these organizations, which can impact their operations constructively.
+Mike Demissie, the Head of Digital Assets and Advanced Solutions at BNY Mellon stated that the volatility in digitized assets highlights the need for robust risk frameworks, regulated financial products, and collaboration across the globe. And in such a stance, traditional financial services should play a vital role.
+What makes the traditional banking space hesitant to adopt crypto is its power. The sector is frightened of the power it holds, damaging its need in customers' lives. Due to financial institutions, people who weren't accessing the trading sector can now do so. It diminishes the need for traditional financial services providers with the rise of crypto technology.
+More than 600 traditional banking branches closed in the United Kingdom from 2015 to 2016. The alarming ratio also confirms a 40% reduction in the number of people visiting physical branches. Considering such factors, the impact of crypto on traditional institutions is enormous. The need for physical banking may get obsolete, hindering the sector from embracing advanced technology.
+Due to crypto's continual volatility and a significant proportion of illegal usage, the financial risks are recognized by many institutions. It's especially true when authorities began to view banks as more of a target following the 2008 financial crisis.
+In recent years, the crypto industry's efforts to strengthen fraud detection and improve anti-money laundering systems have considerably reduced unlawful activity. The new chapter in the evolution of cryptocurrencies has already begun with security improvements where a unified regulatory environment emerges, and CBDCs and stablecoins experience stability. Now is the time for financial services providers to join the movement, or they risk having to catch up in the future.
+Traditional financial services have a considerable advantage over NBFIs in facilitating the widespread adoption of digital currencies due to their direct involvement with the clearing and settlement system, enduring consumer trust, and experience designing consumer protection regulations with governments. As a result, cryptocurrencies' acceptance, transaction, and settlement will unquestionably expand rapidly when they play a significant role. However, banks must have a good crypto strategy to stay ahead of the competition and produce competitive offerings.
+Financial Sector Hesitant to Embrace Crypto
+The Association of Certified Anti-Money Laundering Specialists (ACAMS) confirms that 63% of people involved in the financial industry perceive cryptocurrency as a risk. They do not view it as an advanced state-of-the-art opportunity.
+Crypto assets developed as an alternative to traditional financial infrastructure, as they do not require an intermediary and are not reliant on the capacity of a centralized government, bank, or agency. During these transactions, the customer trusts the blockchain process, eliminating the need for a centralized middleman. The decentralized nature of crypto makes everything possible with blockchain unaltered code.
+For many investors, the asset losses the attractive worth as the central bank administers the cryptocurrency. For this reason, some banks do not feel they can penetrate the market successfully. The core belief is that the currency's decentralized nature undermines the authority of central banks, leading some to fear that they will no longer be necessary or unable to govern the money supply process.
+The other concern that makes traditional financial services hesitant to adopt crypto is its anti-money laundering (AML) and know-your-customer (KYC) concerns. Cryptocurrencies enable peer-to-peer transactions without a regulated third-party, allowing users to move funds swiftly and without incurring transaction fees. Here, the transaction gets complete without intervention from a specific bank or financial institution. These transactions are associated with transaction IDs available on
+blockchain technology
+Due to this form of pseudonymity, many banks are concerned about the lack of AML and KYC laws governing digital currency transactions. Often, banks believe transactions made through cryptocurrency cannot be traced for AML and KYC purposes, which could result in criminal activities and fraud on the network.
+Volatility is also a concern. In general, the price of cryptocurrencies (Bitcoin in particular) has been erratic throughout their brief existence. There are numerous causes for such peaks, such as market size, liquidity, and market participation. Traditional financial institutions view this as a danger because the price has not been consistent historically. Thus, they continuously fear that the currency may not be a stable investment vehicle in the future.
+Involvement of the Financial Industry in the Crypto World
+Traditional financial services providers must understand the concept and assess crypto's incredible benefits. To avoid falling behind, they must find a way to embrace new technology and view it as an ally, not an adversary. The adoption of cryptocurrencies could expedite, improve, and modernize financial services, and numerous recent industry developments can alleviate banks' fears regarding the risks and allow them to grasp the potential benefits.
+Recently, the OCC revealed that all financial institutions could offer crypto custody services. These services are for the customers, including storing the unique cryptographic keys required to access private wallets. Through such custody services, the OCC believes that financial institutions could retain either the cryptocurrency itself or the key to accessing crypto on a customer's digital wallet securely and effectively.
+The banking sector also requires expert assistance. The financial industry can manage by creating tools that enable the adoption of cryptocurrencies by their customers. Here, banks might help bring in novel, less proficient individual investors. For example, an unskilled bitcoin investor might not be able to create a crypto wallet to store their money. Rather than leaving their bitcoin "off-exchange" or with an unregulated third-party, it may be easier and more secure for them to store it at a reputable banking institution.
+Banks can also offer cryptocurrency accounts that accrue interest, allowing users to invest in blockchain technology in the future. By serving as a trusted third-party that is well-respected in the financial world and can safeguard clients' funds, the sector may alleviate some of the anxiety of investors who are not specialists in the subtleties of crypto.
+Now comes the management of AML and KYC regulations and their implementation. The FinCEN (Financial Crimes Enforcement Network) concluded that in 2019 all cryptocurrency transactions and custody services conducted by crypto firms believed that money service organizations must continue to comply with the laws of AML and KYC. The step will assist in preventing fraudulent transactions, criminal behavior, and fraud on the sites. This legislation could help banks and larger financial institutions conduct due diligence on consumers engaged in crypto transactions, thereby alleviating their concerns regarding the risks posed by these transactions.
+There is even a chance that blockchain technology could automate AML and KYC checks. Blockchain can facilitate a streamlined view of shared individual data between loan officers, financial institutions, and other parties. In other words, blockchain can hold all the client's data in a single place. All financial institutions can employ blockchain data. It allows for rapid assessments of consumers to discover any red flags indicating criminal conduct immediately.
+By embracing crypto, traditional financial institutions can lessen bitcoin holders' security fears. Managing private wallets and exchanges is a source of anxiety for many holders. These institutions with a solid reputation could assist in protecting digital currencies from theft or hacking, putting clients' minds at ease. Bringing cryptocurrencies under the oversight of banks could help reduce criminal activity and the perception that cryptocurrency transactions are not safe for outsiders.
+Payments are also crucial here. According to the most recent OCC letter, banks may use public blockchains, including stablecoins, to accelerate payment operations. The technology offers a faster, less expensive alternative to clearing houses when processing transactions. If banks adopted blockchain technology, clearing and settlements might take place rapidly.
+The world of crypto offers smart agreements. When agreeing to a smart contract, parties require less trust because the transaction's success depends on computer code rather than human conduct. Banks may bolster this confidence by utilizing these smart contracts for mortgages, commercial loans, letters of credit, and other financial transactions.
+Catalysts for Growth
+Traditional
+asset finance software
+providers must overcome the anxiety of scalability, volatility, and regulatory uncertainty to reach new heights. They must consider three major catalysts for growth in this regard.
+Market Demand:
+Customer interest and adoption are critical signals for future investments. In addition, the rate at which central banks accept digital currencies will significantly impact the market's development.
+Profitability:
+Ultimately, incumbents must view new crypto applications with incremental solid business cases. It should not prohibit financial institutions from experimenting, but if spreads tighten, they will need to consider unit economics over time.
+Supply Readiness:
+Given the requirement for a unique experience and intellectual property, incumbents must observe the expansion of the ecosystem of providers in the market as well as recruit their blockchain talent.
+Roman Regelman, CEO of Securities Services and Digital at BNY Mellon believes in crypto and its positive
+impact of 5g connectivity
+. According to him, the clients of traditional
+asset finance solutions
+expect a genuine combination of trust and modernization across all platforms and services and desire seamless, innovative, cross-asset solutions and user experiences.
+Financial institutions must also consider the significant inhibitors for growth. Instead of accelerating the transition to crypto and adopting blockchain technology, they must also consider the effects.
+Sense of Threat:
+Some crypto use cases reduce friction and transaction fees from the current financial system, posing a threat to established businesses. Financial institutions must proceed cautiously and evaluate the short and long-term consequences of upending an existing business model.
+Cyber-Specific Danger:
+In 2021, cryptocurrency-based crime reached a new all-time high, with criminal addresses collecting $14 billion, up from $7.8 billion in 2020. A total of $3.2 billion was lost the same year in cryptocurrencies, of which 72% got stolen via DeFi protocols.
+Scalability and Long-Term Viability:
+Despite tremendous growth, digital assets account for less than 1% of global financial value. In addition, the speed and throughput of various chains continue to be abysmally poor compared to existing payment networks. Transaction costs (such as Ethereum's gas fees) remain high in other circumstances, mainly when networks are overloaded. As expected, crypto investment returns anticipate declining over time, and consumer interest may wane.
+Regulatory Ambiguity:
+The most significant obstacle to future investments is the absence of a transparent regulatory environment. Numerous uncertainties persist regarding the validity of digital assets and the jurisdictional power of the various regulators. In this atmosphere, many incumbents are unwilling to test the limits of regulation, especially when the value-generating potential of some business cases remains questionable.
+Traditional financial institutions should explore cryptocurrency technology instead of neglecting its importance and the power it holds. There is no doubt that crypto and blockchain are the future. While mitigating the risks, the sector must debate the use cases and commit to learning more about the space.
+Reference List:
+https://www.wolfandco.com/resources/insights/how-cryptocurrencies-may-impact-the-banking-industry/
+https://www.heidrick.com/en/insights/crypto-digital-assets/the-future-of-crypto-and-blockchain
+https://thepaypers.com/thought-leader-insights/what-role-can-traditional-financial-services-play-in-the-crypto-universe-2--1256989
+https://www.teneo.com/insights/articles/crypto-in-financial-services-does-crypto-technology-present-a-threat-or-an-opportunity-for-financial-services-companies/
+https://www.reuters.com/markets/us/crypto-crime-hit-record-14-billion-2021-research-shows-2022-01-06/
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

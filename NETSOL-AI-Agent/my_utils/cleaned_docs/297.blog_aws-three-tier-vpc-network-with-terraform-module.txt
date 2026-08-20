@@ -1,0 +1,61 @@
+https://netsoltech.com/blog/aws-three-tier-vpc-network-with-terraform-module
+Blog
+Creating a Multi-tier, Highly Available VPC Network in AWS using Terraform
+By
+NETSOL Technologies
+, on June 6, 2022
+The AWS VPC architecture is technical but fruitful once you get a hold of it. Through this coding guide, create an AWS 3 tier architecture security for your system with a robust Terraform internet gateway.
+Table of Contents
+Share this Blog:
+The multi-tier or three-tier network is an enterprise-level architectural solution, delivering high performance with phenomenal security to the end user. Each component in the design gets separated into different tiers. These tiers are differentiated as a website, application, and database.
+Developers and designers build robust web applications by separating the user interface and splitting the logic and the data. In the AWS VPC architecture, developers use Terraform to build and deploy an operational AWS 3 tier architecture security with NACLs (Network Access Control Lists).
+Not sure what a Terraform is? It is a tool for changing, building, and versioning the infrastructure. With Terraform, the developers operate the overall infrastructure, automate the coding process, and manage low-level components like networking and storage. Terraform also handle the DNS (Domain Name Server) entries and SDN (Software Defined Networking).
+What is Multi-Tier Architecture in AWS?
+You will find three logical and physical computing levels in the three-tier architecture. “Presentation Tier” is the first one specified for the clients. The second one is called “Application Tier,” fixed for the developers as a logic tier. And finally, the data tier.
+The multi-tier architecture in AWS is a viable choice for developing and deploying software projects to get started swiftly. The three-tier architectural pattern also provides a base framework that ensures independently scalable and decoupled application components. These can be separately deployed, maintained, and managed by the developers.
+Creating A Multi-Tier VPC Network in AWS With Terraform
+Let’s start with AWS VPC Terraform and learn how to create a robust Terraform architecture in AWS.
+Website Script
+The initial phase starts with website scripting. Initially, you need to create a directory for initiating the Terraform Project. Name your first file as “install_apache.sh” and use the code mentioned below. An Apache web server will be installed, creating a unique landing page.
+Configure Provider
+In the world of Terraform, the Providers are plugins that can install and use the Terraform configuration. With Terraform, you can use it in a variety of Providers. However, the Provider for AWS is different.
+First, create a main.tf file and then add the code mentioned below. In the Terraform directory that has “install_apache.sh” and “main.tf” run the code “terraform init”
+Creation of VPC and Subnets
+The coding here is lengthy, so be focused when working at this point.
+Create the VPC along with CIDR 10.0.0.0/16, where the web-subnet-1 and web-subnet-2 resources will create a web layer in two different availability zones.
+The application-subnet-1 and application-subnet-2 will create a unique application layer, converting it into a private subnet. Finally, the database-subnet-1 and database-subnet-2 will ensure a database layer that will also be a private subnet.
+Internet Gateway and the Route Table
+We will create a public route table in the Terraform internet gateway. There is no need to create a private route table.
+The first resource block will generate an internet gateway where you will allow public subnets to conveniently connect with the internet. Create the routing table and then associate Web Layer subnets.
+With the internet gateway for CIDR 0.0.0.0/0, the web-rt route table will create a route in the
+VPC infrastructure
+. The subsequent building blocks will be the web-subnet-1 and web-subnet-2 with a web-rt route table.
+Create the Web Servers
+With the webserver1 resource, you will create a Linux 2 EC2 instance within the availability zone. Meanwhile, the ami is set in the Linux 2 AMI, creating a different region. The vpc_security_group_ids will lead you to the need to create security groups. With user_data code, bootstrap your instance, where the webserver2 will be pre-available in the set.
+Creation of the Security Groups
+Start with creating a Security Group named web-sg, which will be an inbound rule opening to the HTTP port 80 to the CIDR 0.0.0.0/0, allowing the outbound traffic. The webserver-sg will have the same HTTP port 80 openings, not open to access.
+Here, create database-sg with inbound rule opening of MySQL port 3306, keeping the security tight and secure. Allow inbound traffic only from the webserver-sg.
+Application Load Balancer
+Firstly, create an external Application Load Balance. Set the internal to false, ensuring an external Load Balancer. The load_balancer_type will help in the application designing, and the security_groups with web-sg will allow the internet over port 80. The subnets will be set with both the web subnets. It allows ALB to send the traffic and minimize two different subsets.
+Now, create Application Load Balancer Target Group, followed by aws_lib_target_group_attachment resource. Add depends_on to both sides. Don’t forget to add a listener on port 80, forwarding the traffic to Target Group.
+The RDS Instance
+Start with creating a MySQL RDS instance. Here, the db_subnet_group_name will be set to db_subnet_group.default. The instance_class will be set to db.t2.micro. Set the multi-az to true high availability with false status. Set vpc_secuiryt_group_ids to database-sg Security Group.
+Now create a DB Subnet Group with subnet_ids that will identify the database with subnets.
+The Output
+This is where your VPC network in AWS infrastructure using Terraform gets complete. The output will print the requested values. Use ALB DNS to test the web servers.
+Provision Infrastructure using Terraform with VPC Network
+From the terminal, run “terraform init” with “terraform fmt” running to ensure the code’s formatting. Now, run “terraform validate” to check the syntax errors. “terraform plan” will provide the creation of the resources, while “terraform apply” will create the infrastructure.
+Initiate Testing Phase
+Once the Output is displayed on the Application Load Balancer DNS Name terminal, copy and paste it into a new browser. Now, refresh the page to ensure the load balancer has switched between the two instances perfectly.
+The Clean Up
+Run “terraform destroy” command to delete the infrastructure. It will clean up your coding for good. Congratulations! You have successfully created Terraform
+architecture in AWS
+with a multi-tier VPC network.
+Conclusion
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

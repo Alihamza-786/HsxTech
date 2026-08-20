@@ -1,0 +1,44 @@
+https://netsoltech.com/blog/automotive-supply-chain-of-the-future
+Blog
+Automotive supply chain of the future
+By
+Bilal Arif
+Sr. Marketing Manager at NETSOL Technologies, Inc.
+, on September 15, 2021
+The global automotive supply chain industry is one of the most complex in the world with an average car containing up to 30,000 individual parts according to Toyota. These parts are manufactured by various suppliers from across the world. To make the whole journey streamlined and efficient is a huge challenge for all stakeholders involved, starting right from designing the vehicle architecture to procurement and logistics of manufacturing parts to assembly, transfer to dealerships and eventually, delivering the car to end customer.
+Table of Contents
+The Global Automotive Supply Chain
+Share this Blog:
+The automotive industry has taken leaps and bounds when it comes to optimizing the overall supply chain journey by the integration of manufacturing methodologies such as Lean and Six Sigma into various areas of the manufacturing process enabling all stakeholders including suppliers, OEMs and retailers to reduce costs and achieve efficiency. Despite these factors, the automotive industry is still facing numerous challenges with constant globalization, changes in manufacturing processes, evolving consumer behaviors and demands, technological disruptions and most lately, the COVID-19 pandemic having a substantial impact on the automotive supply chain network.
+Impact of COVID-19
+Much like other industries, the automotive sector also took a hard beating from the pandemic. With reduction in car sales, shutting down of factories and production lines and workforce layoffs throughout the crisis, the industry is finally starting to rebound back from the slump. As a result of plants shutting down globally including low-cost countries, the
+supply chain management
+was disrupted to a great extent. McKinsey estimated a profit decline of up to $100 billion in 2020 for top 20 of global automotive OEMs as an aftermath of the pandemic. In early months of the pandemic when governments across the world started imposing lockdowns resulting in collapse of car sales, auto manufacturers moved to cut orders for car parts including semiconductor chips. In contrast, demand for other consumer electronics increased exponentially leading the semiconductor manufacturers to take steps to meet this change in demand. As the automotive industry started rebounding back from the slump in 2021, the industry faced a massive shortage in semiconductor chips creating a huge roadblock on the way to industry's recovery. It is predicted that the global automotive industry will experience a 7% increase in sales in 2021 as compared to the previous year, however, the numbers still fall short compared to where they were before the global crisis.
+In an effort to bring about a quick rebound, suppliers and OEMs were compelled to accelerate already ongoing digitalization efforts spanning across the entire supply chain. OEMs,
+automotive digital retail solutions
+and suppliers all faced the pressure to adopt digital and agile business models, build transparent supply chain relationships, and leverage technology to overcome challenges being faced by the sector.
+Adoption of Electric Vehicles
+Another factor likely to have a major impact on the automotive supply chain is the increasing adoption of consumers towards Electric Vehicles (EVs). Governments and corporations around the world, to support sustainability initiatives, are encouraging policies and steps to increase sales of EVs. Data Interchange reported sales of EVs in 2019 to be over two million as compared to over three million in 2020 according to EV Volumes. This rapid increase in sales of EVs is itself having a major impact on the automotive supply chain. There is a significant increase in demand for components such as electric motors, batteries and other relevant parts paving the way for newer supply chain relationships with suppliers who may have never worked in the automotive domain before.
+End-to-end Supplier Integration
+In addition to the drivers above, shifting consumer behaviors are simultaneously posing both challenges and opportunities to OEMs. It is becoming even more pertinent for OEMs to build a smart and connected supply chain network capable of adapting to evolving business models to provide the end consumers with diverse choices, greater personalization and customization, and faster speed-to-market. A research by McKinsey states an end-to-end supplier integration can create a value creation of USD 43 billion to USD 77 billion per year in the automotive sector alone, both for OEMs and suppliers. This value creation can be translated into a profitability boost of up to 50%.
+How OEMs Can Stay Relevant?
+To stay relevant with the evolving market paradigm, OEMs need to move towards Supply Chain 4.0 models enabling accurate and faster decision making based on actionable insights. According to McKinsey, companies that aggressively
+digitize supply chains
+can expect to boost annual growth of earnings before interest and taxes by 3.2% and annual revenue growth by 2.3%. McKinsey also highlights the enormous impact of Supply Chan 4.0 by which OEMs can realize 75% fewer lost sales happening due to reasons including unrealistic lead times, incorrect inventory reports or unreliable delivery of parts, 30% reduction in logistics costs and up to 80% reduction in administration costs, all achieved while cutting the inventory down to a 75%. In order to leverage the true benefits of Supply Chain 4.0, OEMs must move towards the adoption of smart and intelligent supply chain tools and technologies including Artificial Intelligence and Machine Learning (AI/ML), predictive analytics,
+Robotic Process Automation
+(RPA), Internet of Things ( IoT) and blockchain. According to EY, these digital initiatives must encompass people, processes and data governance to be able to be completely effective. By adopting these tools, OEMS will be able to ensure:
+Increased real-time transparency ad visibility across the supply chain network
+Improved insight into customer demand optimizing inventory and production costs
+Increased manufacturing agility ensuring faster speed-to-market
+Preemptive identification of faulty parts minimizing recalls using AI/ML tools
+The Future
+The automotive supply chain of the future will be defined by how and what initiatives leaders take in the face of prevailing challenges to the industry. Leaders of today need to ask themselves whether they are putting relevant strategies in place to minimize inefficiencies in the supply chain process?  Are they fostering a culture of innovation and building teams with required capabilities to build and execute digital strategies? Are they building long term supply chain relationships flexible enough to adapt to changing market dynamics? Do they have enough transparency to take informed decisions in real-time? Organizations that take informed decisions now will be the ones with a comprehensive competitive advantage in long run compared to those who lag behind.
+If you are interested in finding out how NETSOL Technologies can enable your automotive finance and leasing business to adopt to new generation technologies for greater levels of safety, efficiency, automation and increased operational effectiveness, get in touch with us
+here.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

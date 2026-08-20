@@ -1,0 +1,1900 @@
+https://netsoltech.com/blog/australia-the-finance-and-leasing-landscape
+Consent
+Details
+[#IABV2SETTINGS#]
+About
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+[#GPC_BANNER_ICON#]
+[#GPC_TOAST_TEXT#]
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Details
+Necessary
+18
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Cookiebot
+1
+Learn more about this provider
+CookieConsent
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Google
+1
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+test_cookie
+Used to check if the user's browser supports cookies.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+HubSpot
+1
+Learn more about this provider
+cookietest
+This cookie is used to determine if the visitor has accepted the cookie consent box.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+LinkedIn
+2
+Learn more about this provider
+bcookie
+Used in order to detect spam and improve the website's security.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+li_gc
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+cms.netsoltech.com
+1
+X-Mapping-#
+Saves the address and port number of the web server that is managing the session. Used to improve the website's performance security.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+hsadspixel.net
+hs-banner.com
+linkedin.com
+t.co
+12
+__cf_bm [x12]
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+Preferences
+4
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+LinkedIn
+1
+Learn more about this provider
+lidc
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+netsoltech.com
+3
+adroll#adroll
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+i18n_redirected
+Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+locale
+The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+Statistics
+15
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Google
+2
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+_ga
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+_ga_#
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+Hotjar
+4
+Learn more about this provider
+hjActiveViewportIds
+This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+hjViewportId
+Saves the user's screen size in order to adjust the size of images on the website.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+_hjSession_#
+Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+_hjSessionUser_#
+Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+HubSpot
+4
+Learn more about this provider
+__hssc
+Identifies if the cookie data needs to be updated in the visitor's browser.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+__hssrc
+Used to recognise the visitor's browser upon reentry on the website.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+__hstc
+Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+hubspotutk
+Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+Microsoft
+3
+Learn more about this provider
+_clck
+Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+_clsk
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+_cltk
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+Twitter Inc.
+1
+Learn more about this provider
+personalization_id
+This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+netsoltech.com
+1
+hs-cta-interactions#cta
+Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+Marketing
+38
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Meta Platforms, Inc.
+3
+Learn more about this provider
+lastExternalReferrer
+Detects how the user reached the website by registering their last URL-address.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+lastExternalReferrerTime
+Detects how the user reached the website by registering their last URL-address.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+_fbp
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+Adroll Group
+3
+Learn more about this provider
+__adroll_consent_params
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+adroll_dqs
+Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+adroll_flgs
+Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+Google
+5
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+NID
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+Maximum Storage Duration
+: 6 months
+Type
+: HTTP Cookie
+pagead/1p-user-list/#
+Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+csi
+Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+_gcl_au
+Used to measure the efficiency of the website’s advertisement efforts, by collecting data on the conversion rate of the website’s ads across multiple websites.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+_gcl_ls
+Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+HubSpot
+1
+Learn more about this provider
+__ptq.gif
+Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+Leadfeeder
+1
+Learn more about this provider
+[empty name]
+Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+Quora
+1
+Learn more about this provider
+_/ad/75aa344edeef4dbfa3b3dd7cb5f40e6f/pixel
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+Reddit
+2
+Learn more about this provider
+rp.gif
+Necessary for the implementation of the Reddit.com's share-button function.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+_rdt_uuid
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+Twitter Inc.
+6
+Learn more about this provider
+1/i/adsct [x2]
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+muc_ads
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+guest_id
+Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+guest_id_ads
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+guest_id_marketing
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+YouTube
+12
+Learn more about this provider
+__Secure-ROLLOUT_TOKEN
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+__Secure-YEC
+Stores the user's video player preferences using embedded YouTube video
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+__Secure-YNID
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+LogsDatabaseV2:V#||LogsRequestsStore
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+ServiceWorkerLogsDatabase#SWHealthLog
+Necessary for the implementation and functionality of YouTube video-content on the website.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+TESTCOOKIESENABLED
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+VISITOR_INFO1_LIVE
+Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+YSC
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+yt-icons-last-purged
+Necessary for the implementation and functionality of YouTube video-content on the website.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+YtIdbMeta#databases
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+sc.lfeeder.com
+4
+_lfa
+Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+_lfa_test_cookie_stored
+Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+_lfa
+Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+_lfa_expiry
+Contains the expiry-date for the cookie with corresponding name.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+Unclassified
+219
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+netsoltech.com
+218
+insights-state-/ar-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+lastSelectedLanguage
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+static.ads-twitter.com
+1
+_twpid
+Pending
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Cross-domain consent
+[#BULK_CONSENT_DOMAINS_COUNT#]
+[#BULK_CONSENT_TITLE#]
+List of domains your consent applies to:
+[#BULK_CONSENT_DOMAINS#]
+Cookie declaration last updated on 6/6/26 by
+Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+About
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Please state your consent ID and date when you contact us regarding your consent.
+Do not sell or share my personal information
+Allow all
+Customize
+Allow selection
+Deny
+Blog
+Australia: The Finance and Leasing Landscape
+By
+Farooq Ghauri
+NETSOL Technologies Australia
+, on March 4, 2021
+Australia has maintained itself as a dominant force in the Asia Pacific region, and prior to the unprecedented crisis of COVID-19, its economy sustained uninterrupted, recession free growth for nearly three decades. In 2019, Australia's GDP was worth US$1392.70bn, as per official data released by the World Bank. According to the Australian Bureau of Statistics, the country's economy plummeted 7% from April to June 2020 due to the pandemic.
+Table of Contents
+Equipment Leasing
+Share this Blog:
+With a large mixed-market economy, Australia is part of the top 15 economies across the globe. The 2018 World Economic League Table, published by the London-based Centre for Economics and Business Research, projected that Australia will rise from the 13th largest economy in the world to the 11th by 2025.
+The current crisis has had devastating effects globally and has brought unparalleled consequences upon
+economies worldwide. According to the International Monetary Fund (IMF), it is the worst recession in a century. However, with lockdown restrictions being lifted and many businesses reopening, Australia has started to slowly get back on track.
+Last year, Fitch revised Australia's 2020 GDP forecast to a reduction of 2.7% from a decline of 5% previously, displaying better-than-anticipated economic data and relative achievements in combatting COVID-19.
+Australia has a powerful, sophisticated and competitive financial services sector, which is seen as the highest contributor to the national economy. Coupled with a strong regulatory system, the sector has maintained itself as a primary driver of economic growth and will likely remain as the most significant sector for the country in the future.
+Australia has a diverse array of financial products and a large, broad range of financial service providers that continue to provide more opportunities and stimulate growth and development in the country. Leasing is a mature product in Australia having been offered as part of a portfolio of finance methods for over five decades in the country.
+Equipment Leasing
+According to the Australian Bureau of Statistics, equipment financing and leasing account for around 40% of total capital expenditure in Australia. It is anticipated that the financial services sector will continue to be well positioned to play its vital role in supporting the Australian economy's productive base in the years ahead. 
+Primary providers of finance and leasing facilities in Australia were conventionally banks and finance companies (including bank-owned lenders, general financiers and captives). Over the last 10 years, nearly all the bank owned finance organizations have been assimilated into their parent companies. While banks have been the main source for leasing and other equipment finance, improved access to financing has increased the share of captives and independents.
+It was estimated by the Australian Finance Industry Association that at the end of the financial year 2019, total new equipment finance (inclusive of fleet leasing) was A$47.7bn - compared with year end 2018, which was A$47.2bn. Excluding fleet leasing, equipment finance represented A$40.4bn, compared with year-end 2018, which was A$40.3bn.
+From this, A$8.7bn accounted for finance leases, A$5.7bn for operating leases (inclusive of fleets), A$1.9bn for hire-purchase and A$31.3bn for chattel mortgages. Not including the fleet leasing sector, 36% was for motor cars and light commercials, 18% for trucks, trailers and buses, 3% for aircraft and other transport equipment, 6% for agricultural machinery, 5% for EDP and office machines, 4% for manufacturing equipment, 14% for mining and construction and 13% for other items.
+Net receivables have been displaying growth since 2015, and to June 2019, increased to A$112bn from A$107bn the previous year.
+Impact of COVID-19 on the Australian Automotive Sector
+As the unprecedented crisis of COVID-19 spread across the world, businesses across all industries globally were severely impacted. Australia was no exception, and the pandemic has adversely affected the Australian automotive sector.
+New vehicle sales in Australia include passenger cars, SUVs, light and heavy commercial vehicles. As the pandemic impacted the automotive industry, in March 2020, new car sales dropped by approximately 18%. According to the Federal Chamber of Automotive Industries, 81,690 new vehicles were sold in March 2020, a reduction of 17.9% from March 2019.
+Additionally, this also represented a decline compared to previous months.
+Further statistics for April 2020 suggest that in Australia, at least A$1bn more was spent on purchasing new vehicles in April 2019, compared with April 2020. These decreases in vehicle sales can be attributed to the transition to working from home, adhering to social movement restrictions, reduced consumer confidence leading to Australian's deciding to save rather than spend in light of the pandemic and the increase in unemployment in the country. New vehicle sales data for May 2020 showed some signs of recovery when compared to April.
+However, despite a hard-hitting three months, new vehicle sales unexpectedly surged in June 2020, providing an unsurpassed result in the last 12 months. The number of new vehicles sold in June signified a reduction of only 6.4% when contrasted with June for the previous year, alongside a huge difference to the 17.9%, 48.5% and 35.3% decreases in March, April and May respectively.
+The Federal Chamber of Automotive Industries termed vehicle sales in June being down just 6.4% year-on-year as 'the strongest result since the initiation of the COVID-19 crisis'. The recovery has been attributed to a number of key factors, including restrictions being lifted, an extension of the government's instant asset write-off scheme and an increase in activities from both automotive companies and dealerships that have been offering a diverse range of affordable packages for retail customers. Statistics from this June represent the highest monthly result since June last year.
+The instant asset write-off scheme implemented by the government enabled Mercedes, BMW and Audi with immense growth in sales. The country's number one selling vehicle, the Toyota Hilux Ute, recorded their highest all-time sales.
+Federal Chamber of Automotive Industries' Chief Executive Tony Weber provided some positive outlook towards the future. He stated that there could be a quick turnaround once there is the availability of a vaccine to treat COVID-19 and consumer confidence resurfaces. In Weber's perspective, longer-term growth would take place due to the structure of the Australian economy, the government's stimulus measures pertaining to the automotive sector and important matters related to consumer finance being addressed.
+Weber stated that the significance of the Australian government in enabling the automotive sector is to attain the right regulatory balance pertaining to vehicle finance in the country. According to him, a 'balanced approach was required, which both protects consumers as well as promotes sales and growth in the marketplace. He displayed signs of confidence in the government doing so.
+Once the demand for new vehicles normalizes, automakers and dealers will return to a more stable position. It is pertinent to note that prior to the current unprecedented crisis, in the 12 months to November 2018, Australians borrowed A$8.1bn to purchase vehicles. According to the Australian Bureau of Statistics, 19% of the 1.1m+ new vehicles sold during that timeframe were acquired via financing.
+While prices for used vehicles reached their highest two month drop in March and April 2020, they rebounded strongly in the following month of May by 10.6%, according to Moody's Analytics, nearly returning them to pre-COVID levels. A number of aspects have led to the recovery of used vehicle prices including stock shortages of new vehicles, reduced fuel costs, decreased usage of public transportation and the reduction of domestic air travel.
+In July 2020, used vehicle prices reached a record increase. Further data from Moody's Analytics revealed that used vehicle prices for July transcended for the second month running, with a large 16.2% increase on pre-COVID prices and a 30.8% surge on prices during the April 2020 collapse.
+According to the Australian Automotive Dealer Association Chief Executive Officer James Voortman, passenger cars are Australia's third largest import and the automotive sector contributes nearly $13bn to the Australian economy. This highlights the impact and significance of the industry to the overall economy of the country.
+In a report published by PwC Australia, in order to weather the storm, it was stated that it is important for financial services and auto finance and leasing companies in Australia to revive growth and adhere to swiftly changing market expectations through digital transformation, innovation and new business models that are imperative to not only reduce costs and increase revenue, but to survive in today's fast-changing marketplace.
+Digital Trends and Forecasts
+The rapid rate of technological advancements and increasing penetration of mobile devices, combined with changing preferences of customers has had significant effects on the ways in which financial services are planned, executed and consumed.
+In Australia, the number of internet users rose by 265,000 between 2019 and 2020, giving the country over 22 million internet users and an internet penetration rate of 88% in January 2020. At the beginning of 2020, the country also had nearly 33 million mobile connections, which is equivalent to 130% of the total Australian population.
+An analysis of digital trends and forecasts in Australia provides positive insights into the future of digitization of the finance and leasing industry in the country. Technologies such as Cloud Platforms, Data Analytics, Blockchain, Artificial Intelligence and IoT will play a critical role in driving economic growth in Australia in the near future. It was estimated, that in 2018, total spending on IT projects and services in Australia grew by 2.6% to $84.8bn.
+According to KPMG, investment in the Fintech industry in Australia is becoming extremely diverse. In terms of number of Fintech organizations in the country as per size and investment, the two major and most significant sectors are Payments and Lending. The growth of capital markets and Wealthtech continues, alongside Blockchain, Insurtech and Regulatory Technology.
+Digital transformation for auto captives, banks and finance and leasing companies is no longer a requirement, but a necessity in order to strive in today's unprecedented and challenging marketplace. By digitally transforming, financial institutions are enabled to effectively manage their complex multi-site and multi-currency operations and to thrive in hyper competitive markets globally. According to Deloitte, digital transformation could add as much as $45bn to Australia's GDP by 2021.
+Digitally transforming enables superior customer experiences, streamlining of operational processes and
+new business models that are imperative to not only reduce costs and increase revenue, but to survive in today's fast-changing marketplace. In a report published by PwC Australia, it was stated that in order to weather the storm during these unprecedented times, it is essential for financial services providers in Australia to revive growth and adhere to swiftly changing market expectations through transformation. According to research, the current crisis of COVID-19 has accelerated digital transformation for Australian companies by an average of six years.
+Australia's finance and leasing industry will remain a dynamic part of the country's financing market with
+equipment leasing in Australia accounting for nearly half of the country's total equipment capital expenditure. The financial services sector is highly developed and over the last five years, growth in annual business volume coupled with the high rate of car sales sourced by finance indicates the continuation of a thriving sector in the country.
+Australia has a fast-growing Fintech market and recent research indicates that Fintech revenue is anticipated to increase at a rapid pace. Primary factors contributing to this growth are likely to be digital payments, personal and business finance, data analysis and financial infrastructure.
+In the last two years, customer adoption of Fintech-enabled services has more than doubled in Asia-Pacific. According to the EY Global Fintech Adoption Index 2019, nearly 60% of digitally-active Australians are using Fintech-enabled products and services, up from 37% in 2017. It is predicted that the digital disruption that is currently taking place will continue even deeper in the near future, making Australia one of the leading hubs in Asia Pacific.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Blog
+Broker-Lender Alignment: The Future of Asset Finance Success
+Read more
+Blog
+From manual friction to intelligent workflows: The next step for equipment finance
+Read more
+Blog
+Cyber resilience in APAC: Why 2026 demands more than traditional defence
+Read more
+Broker-Lender Alignment: The Future of Asset Finance Success
+Read more
+From manual friction to intelligent workflows: The next step for equipment finance
+Read more
+Cyber resilience in APAC: Why 2026 demands more than traditional defence
+Read more

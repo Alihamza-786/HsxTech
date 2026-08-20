@@ -1,0 +1,45 @@
+https://netsoltech.com/blog/enterprise-platforms-must-haves-2021-navigating-through-limitations-adopting-new-technology
+Blog
+Enterprise Platforms Must Haves for 2021 and Beyond: Navigating Through Limitations | Adopting New Technology.
+By
+Kamran Khalid
+Head of Business Analysis Group & Head of PreSales at NETSOL Technologies Inc.
+, on November 20, 2020
+In this series of articles, we have discussed various aspects of an enterprise platform and how it correlates to an effective digital transformation strategy and consequent business wellbeing.
+Table of Contents
+Share this Blog:
+Therefore, we have highlighted key points that the management will eventually have to consider even if the transformation strategy in-play overlooks them.
+1) Risk of Human Capital Failing to Adopt to the Change:
+Educating and training new employees while providing constant professional support to existing ones are the most overlooked elements in a transformation strategy. Once taken into consideration in planning phase and implemented properly, with the association of the HR division, this yields in an engaged and confident work force which is not only willing but also technically able to support transformation throughout an enterprise. However, when this is overlooked and rolled out poorly, it can result in a confused, unwilling work force which is inclined towards sticking to the familiar, ineffective ways of working. Hence it becomes imperative for the change management to put in greater effort and resources to implement new workflows, tools, and policies, making it less likely for the digital transformation process to reap the intended rewards; efficiency, innovation and effectiveness.
+2) Active Learning Approach:
+A robust approach in this case can be to train employees on the platforms that are used to run every day business operations and continue supporting them to learn the required skills through active learning.  This involves actively engaging trainees with the course material through deliberations, problem solving, case studies, role plays and other methods. Companies which have successfully digitized their business operations have also introduced on-demand digital training courses which allows trainees to set the pace at which they learn. At the end of the day, a highly digitized workplace will have to be operated by trained and skilled professionals.
+3) Legacy System as A Barrier to Future:
+A legacy system can be regarded as a platform/system or an enterprise level software solution that is obsolete and difficult to manage, however it is still vital to key workflow processes within an organization. Legacy systems have proven to be obstacles on the road to digital transformation process for companies throughout the world. Upgradation of any legacy system can be cumbersome, disruptive, and challenging for the change management. Adding to that, decision makers can also expect certain levels of unwillingness from end users when moving to another platform from an orthodox system.
+4) Integrating Legacy Systems with New Technology:
+Integrating
+legacy systems
+with updated technology solutions can be a very difficult for companies seeking to improve their business operations. This is mainly because newer technologies such as cloud, AI/ML, and SaaS solutions can be completely incompatible with orthodox legacy systems. Hence, in order to integrate tools, features and programs based on modern technologies, in-depth custom coding is necessary which costs time are resources.
+However, modernizing a legacy system such as an ERP, CRM, or even data center, can bring surplus value not only to a business but also to its major stake holders. Modern day enterprise platforms allow businesses to be more cost efficient, innovative, capable, agile, and gives a unique opportunity to gain a competitive edge over completion. Moreover, changing to an up-to-date UI can also increase performance levels as compared to a legacy system that is usually not considered as user-friendly.
+Contemporary enterprise platforms come with more improvised dashboard insights through
+advanced data analytics
+. More and more companies are realizing that the future is in access to real-time data and it's the best way to deeply understand business operations and key stakeholders. When large volume of real-time data is integrated with new generation
+business intelligence tools
+, decision makers can make more informed decisions that can lead to business wellbeing in long-term.
+5) Addressing Cybersecurity Concerns:
+A modern day enterprise platform gives management the ability to allow data to disseminate throughout an organization which can potentially be accessible anytime and anywhere by all employees. Nonetheless, many businesses are resistant to this change due to rising security concerns. To address this, change management needs to understand that
+cybersecurity threats
+now go hand in hand with digital transformation process. Hence, an enterprise must have the right mix of technology integrated with their platform that can be able to protect the company from cybersecurity threats, as more data is moved to the cloud, and as companies gradually become reliant on technology.
+It has been proven that even for a legacy system, the sense of security is pariah, as hackers today are developing new doctrines of cyberattack which are capable of overcoming practically any security system. Therefore, it is strongly recommended that the key decision makers understand the concept of separating security from the network itself and implementing policies and guidelines that are applicable to wherever the applications reside and users connect. Furthermore, a company's parallel security drive must be initiated with a security platform within digital core that helps build resilient systems that can not only endure
+ransomware cyber attacks
+, but also safely carry out mission-critical business functions even after the attack.
+If you are interested in finding out how NETSOL Technologies can enable your business to adopt to new generation technologies for greater levels of safety, efficiency, automation and increased operational effectiveness. Check out our
+comprehensive enterprise security
+services today!
+This is the final article of the series highlighting Enterprise Platform - Must Haves for 2021 and Beyond.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

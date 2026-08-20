@@ -1,0 +1,94 @@
+https://netsoltech.com/blog/lease-accounting-changes
+Blog
+IFRS 16 & ASC 842 Lease Accounting Changes: What Lessors Need to Know
+By
+Farooq Ghauri
+Managing Director
+, on March 14, 2018
+Understand how IFRS 16 and ASC 842 lease accounting changes impact lessors — from balance sheet treatment to new system requirements and reporting fields.
+Table of Contents
+How IFRS 16 and ASC 842 Changed Lease Accounting for Lessors
+New System and Reporting Requirements Under the Standards
+Operational Impact Across Business Functions
+How NETSOL Supports Lease Accounting Compliance
+Building a Compliant, Future-Ready Lease Accounting Infrastructure
+Share this Blog:
+The lease accounting landscape changed permanently when IFRS 16 and ASC 842 came into effect. Introduced by the IASB and FASB respectively, these standards ended the era of off-balance-sheet operating leases — requiring companies to recognise virtually all leases as right-of-use (ROU) assets and corresponding liabilities on their balance sheets. For lessors, the impact has been significant: new reporting fields, reconfigured calculation engines, and a fundamental shift in how lease portfolios are presented to investors and regulators.
+If your systems were built around the pre-2019 standards, this guide covers what changed, what it means operationally, and how NETSOL's
+asset finance software
+is built to handle the current reality.
+Before 2019, operating leases sat off-balance-sheet — a clean, simple treatment that flattered leverage ratios and kept income statements easier to read. That is no longer the case.
+Under
+IFRS 16
+(effective January 2019) and
+ASC 842
+(effective for public companies December 2018, private companies December 2021), operating leases must now be recognised on the balance sheet. The lessee records a right-of-use asset and a corresponding lease liability. For lessors, the classification model changed too — finance leases and operating leases are now treated differently in terms of income recognition, residual value accounting, and disclosure requirements.
+The key operational impacts for lessors:
+Balance sheet growth:
+lease liabilities now sit on-balance-sheet, affecting debt ratios, covenant calculations, and investor perception
+Income statement shift:
+rent payments are replaced with depreciation on the ROU asset and interest on the lease liability — front-loading expense recognition
+EBITDA distortion:
+operating lease costs that previously sat below EBITDA now appear as depreciation and interest, inflating EBITDA figures
+Disclosure burden:
+extensive new disclosures required including maturity analyses, variable lease payment breakdowns, and sensitivity analyses
+System reconfiguration:
+separate amortisation schedules, new fields, and revised calculation logic required across origination and servicing platforms
+IFRS 16 vs ASC 842: Key Differences at a Glance
+The lessor accounting model is largely preserved under both standards — the more significant operational burden falls on lessees. That said, lessors must still make material system and disclosure changes, particularly around residual value treatment and lease classification at commencement.
+The accounting change is not a policy exercise — it requires material changes to your lease management and origination systems. Two areas demand immediate attention.
+Separate Payment and Residual Amortisation Schedules
+Traditional leasing software combined payment amortisation and residual amortisation into a single calculation. The new standards require these to be separated — a distinct payment amortisation schedule and a residual accretion schedule are now mandatory for accurate accounting and reporting.
+This means significant reconfiguration for most legacy platforms. In NETSOL's LeasePak, for example, this is handled by setting the "Accrete Residual" field to "Y" — the system then generates the two schedules independently. Without this separation, your
+loan origination software
+and downstream servicing calculations will produce inaccurate figures for both payment amortisation and residual accretion.
+New Required Data Fields
+The following fields must now be captured and reported at the lease level:
+Cost of Asset
+Present Value of Lease Payments
+Carrying Value of Asset [(Cost of Asset × PV of Lease Payments) / Asset Fair Value]
+Profit at Commencement [PV of Lease Payments − Carrying Value of Asset]
+Gross Residual (PV of Estimated Future Value)
+Net Residual [(Cost of Asset × Gross Residual) / Asset Fair Value]
+Deferred Profit [Gross Residual − Residual Asset]
+These fields apply to both existing leases and any new lease originated after adoption. ELFA (
+Equipment Leasing and Finance Association
+) has documented that the field reconfiguration requirement is one of the most time-intensive aspects of implementation for mid-size lessors. Selecting the right
+lease accounting software
+that handles this natively — without extensive custom builds per client — is one of the most consequential technology decisions a lessor will make post-adoption.
+Transition and Retrospective Application
+A critical point for any lessor still running pre-standard configurations: both IFRS 16 and ASC 842 require the guidance to be applied to all leases existing at the beginning of the earliest comparative period — there is no grandfathering. This means your existing portfolio must be restated, not just your new originations.
+Asset Finance Connect
+has documented consistent implementation challenges across the industry, particularly for mid-size lessors running on older platforms.
+The standard changes are not confined to the accounting team. Business process changes cascade across:
+Finance & Accounting:
+full restatement of lease portfolios, new disclosure schedules, revised EBITDA reporting
+IT & Systems:
+platform reconfiguration, new fields, separate calculation engines, data migration for historical leases
+Legal:
+lease contract review for classification, variable payment identification, extension option assessment
+Tax:
+deferred tax implications from temporary differences between accounting and tax treatment
+Operations:
+process documentation updates, staff retraining, revised approval workflows for lease modifications
+Corporate Real Estate:
+all property leases now on balance sheet — major impact for companies with large real estate footprints
+The
+Finance & Leasing Association
+has flagged the cross-functional coordination requirement as one of the most underestimated aspects of IFRS 16 implementation — particularly for lessors running multiple specialised systems across origination, servicing, and reporting.
+At NETSOL, we work closely with our customers in anticipation of — and response to — accounting standard changes. Our platform handles the separation of payment and residual amortisation schedules and the full set of new required fields natively, without custom development for each client. This includes retrospective application to existing lease portfolios — not just new originations.
+For a real-world example of what a smooth, well-scoped platform transition looks like,
+how Haydock Finance streamlined their lending operations
+is a useful reference point — covering the full scope from system reconfiguration through to live reporting under the new standard.
+IFRS 16 and ASC 842 are not coming — they are here and have been in effect for several years. For lessors still running legacy systems or partial implementations, the risk is no longer transition cost; it is ongoing reporting inaccuracy and audit exposure.
+The lessors best positioned today are those who treated the standard changes not as a compliance checkbox but as an opportunity to modernise their entire lease accounting infrastructure — separate calculation engines, complete field coverage, and clean data lineage from origination through servicing.
+To go deeper on how lease technology and compliance intersect in practice, watch the
+Motorfinance Fireside Chat with NETSOL and Deloitte
+— a focused discussion on where lessors should be directing their technology investment to stay compliant and competitive.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

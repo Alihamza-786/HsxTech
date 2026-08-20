@@ -1,0 +1,42 @@
+https://netsoltech.com/insights/podcasts/netsol-podcast-the-future-of-mobility-innovation-franz-reiner-cob-mercedes-benz-mobility-ag
+NETSOL podcast: The future of mobility & innovation (Franz Reiner, COB, Mercedes-Benz Mobility AG)
+In this exclusive episode of the NETSOL Podcast, Eva Kellershof, Vice President of Sales for North America and Europe at NETSOL, sits down with Franz Reiner, Chairman of the Board of Management at Mercedes-Benz Mobility AG, to examine the forces reshaping the global
+automotive finance solutions
+landscape. Franz Reiner leads the financial services, fleet management, and digital mobility operations of one of the world's most significant automotive captives, financing and leasing every second vehicle delivered by Mercedes-Benz globally. This conversation draws directly on that vantage point to explore what the shift to electric vehicles, subscription-based ownership, and data-driven financing actually demands from the organisations responsible for funding it.
+About this episode
+The automotive finance industry is navigating a convergence of pressures unlike anything it has faced in decades. Electrification is reshaping residual values and product lifecycles. Consumer expectations are shifting toward flexible, usage-based financial products rather than traditional ownership. Digital-first experiences are becoming the baseline, not a differentiator. And captive finance companies, sitting at the intersection of OEM strategy and customer lending, are being asked to evolve faster than their existing infrastructure was built to support.
+Franz Reiner brings a perspective built over three decades at Mercedes-Benz, spanning roles across retail banking, regional finance operations, and ultimately the chairmanship of Mercedes-Benz Mobility AG. His experience covers both the product side of automotive finance and the platform side, making him one of the few executives with direct insight into what
+mobility solutions
+need to deliver across the full spectrum of a modern automotive captive operation.
+What you'll learn
+This episode is built for senior leaders at automotive captives, OEMs, auto finance companies, and technology providers evaluating how the industry's structural shifts will reshape their business models over the next five to ten years. It covers:
+How Mercedes-Benz Mobility AG is approaching the transition to electric vehicles, including the implications for residual value management, product design, and customer engagement
+Why subscription and Car-as-a-Service models are gaining traction and what makes them structurally different from traditional lease and loan products for the captive financing them.
+How digital transformation is changing the relationship between captives, their dealer networks, and their end customers and what technology infrastructure needs to underpin it.
+The role of data in enabling personalised, flexible financing products at scale and the governance challenges that come with it.
+What the global economy and shifting trade dynamics mean for automotive finance strategy heading into the next cycle.
+Key themes from the discussion
+Three themes defined the conversation:
+Electrification is a financing challenge as much as a product challenge.
+The shift to EVs introduces residual value complexity that traditional automotive finance models were not designed to handle. Battery degradation curves, charging infrastructure maturity, and consumer adoption rates vary significantly by market, making it harder to price leases and loans with the confidence that underpinned ICE-era products. How captives manage that uncertainty, and what data infrastructure they need to do it well, was a central thread in Franz Reiner's contribution. The NETSOL blog on the
+future of captive finance
+covers how technology is redefining what captives need from their platforms to stay competitive through this transition.
+Flexibility is the new product.
+Franz Reiner is direct on this: the customers who will define the next decade of automotive finance are not choosing between a loan and a lease, they are asking whether they can have a vehicle on their terms, with the flexibility to change those terms as their circumstances change. Subscription models, usage-based pricing, and CaaS structures are responses to that demand. But building the financing infrastructure to support genuine product flexibility at scale requires a different kind of platform architecture than what most captives currently operate. The
+strengthening MINI USA's digital ecosystem case study
+shows how a major OEM captive in NETSOL's portfolio has built exactly that, a technology ecosystem capable of supporting both traditional and flexible mobility products simultaneously.
+Digital transformation is not optional for captives.
+The conversation returns repeatedly to the pace of change. Captives that are still running on legacy infrastructure are not just operationally inefficient, they are strategically exposed. The ability to launch new products quickly, price dynamically, and deliver seamless customer experiences across channels is increasingly the competitive baseline, not a point of differentiation.
+Going deeper: Related reading
+For captive finance leaders building their technology strategy for the AI and EV era, the whitepaper
+AI transformation playbook for auto captives
+provides a structured framework for how captives should approach AI adoption, from data foundations through to production deployment. For further context on the strategic direction of Mercedes-Benz Mobility AG, their own coverage of
+Mercedes-Benz Mobility's digital transformation strategy
+outlines how the company is building technology and data capabilities to support the next generation of automotive financial services.
+Related
+podcasts
+Podcast
+Data Migration in Asset Finance: Strategies, Pitfalls & Real-World Insights
+Navigating change management in long-term projects – Lessons from the field (episode 3)
+Strategy with Jason podcast featuring NETSOL's Adam Bruttell (Digital auto retail)
+Fighting fraud in wholesale finance | NETSOL podcast

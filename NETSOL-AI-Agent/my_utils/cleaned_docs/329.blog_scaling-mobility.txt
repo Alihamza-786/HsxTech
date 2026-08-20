@@ -1,0 +1,64 @@
+https://netsoltech.com/blog/scaling-mobility
+Blog
+Scaling mobility models - Key considerations for OEMs and auto finance companies
+By
+Netsol Technologies
+, on February 3, 2020
+Discover how OEMs and captives can drive profitable growth in the evolving mobility market with cutting-edge technologies like AI, blockchain, and cloud solutions.
+Table of Contents
+A changing trajectory for mobility players
+Share this Blog:
+OEMs and their finance companies (captives) are in an optimal position to grow sustainable and profitable mobility
+businesses if they use the right approach and leverage state-of-the-art technologies.
+The $7 trillion global mobility market has fundamentally changed due to advances in technology. New mobility can
+encompass a range of transportation options, from ride-hailing, p2p carsharing to car subscription, and more.
+The way we move through the world will never be the same, nor do most consumers want it to be. Consumers see the
+benefits of flexible car usage models, relieving them from the burden of owning a depreciating asset. OEMs, captives,
+and car dealerships can no longer rely solely on traditional car purchasing and financing models.
+Technology start-ups have paved the way for cloud mobility networks to gain traction. Over $220 billion have been
+invested in new mobility start-ups since 2010, according to
+McKinsey and Company
+. Because of this, mobility start-ups
+have had a fundamentally different strategic trajectory than OEMs and their in-house finance companies.
+The goal for starts-ups has been to pioneer visionary concepts and gain market share - at all costs,
+disregarding profitability. This is in stark contrast to OEMs, who have always had to focus on profitability and
+stakeholder demands. Until recently, OEMs primarily focused on engineering and production and benefitted from high
+barriers to entry. Captives were responsible for financial services, and car dealerships handled retail sales and
+servicing thereafter.
+Our research shows that there will still be space for traditional purchasing and financing models in the future. Yet, consumers have spoken, and automotive companies need to adopt technology-driven mobility models to ensure their long-term survival. With the right approach, OEMs and captives can now position themselves to enter new mobility and scale operations successfully.
+Approaches to entering new mobility - buy, build or partner
+OEMs and captive finance companies have multiple paths to establishing themselves in the new mobility space. An enticing way for established companies to enter mobility is simply to invest in or acquire mobility start-ups - such investments are often made through dedicated in-house venture funds. An alternative route is to develop new mobility business models in-house, hiring required digital and engineering capabilities. Partnering with outside technology companies to create and scale mobility solutions is another option.
+Most OEMs and captives are entering new mobility via all of the options mentioned above. The most efficient and fastest route to setting up a scalable and profitable mobility business is to partner with a strong technology company, that also understands the complete automotive value chain. This is validated by recent developments, as OEMs have scaled back or shut down various in-house activities. While, merely investing in mobility start-ups will not give them the control to fully leverage their capabilities or their assets.
+Partnering with technology companies will enable OEMs to develop successful mobility operations, for example, by using white-label solutions. Ultimately, the right solution from the right technology partner will substantially lower costs, increase speed to market, and reduce risks while allowing OEMs to focus on leveraging their core competencies, brand, and assets.
+Entering mobility for long-term profitability:
+Digital customer experience
+The foundation for a successful mobility business is a transparent, seamless, end-to-end digital customer experience. Technology must be agile, allowing for continuous updates and changes. For example, A/B testing can be used to improve the customer journey, thus fueling growth. Continuous assessments and improvements through A/B testing will also significantly reduce customer acquisition costs. Companies that are agile enough to respond to customer needs based on real data will be able to create a sustainable competitive advantage.
+The pricing strategy is a critical factor in determining product adoption. Dynamic and personalized pricing can assess consumer price sensitivities and fuel data-driven models. Segmenting target customers and developing data-driven incentive structures will drive growth at launch and thereafter. Depending on the customer segment, prices can be all-inclusive or unbundled. All-inclusive or bundled pricing would generally cover insurance, maintenance and warranty, roadside assistance, and more. Price bundling improves attach ratios and provides a simple pricing structure for the consumer. Unbundling offers consumers a lower price point while potentially increasing margins on individual products for providers. Ultimately, clarity of product and transparent pricing, along with convenience and speed, will enable an experience that genuinely delights customers and sets companies up for success.
+Asset utilization
+On average, cars sit idle over 90% of the time. In addition to depreciation and interest costs, considerable wear and tear, such as corrosion, actually take place when a car is standing still. New mobility is an opportunity to turn underutilized cars into revenue-generating assets, whether it is private cars or car dealer inventory.
+A range of factors will increase and optimize asset utilization. Successful mobility models will deploy assets across different use cases to increase utilization, driving profitability. Integrating fleet management tools with mobility software solutions will provide a holistic view of supply and demand. Dynamic and personalized pricing can assess consumer price sensitivities to ensure products are optimally priced at any given time, protecting margins, while increasing adoption and with that utilization.
+Increasing utilization will be the foundation for scaling new mobility models. After a certain level of scale has been achieved, consumers will benefit from lower prices, further increasing adoption. Companies will then also benefit from additional data, which will improve AI-driven pricing models, car recommendation systems, and more.
+Leveraging data through AI and ML
+Artificial intelligence and machine learning will drive the development and growth of mobility models. Successful business models that scale in other industries allow for data-driven decision making. A certain level of scale is necessary to leverage the full breadth of these technologies - which OEMs must embrace to be competitive.
+AI is implemented for a range of requirements, such as fraud prevention, smarter customer profiling, car recommendation models and dynamic pricing. AI will propel growth, while also contributing to the reduction of operational complexities and costs. It is essential to keep in mind that AI is not a one size fits all. Customizing AI solutions to an organization's unique business context will provide the foundation for success.
+Scaling mobility initiatives using blockchain
+Blockchain has been pushing new boundaries and is being adopted by different industries for a variety of purposes. Distributed ledger technologies offer a new level of security, in addition to many other benefits.
+Blockchain will undoubtedly provide the foundation for profitable growth by lowering operational costs. Blockchain is especially valuable in the context of new mobility models, which involves fleet management and the deployment of vehicles across different use cases. The automotive value chain can be managed via blockchain, for example, by using smart contracts to manage maintenance and insurance claims. Data generated from telematics devices can automatically trigger events within the ledger and vice versa. Using blockchain to automate operations can remove operational frictions and drastically reduce costs overall.
+A mobility ecosystem for an optimal customer experience
+Customer needs and expectations should be at the heart of any ecosystem strategy. New mobility solutions aim to make mobility a smooth and seamless experience for the consumer. Accomplishing this demands a suite of products that no stand-alone company can provide effectively. Assessing customer needs and understanding what your organization brings to the table for an ecosystem is the starting point. Mutual benefits for all connected ecosystem parties are a prerequisite for successful partnerships. Establishing an ecosystem strategy that generates value-add for all partners will, in the long-term, provide tangible benefits to consumers in terms of price and overall experience.
+Selecting the right technology partner
+Choosing the right technology partner will determine the success of any initiative. At otoz, we provide a range of new mobility solutions using cutting-edge technology. Above all, we believe the foundation for success is establishing fully-fledged partnerships.
+Creating a shared set of values provides the basis for a joint strategic trajectory. We work with OEMs, captives, and start-ups using different partnership models, based on jointly determined key success factors.
+OEMs are prime for entering mobility
+With the right technology, OEMs and their captives have an optimal foundation to enter the mobility space and grow sustainable, profitable businesses. OEMs control vehicle supply while captives have securitization capabilities plus strong credit ratings. Relationships with dealerships provide a network for servicing and maintenance. In addition, OEMs already have established regional coverage, providing the foundation to scale new mobility models. These are assets that no start-up has.
+Otoz provides a suite of agile and customizable mobility solutions, ranging from carsharing and subscription products to chatbots, that engage consumers and facilitate the complete transaction lifecycle. Otoz technologies allow OEMs to launch new mobility models quickly. The technology otoz has developed is cloud-native and supported by blockchain. AI drives otoz technology to leverage data and scale business models successfully.
+Beyond the technology, otoz truly understands the requirements of OEMs and captives as they transition to new mobility business models. Otoz is backed by Netsol, one of the most established technology players globally in the traditional asset finance and leasing market. This is part of a strategic move by Netsol to support new and existing customers as they transition to new mobility.
+Netsol has over 40 years of experience and manages over $200 billion in assets globally for their partners. It has developed partnerships with almost all major global automotive brands and has an 80% market share with automotive finance companies in China. Netsol's success is the result of superior competencies in the development of customized software solutions and aligning strategically with customers for successful partnerships.
+Otoz technology enables OEMs and captives to become leaders in new mobility, a sector that will show dynamic growth in the years ahead. Competition will without a doubt intensify in this space. Speed to market and agile technologies, coupled with radical customer-centricity will set the stage for sustainable, long-term success. Otoz has its roots in traditional auto finance and at the same time is using the latest technologies to power new mobility. This unique combination will open an untapped dimension of sustainable growth and profitability for OEMs and captives in the future.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

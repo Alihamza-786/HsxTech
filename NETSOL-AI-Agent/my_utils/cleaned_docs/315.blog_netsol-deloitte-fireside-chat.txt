@@ -1,0 +1,71 @@
+https://netsoltech.com/blog/netsol-deloitte-fireside-chat
+Blog
+NETSOL & Deloitte Fireside Chat
+By
+Johannes Riedl & Ingo Schmuckall
+Global Client Partner at NETSOL Technologies Inc. & Senior Manager Strategy & Business Design Deloitte Consulting GmbH
+, on December 17, 2020
+Digitalization has disrupted the world like a storm with the automotive industry being affected more than any other. Industry experts, Johannes Riedl from NETSOL Technologies and Ingo Schmuckall from Deloitte Consulting, discuss 'Digitalization as a Stepping Stone for Car-as-a-Service' and how it is shaping the future for the automotive finance providers - especially, during these unprecedented times with COVID-19 affecting the industry.
+Table of Contents
+Share this Blog:
+The automotive industry is currently experiencing a shift from one-time sales to recurring revenue models. Market trends as well as consumer demands, are shaping the automotive industry and people are more inclined towards short-term, usage-based services rather than owning a vehicle or committing to a long-term loan. As a result, we are seeing a shift in profit pools from asset sales and financing towards asset management and the optimization of the customer lifetime value. Nevertheless, what will be key to make full use of this shift? Johannes Riedl covers the question with a very understandable and comprehensive answer, "Digitalization is an essential key for successfully transforming towards Car-as-a-Service, to cope with the new trends and challenges, especially during these unprecedented times."
+When industry expert Johannes Riedl was asked, "how do you think the stakeholders in the ecosystem, such as the OEMs, auto finance companies, dealers and the end customers will need to respond to this?" He answered with, "All stakeholders will respond with a huge demand for digitalization. On one hand, for their own core businesses, but on the other hand, they are also searching for new business models. CaaS is therefore a common theme and is of particular interest to the automotive finance industry. It is important to identify, which key drivers will shape new business models of our clients."
+Ingo Schmuckall, Director at Deloitte Consulting, added "The most important factors come from a customer perspective. Three key ones are:
+st
+Customer centricity. Mobility should be simple, sustainable, available and convenient for the customer - this is something the customers have already gotten used to, as other industries like e-commerce,
+retail banking
+and telecommunication companies have been setting the standard for years.
+nd
+COVID-19 is a huge accelerator to these developments, as many customers have major financial insecurities and health concerns on their minds.
+rd
+The mentioned trends have resulted in customers preferring short-term contracts, as with the current unpredictable times, they have started refusing to commit to long-term ones. Moreover, health concerns are also leading to customers wanting to avoid public transport like taking the tube and hopping on busses. Instead, they prefer individual transport options."
+Therefore, providing individual transportation options that are safe, flexible and at the same time affordable - is key for every mobility provider. However, one question remains: How will this customer behaviour affect other stakeholders, such as the automotive finance providers, dealers and the OEMs?
+This question is addressed by Deloitte in their whitepaper created prior to COVID-19, 'The Future of Automotive Sales & Aftersales'. A projection on an overall decline in the traditional OEM business model has already been made in both sales but especially aftersales, with 55% decline due to electric drive trains being much simpler and more durable. To cope with the future challenges, OEMs need to recalibrate their asset and especially, service offerings, but also their sales channels and retail network. Therefore, the role of dealerships will also change significantly in the future.
+On the other hand, the projections for financial services and Car-as-a-Service are on the rise. Captives are already main profit contributors to the OEM groups but they will continue to gain significance. "In traditional financial services, we see an increase of more than 30% - for Car-as-a-Service however, we even project a triplication of revenue", as stated by Deloitte.
+In addition to that, COVID-19 is even further accelerating this development: service-based profit pools will continue to gain importance. Car-as-a-Service really is the rising star in the industry. This was also agreed upon by industry expert Johannes Riedl when he added, "For Car-as-a-Service, this is the mobility end-game, especially with connected, autonomous, shared and electric vehicles."
+When Johannes was asked by Ingo to share examples about the recent development within Car-as-a-Service, and what a successful customer experience looks like, he responded, "Every successful mobility offering is in fact, a type of marketplace. It matches the demand for mobility with a dynamically adjusted offering out of a variety of mobility services. Today, there is still a multitude of specialized apps for any kind of mobility service outside. As the different suppliers are in a rough competition for the customers, they have started integration. Currently, there are all kinds of activities going on with horizontal and vertical integrations becoming the new norm."
+He continued, "Consumers wish for an all-inclusive solution providing them with the flexibility and convenience they require. Therefore, from a technical perspective, it is mandatory to deploy a connective super-app to fulfil the customer demand. As well, from a mobility service perspective, it is important to broaden the offered services, such as diversification and multi-service offers, in order to attract a critical mass of users. Both Uber and Grab, are not only offering ride sharing, but also, a variety of services related to a car. Mobility of the future will be a platform play. This of course, has a large influence on existing businesses and operating models."
+So, what will be the most important changes?
+Ingo Schmuckall responded, "In order to successfully offer 'Car-as-a-Service' models, auto finance companies need to deploy three core business capabilities complemented by certain enablers:
+Flexible financing options, including operating lease, subscription and rental - and dynamic pricing - enabled by omni-channel sales platforms.
+Car and asset management - combining multiband fleet management, utilization management - enabled with highly efficient customer portals and contract management systems.
+Lastly, car-based mobility services, such as maintenance & operations and usage-based services. This is again, enabled by a convenient and digital customer journey as well as data analytics."
+The key question is: what the underlying technology will look like. Johannes embarked upon this question with, "There are three core capabilities, which can be enabled by three core technologies:
+Financing options can be enabled with Artificial Intelligence. To create the best mobility offering, a lot of numbers need to be crunched. Artificial Intelligence allows for flexible and adapted offerings, as well as a dynamic pricing.
+Car and asset management require an open, transparent and secure view for different stakeholders involved. Blockchain is a great technology for everyone participating in the mobility service environment.
+In order to offer a range of individual mobility services, it is mandatory to evaluate a lot of data. IoT enables them to collect relevant telematics data form the vehicle and the driver, which are then aggregated, analyzed and supported to build the bases for tailoring the provided services.
+NETSOL's mobility marketplace Otoz, is based on those three technologies: Blockchain, Artificial Intelligence and IoT. Therefore, Otoz is able to match the supply and demand in the dynamic way we mentioned before - and it is all combined into one easy-to-use digital customer journey."
+Ingo Schmuckall added, "A compelling customer journey is fundamental for the new world of Car, Finance and Service. This customer journey needs to be as simple and convenient as possible. Just a few steps, minimum information to provide, fully digital - and without any media breaks, such as printing, scanning and physical mail. That is the only way to attract customers to your offering and to bring enough traffic to your platform, for your new Car-as-a-Service products to be profitable."
+To further dig into Car-as-a-Service and learn how to digitalize experiences for customers, Johannes Riedl asked Ingo Schmuckall, "Is there anything that we can do as a finance company right now, to build that kind of customer journey from a process perspective? Even if we don't have a fully service-based offering today?"
+"There are many hurdles in the current
+loan origination software
+process. Currently, there is nothing as easy as search, select and pay. A car loan today, usually still involves a lot of paperwork; most processes are still conducted manually." Ingo responded. "Captives have to deal with manual processes which includes paper, emails and calls - from both customers and dealers."
+This situation has a long history:
+Captives utilizing dealers as indirect sales channels.
+Legal restrictions in signing loan and lease contracts digitally.
+The lack of digital transformation in the past years.
+However, potential car buyers are becoming increasingly willing to purchase their next car online; it is said to be around 47% in the EU, as per Deloitte's Global Automotive Consumer Study. As they also demand a seamless experience, there also needs to be - a digital way - for loan and lease processes. An Omni-channel point of sales platform that is seamlessly connecting customers, dealers and finance companies. Everybody sees the same document and verifications can easily happen in the system with automated integration. From an on-boarding perspective, it can now be almost as easy as search, select and pay. The customer can search and select their car and the suitable financial service product from the comfort of their couch. In addition, the dealers are enabled and can upload used & new cars and can assist with processing the loan.
+There is a lot of potential and an increased demand for customer and dealer self-services, as we know it from other industries - such as retail banks, e-commerce and telecommunication providers. Nobody wants to call hotlines any more to get information about their loan or write a letter to change their address.
+Analog and manual processes not only contradict the concept of customer centricity that most auto finance companies strive for, but they also are the root cause for a lot of operational cost and inefficiencies. Adding to this, Johannes shared how some of NETSOL's customers have cut down about 80% of their customer services teams because inbound calls have decreased by 80%. Some automotive finance companies are more mature than others.
+There is a need for a maturity model for automotive finance companies regarding CaaS.
+Maturity levels are generally measured in 5 stages:
+Initial
+Defined
+Managed
+Quantitative
+Optimized
+On the initial stage 1, we see captive finance companies serving traditional customers. For them, captive finance has not changed since the seventies. Their value driver is still sales financing/sales support. They mostly offer financing products over offline channels and rely on dealers as well as largely manual processes and services.
+While on stage 5, captive finance companies as thought leaders of this industry, will already be providing Car-as-a-Service especially to their digital-native customer basis. Both back and front office are fully digitalized, and their customer interaction is completely self-service based and connected to major data providers.
+A detailed panel discussion on how things will change for the auto industry also took place at the Motor Finance Europe Conference & Awards - Virtual Experience.
+The panel discussion was between Johannes Riedl from NETSOL Technologies, Ingo Schmuckall from Deloitte Consulting and James Comrie, Director
+Wholesale Finance
+, Close Brother Asset Finance.
+To listen to the full panel discussion, watch
+Fireside Chat
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

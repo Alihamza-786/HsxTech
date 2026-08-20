@@ -1,0 +1,54 @@
+https://netsoltech.com/blog/the-impact-of-covid-19-on-the-automotive-industry
+Blog
+The Impact of COVID-19 on the Automotive Industry
+By
+Murad Baig
+Chief Innovation Officer, NETSOL Technologies Inc.
+, on May 4, 2020
+The Coronavirus pandemic has impacted the global economy severely, making it the worst recession in a century, according to the International Monetary Fund (IMF). With the IMF reporting a drop of 3% in the global GDP and the World Trade Organisation (WTO) indicating a 13-32% decline in global trade in 2020, countries on both sides of the aisle, both developed and developing, have scrambled to issue stimulus packages to keep their economies afloat.
+Table of Contents
+Macroeconomic View
+Share this Blog:
+Stringent travel bans, social distancing and mass quarantines have plunged production and reduced consumer and business spending, escalating a global recession. Businesses belonging to a range of industries have lost revenues and undergone cost-cutting which has resulted in a sharp rise in unemployment. Airlines, automotive, tourism, retail and hospitality industries are amongst the worst hit sectors amid the Coronavirus pandemic.
+Impact on the Automotive Industry
+COVID-19 came at a time when the automotive industry was already nervous with its three biggest markets (the United States, China and Europe) facing problems. The US market was concerned about sustaining the sales of vehicles (especially SUVs and trucks), the Chinese market experienced a decline in growth for the last two years, while in the European market, car-makers were facing difficult CO2 targets to sell EVs which recorded low-margins. With the industry experiencing squeeze from three sides, COVID-19 came on top of it to disrupt
+supply chain operations
+and eventually halting production across markets.
+The global
+AWS supply chain management
+for auto-manufacturing was disrupted when the city of Wuhan and Hubei province went into extended lockdown resulting in a shutdown of a major car-making and auto-parts hub of the world. The Financial Times (FT) recorded that international auto-manufacturers struggled with the shortage of parts to keep their industrial engines running. The Financial Times reported Jaguar Land Rover scrambled to fly parts out of China in suitcases just to keep production going. Eventually, production in Japan, Europe, the United States and other large markets came to a stop due to social-distancing practices, health and safety concerns and a shortage of parts.
+In the United States, the lockdown forced Ford and GM to suspend dividends and tap emergency credit lines to keep afloat. In Germany, automotive giants BMW, Daimler and Volkswagen have fixed costs in the ballpark of â‚¬400 million per day combined, according to the Financial Times. Automakers including VW, Renault, PSA, GM and Fiat are said to be requesting bailouts for their local units in Brazil. The Society of Motor Manufacturers and Traders (SMMT) reported that UK car output fell by 37.6% - ten times worse than Brexit drops. The extended lockdown period will wipe out global auto-production by 21-18% for the year 2020, according to Frost & Sullivan.
+Fortunately, all is not lost for the auto industry. The industry has shown incredible resilience and the ability to bounce back quickly from the economic downturns of the dot com bubble and the 2008 financial crisis. Further, automakers have taken steps to 'crisis-proof' their businesses since 2008 with most of them having much more cash and available credit on their balance sheets as compared to 2008, a silver lining which is advocated by remarks from top executives.
+"The big advantage between the crisis now and 10 years ago is that capital markets are very liquid and interest rates are very low, so I am pretty certain we won't see a cash crunch," stated Porsche Chief Financial Officer Thierry Kartochian.
+The coronavirus crisis represents a challenge for which there is no comparison. VW's financial unit says it has relatively low credit risks and liquidity is "sufficient at present", according to Volkswagen's Financial Services Chief Lars Henner Santelmann.
+BMW CFO Nicolas Peter said the automaker's risk management was prepared for another crisis. "Compared with the financial crisis of 2008-09, we have increased our backup line of credit to â‚¬8 billion from â‚¬6 billion and we have over 40 global banks included in this."
+Daimler CFO Harald Wilhelm told Automotive News Europe that he aims to maintain net industrial cash at no less than â‚¬10 billion to cope with unforeseen events. "We have to juggle our cash flow, investments, dividends and some one-off charges that become cash effective, so that cash remains above that figure," he stated.
+Impact on Auto-Captives
+Automotive captives, the financial arm of OEMs contribute to one-third of their OEM group's total profit on average through traditional business models of leasing and financing. The impact of Coronavirus on the automotive industry is going to have a trickle-down effect on auto-captive and dealers who were already engaged in facing challenges posed by the Uberisation of the auto industry. Captives and dealers are witnessing a complete wipeout of demand from consumers due to uncertainty in job security and a rush to secure savings. Top tier consultancies, McKinsey & Company and the
+Boston Consulting Group
+, have posted customer sentiment surveys anticipating the spending behavior that shows customer intent to spend on an automobile is ranked lowest - which is found to be consistent across all major markets i.e. the United States, the United Kingdom, France, Germany, Italy, China, India and Japan.
+The crisis has placed a roadblock in managing customers who want to return the vehicle at the end of the lease term and subsequently renew their contracts, a customer relationship which is prized by lenders and dealers. In Italy, at least 70% of dealers are at a brink of insolvency, according to Bain & Company. New-car sales in France fell by 89% in April, according to industry group CCFA, with the country under Coronavirus-lockdown for the full month and showrooms closed. In the United Kingdom, new registrations for cars plunged by around 44% in March following the closure of showrooms.
+Our Perspective at NETSOL
+The current situation poses great uncertainty as to how the world will operate post COVID-19. We are optimistic about the auto-industry and believe that the industry will match 2019 levels of vehicle sales in 2-3 years and will achieve growth in 3-5 years, provided we don't experience a resurgence of the virus by having a vaccine in place to resume travel, restore consumer confidence and reinstate business activity worldwide. We also believe that OEMs with a majority of their profit share from the Chinese market will get a lifeline as a result of China's comeback from COVID-19 and restored consumer confidence, while western economies rally behind China. We are extending our recommendations to help auto-captives navigate through the rough waters and mobilise sales during the COVID-19 crunch.
+Recommendations
+Subscriptions:
+The current situation has posed a threat to job security and customers will hesitate to lock themselves in a long-term lease. The subscription model will provide customers with the flexibility to cancel the subscription anytime without any upfront commitment. Moreover, it comes with all services (insurance, maintenance and roadside assistance, etc.) included, assuring peace of mind for customers.
+Promotions:
+Auto-captives and dealerships have to come up with innovative promotional campaigns to trigger sales. For example, during the 2008 financial crisis, Hyundai Motor America acknowledged Americans' worries about job security and launched a campaign allowing any buyer of a new Hyundai to give the vehicle back in case of a loss of job within a year.
+Digitisation of services:
+Captives and dealerships have the best opportunity to execute digital transformation by shifting resources from operations which are currently sitting idle. Digital services such as
+online broker portals
+, chatbots to clarify FAQs and virtual showroom tours should be immediately rolled out to assist customers. Also, services such as vehicle delivery, pick-up, and renewal and extension of leases should be digitised to minimise ambiguity and eliminate any hassle for customers.
+Lease Extensions
+Leasing companies should consider extending leases free of charge, as well as increasing mileage caps to accommodate the extensions. This measure will help customers return the vehicle safely when the lockdown is lifted, bolstering the relationship with the
+lender portal
+and dealer.
+Re-purpose the Fleet:
+Captives and dealers with light commercial vehicles can make their fleet available for delivery companies on subscription to help delivery firms meet the surge in demand due to COVID-19.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

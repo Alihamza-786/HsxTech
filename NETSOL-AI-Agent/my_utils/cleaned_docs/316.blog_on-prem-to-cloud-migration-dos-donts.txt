@@ -1,0 +1,48 @@
+https://netsoltech.com/blog/on-prem-to-cloud-migration-dos-donts
+Blog
+On-prem to cloud migration - do's & don'ts
+By
+Peter Minshall
+Executive Vice President - North America at NETSOL Technologies Inc.
+, on December 16, 2020
+In the second part of the series, we explore the Don'ts of On-prem to Cloud migration. Companies are often left unsatisfied and disappointed when the migration to Cloud does not turn out as planned. Whilst the expected benefits of a successful migration outweigh the efforts and costs involved, such as higher profitability over time, increased security, better resource utilization and the ability to scale up and down as required, the reality that companies experience can be different As much as it is important to know the best practices for a successful migration, it is equally critical to be aware of the pitfalls that can turn a potentially successful migration into a failure or a cost intensive project. Whether the migration is being done internally or through a vendor, it is essential to avoid certain mistakes.
+Table of Contents
+Share this Blog:
+In the first part of this series, we stated that this is not a technical guide for Cloud migration - rather a reference point for project leaders involved in such an initiative. This is the same for this article, but this part should be kept even closer and reviewed even more regularly by those leaders. Many change initiatives that have failed and have done so because leaders become blind to the pitfalls and chase the dream rather than the reality of change. Many successful initiatives are successful because they addressed the realities pro-actively and pragmatically. Understanding the "Don'ts" is a real part of that reality check.
+1. Don't Lift & Shift
+One of the most common mistakes organizations often make is to take their existing on-prem setup to the Cloud as it is. Not all workloads in an organization's environment are designed to provide the expected benefits when enabled on Cloud, hence, it is of utmost importance to identify which of the workloads can provide greater business value based on factors such as agility and performance. It means that not all operations are to be migrated to Cloud and should be left to be managed on premise.
+2. Don't believe that just because there are project costs - that Cloud is expensive over time
+Many organizations find themselves reluctant to take the first step towards
+Cloud migration
+because of the misconceptions around associated costs. Often organizations believe the costs of migrating to Cloud to be high. On the contrary, costs are generally lower when it comes to
+Cloud adoption
+. Migrating to Cloud enables organizations to opt for subscription-based pricing, which means they only pay for what they are using. A comprehensive view of costs and the business case of Cloud is critical to its success. Project, subscription, license, maintenance, and service operations costs all need to be included in the case.
+3. Don't forget security compliance
+Another important driver for migrating to Cloud is data security. It is often believed that on-prem data storage is more secure as compared to Cloud storage. This, however, is another false assumption. Technology experts now believe that reputable third-party
+Cloud powered solutions
+are more capable of providing
+cyber financial solutions
+. As far as that goes, it is still very much important not to overlook security measures. Most of the breaches occur at the operations layer, which is why, organizations need to ensure that all security policies are in place and internal teams are made aware of all necessary security protocols regardless of their Cloud partner's capability to provide security.
+4. Don't forget 3rd party integrations
+It must be taken into consideration how 3rd party applications or APIs will access the system post-migration. IT departments need to clearly identify how these integrations are going to be managed and the level of access given to them. These factors must all be thoroughly considered and included in the initial design and architecture. Whilst the inclusion of these integrations in the project may add complexity at first sight, a failure to consider them will have far-reaching implications for the project; and there may even be opportunity for synergies within the Cloud environment going forward that can be accessed.
+5. Don't conduct testing in production environments
+Deploying a testing environment is sometimes considered to be a waste of money and as an unnecessary cost center. Contrary to this thought, what should be considered is the how much money a company may lose if something goes wrong while conducting testing in the production environment. If testing is done within the production environment, testers are putting actual data at risk of being compromised. All testing needs to be done in the testing environment before the actual production rollout. Moving to Cloud comes with an advantage of quickly creating and easily managing multiple environments that can mirror the actual production environment. Saving on an environment within a Cloud project is often a very short-sighted approach - indeed the real flexibility of Cloud is the ability to add additional environments quickly to enable projects and landscapes of varying complexity.
+6. Don't proceed without a governance infrastructure
+Many organizations become complacent when it comes to creating a solid governance infrastructure. - Having or not having a proper governance infrastructure can have a direct impact on the project. The objective of governance infrastructure is not to enforce policies but rather create clear guidelines for
+effective Cloud management
+. It helps in tracking performance, allocation of resources and adjusting the alignment of objectives to meet organizational goals. For example, unnecessary Cloud usage may result in increased costs and inefficient resource utilization.
+7. Don't undermine the importance of post-migration testing
+Once the migration is complete, it may look like everything is in place and working as intended, however, the only way to validate this assumption is through testing. The IT team needs to plan post-migration testing activities to check whether the migration is done successfully or not. Load and stress testing also need to be conducted as it would be wrong to assume that the application will work the same way as it did on the physical server environment.
+If you are interested in finding out how our
+finance transcend platform
+has successfully carried out Cloud migration for its customers,
+Contact Us
+today!
+This is the second article of the series highlighting On-prem to Cloud Migration: Do's and Don'ts.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

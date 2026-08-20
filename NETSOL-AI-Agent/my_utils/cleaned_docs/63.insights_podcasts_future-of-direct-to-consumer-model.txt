@@ -1,0 +1,38 @@
+https://netsoltech.com/insights/podcasts/future-of-direct-to-consumer-model
+The future of the direct-to-consumer model - NETSOL x AFSA podcast
+In this episode of the AFSA Extra Credit Podcast, sponsored by NETSOL Technologies, host Dan Bucherer brings together Bryan Chance, Global Connected Tech and Urban Mobility Leader at EY; Katie Johar, Americas Automotive, Captive, and Equipment Finance Leader at EY; and Eva Kellershof, VP Sales North America and Europe at NETSOL, to examine the evolving landscape of
+automotive retail solutions
+and direct-to-consumer models in
+vehicle leasing software
+. The conversation is deliberately balanced, the panel examines both what the DTC model can deliver and, crucially, where it falls short.
+About this episode
+The direct-to-consumer model has moved from concept to commercial reality across parts of the automotive industry, but its trajectory has been uneven and, in some markets, actively complicated. Some OEMs have pursued full DTC transitions only to encounter dealer resistance, regulatory friction, and customer journeys that proved harder to execute at scale than the strategy assumed. Others have found that digital-first consumer engagement works most effectively not as a replacement for the dealership but as a layer that extends and enhances it.
+This episode draws on perspectives from EY's automotive practice and NETSOL's European sales leadership to examine the DTC question from multiple angles, strategic, operational, and commercial. Eva Kellershof brings particular depth to the European dimension, where some of the most high-profile DTC experiments have played out, and where the lessons learned carry direct relevance for the US market now facing similar structural questions.
+What you'll learn
+This episode is built for automotive finance leaders, captive executives, OEM strategy teams, and technology providers navigating where the DTC model fits and where it does not, within a broader omnichannel retail strategy. It covers:
+What the DTC model actually promises for OEMs, captives, and consumers and the specific conditions under which it can deliver.
+Why the DTC model has struggled in certain markets and what the European experience reveals about the structural barriers that US participants should anticipate.
+The dealership's enduring role in the vehicle purchase process and why removing it entirely is neither commercially straightforward nor universally desirable for consumers
+How seamless customer journey design, rather than channel elimination, is emerging as the more practical and durable competitive advantage
+How AI and the EV transition are reshaping the context in which DTC and omnichannel strategies are being evaluated.
+Key themes from the discussion
+Two tensions shaped the conversation throughout:
+DTC is a spectrum, not a binary.
+Bryan Chance and Katie Johar are clear that the most useful way to think about DTC is not as a yes/no question but as a question of degree, how much of the journey should be owned directly by the OEM or captive, at which stages, and for which customer segments. The panel agrees that consumers increasingly expect digital capability throughout the buying process, but that the expectation of digital availability is distinct from the expectation of buying entirely without a dealer. The NETSOL blog on
+rethinking auto retail
+covers why omnichannel dealerships, not pure DTC are the model winning in practice across the markets where this has been most rigorously tested.
+European lessons are a warning, not a blueprint.
+Eva Kellershof's contribution is one of the most practically valuable parts of this episode. Her perspective from the European market, where several OEMs moved aggressively toward agency and DTC models, introduces important caution. The transition has proven complex: dealer relationships have been strained, customer journeys have not always been smoother than what they replaced, and some rollbacks or modifications have followed initial launches. The MINI Anywhere case study offers a contrasting example, a digital retail model that enhances the buying journey without requiring the elimination of the dealer relationship, and which has delivered measurable results at scale in the US market.
+Going deeper: Related reading
+For automotive finance leaders building their retail strategy for the next cycle, the
+seamless auto retail whitepaper
+provides a structured framework for how to design customer journeys that are genuinely seamless across channels, the capability that determines whether a DTC or omnichannel strategy actually delivers on its commercial promise. The full episode is available on the
+NETSOL AFSA direct-to-consumer podcast
+, published January 28, 2025.
+Related
+podcasts
+Podcast
+Data Migration in Asset Finance: Strategies, Pitfalls & Real-World Insights
+Navigating change management in long-term projects – Lessons from the field (episode 3)
+Strategy with Jason podcast featuring NETSOL's Adam Bruttell (Digital auto retail)
+Fighting fraud in wholesale finance | NETSOL podcast

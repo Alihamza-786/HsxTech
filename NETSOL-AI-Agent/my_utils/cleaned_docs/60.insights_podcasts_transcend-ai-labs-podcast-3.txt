@@ -1,0 +1,38 @@
+https://netsoltech.com/insights/podcasts/transcend-ai-labs-podcast-3
+What's next for automotive retail? | Transcend AI Labs podcast #3
+In the third episode of the Transcend AI Labs Podcast, the NETSOL team examines the strategic logic behind this framing and why dealers and OEMs, and technology leaders need to do now to stay ahead of it. Anchored in NETSOL's
+Transcend auto finance platform
+, this conversation covers the forces reshaping the industry fastest: AI deployment at scale, the evolution of DTC alongside the dealership model, and the emergence of agentic commerce as a genuine near-term reality for auto retail. The episode offers practical, forward-looking perspectives for leaders navigating the next era of car buying.
+About this episode
+Automotive retail is at an inflection point. The tools available to dealers, OEMs, and captive finance companies have advanced significantly in the past two years, but adoption has been uneven, and many organisations are still trying to determine where AI creates durable competitive advantage and where it creates overhead. At the same time, the North American market faces structural shifts that are compressing the window for indecision: consumer expectations are changing, DTC experiments are producing real lessons, and the technology stack required to compete is becoming more demanding, not less.
+This episode is a direct conversation about what comes next, grounded in what NETSOL is building, deploying, and observing across its
+connected automotive retail
+client base in North America and globally.
+What you'll learn
+This episode is built for OEM strategy teams, dealership groups, captive finance leaders, and technology executives evaluating how AI and digital retail transformation intersect in the next 12 to 60 months. It covers:
+How the dealership model and DTC are evolving as complementary rather than competing channels and what the operational and technology implications are for each
+The specific industry shifts OEMs and dealers should be preparing for in the next 12 months, including changes in consumer behaviour, platform expectations, and competitive dynamics.
+What the North American automotive retail market could look like over the next five years, and which strategic bets are most likely to hold value across different scenarios.
+NETSOL's latest AI use cases in production across automotive retail and finance, from intelligent document processing and credit decisioning to AI-powered customer engagement.
+What agentic commerce means in practical terms for auto retail, how AI agents acting autonomously within defined parameters are beginning to reshape parts of the buying and financing journey.
+Key themes from the discussion
+Two themes defined this episode:
+Dealerships and DTC are not opposites, they are layers.
+The episode's framing on this point is deliberate. The question is not whether DTC replaces the dealership. In the North American market in particular, the regulatory and commercial evidence does not support that conclusion in the near term. The more useful question is how each channel in an omnichannel stack does its job well, and how technology enables the customer to move between them without friction or repetition. The blog on
+future of auto retail
+examines the strategic logic behind this framing, why the dealers and OEMs investing in connected, AI-enabled retail infrastructure are outperforming those still treating digital as a separate channel.
+Agentic commerce is closer than most organisations are planning for.
+The episode's discussion of agentic AI is grounded in what is already in deployment rather than speculative roadmapping. AI agents capable of handling defined tasks within the finance and retail lifecycle, retrieving data, drafting proposals, processing documents, and responding to queries, are operational in NETSOL's platform today. The conversation examines what the next phase looks like: agents that act with greater autonomy across more complex sequences, and what governance structures organisations need to have in place before that capability is extended to customer-facing contexts.
+Going deeper: Related reading
+For automotive and finance leaders building their AI strategy for the next cycle, the whitepaper
+AI in auto finance
+cuts through the noise to examine what AI actually means in practice for auto finance organisations, which use cases are delivering, which are still maturing, and what the strategic priorities should be. Motor Finance Online's feature on the
+NETSOL blueprint for the future of mobility
+provides independent industry context for the strategic direction this episode covers, examining how NETSOL is positioning for electrification, connected vehicles, and new ownership models across the automotive finance sector.
+Related
+podcasts
+Podcast
+Data Migration in Asset Finance: Strategies, Pitfalls & Real-World Insights
+Navigating change management in long-term projects – Lessons from the field (episode 3)
+Strategy with Jason podcast featuring NETSOL's Adam Bruttell (Digital auto retail)
+Fighting fraud in wholesale finance | NETSOL podcast

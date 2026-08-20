@@ -1,0 +1,80 @@
+https://netsoltech.com/blog/the-cloud-on-your-horizon
+Blog
+The Cloud on your Horizon
+By
+Rao Hafiz Atif Khan
+Former Country Sales Manager NETSOL China
+, on February 28, 2018
+These days, it's a challenge to find a discussion of IT without a mention of cloud computing. Most observers agree that the cloud has the potential to revolutionize how technology is deployed, delivered and consumed. But how do managers who are not technologists understand the benefits and risks of adopting mission-critical business applications deployed from the cloud? In this, the challenge facing decision-makers is a familiar one: How to assess the productivity enhancements and resource efficiency of a new tool while protecting business lines, key relationships, and time-tested processes.
+Table of Contents
+What is Cloud Computing?
+Three's a Cloud - The Cloud Computing Pyramid
+Share this Blog:
+In the case of cloud computing, even the late adopters among us know it's a hotly-debated concept. Indeed, Gartner Research says cloud computing "... will be as influential as e-business." But what does the term mean?
+Turning again to Gartner, Cloud computing is "...a style of computing in which massively scalable IT-related capabilities are provided as a service using Internet technologies to service multiple external customers."
+If that definition brings little enlightenment, consider that we are all practiced cloud customers simply by having been consumers of information, senders and receivers of email, or buyers of products via the Internet. The information we view on a website is delivered to us (via a Web browser) from the cloud. The emails we have sitting in a Gmail or Hotmail account do not reside on our laptop but, rather, are accessed from the cloud. (If you've ever tried to catch up on your Gmail during a plane ride, you have already mastered this concept, however unwillingly.)
+Notice that you never had to install any software (beyond a standard Web browser) in order to use your webmail service, listen to online music tracks, watch YouTube videos, edit Google docs, play Facebook games, or share photos with friends and relatives. Notice also that the "service" (Gmail, YouTube, Skype, Facebook, etc.) works on virtually any device, be it a Mac, PC, smartphone, or tablet.
+And, finally, note that you have used most of these tools without having to pay for them. In most cases, the only "cost" has consisted of providing your own contact information and in being exposed to online ads. If there has been a cash outlay, it has been minimal in comparison to the
+Cloud services
+or application being replaced. For example, you can still purchase and install the Microsoft Office suite of business applications for about $175. Or, you can use its cloud computing counterpart - Office 365 - for $6 per user per month.
+So congratulations - You are already a veteran cloud computing consumer, enjoying the key
+benefits of cloud computing
+as a method of delivering information, services, and applications:
+Nothing to buy
+Nothing to install
+Nothing to upgrade
+Minimal cost - based on usage
+Device agnosticism
+The cloud is not really a technology in itself. It is more accurately described as a method of building and deploying IT resources, Web-based information-sharing services, and business computing intelligence. Its architectural components mirror the basic IT building blocks of a typical IT environment.
+Within the traditional firewall, the IT team assembles an Infrastructure of computing resources for the development and delivery of information and computing capabilities. On this foundation are built platforms or environments for the development of services and applications. This is the fertile soil where business software applications - and their stores of data - will be developed and deployed to business users, each one using installed client applications that are connected by a network to servers, where the computing horsepower resides.
+Similarly, the basic architecture of the cloud can be visualized as a pyramid, with the classic tri-level resource stack recapitulated as three levels of service: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and
+Software-As-A-Service (SaaS)
+. Using the flexibility of the cloud, an IT organization can extend precisely controlled usage of an application and access to data to users both behind and outside the firewall, including business partners who might not ordinarily have real time system access.
+As one observer has explained, "In essence, cloud computing is the broadest possible extension of the classic client-server computing model. But in this extension, because of the ubiquitous nature of the cloud, the idea of a specific "server" being contacted goes by the wayside. The server itself becomes a virtualized abstraction, while the main object of the transaction - the resource being served - remains anything but an abstraction, whether this resource be
+database processing
+, memory (data storage), or applications tools."
+What Benefits does the Cloud Offer?
+Low Initial Investment
+The Software-as-a-Service model is the ideal mechanism to provide an operational team with the mission-critical software it needs at a much lower initial cost that would have been the case with the traditional license-and-install-and-maintain model.
+In an industry like ours, with its technological conservatism and shrinking margins, cloud computing's cost-effectiveness makes it a compelling option for buyers seeking new tools to operate and collaborate more effectively and efficiently. With the recent appearance of SaaS offerings for equipment leasing and finance, upgrading to an improved origination or finance accounting solution no longer means writing a fat check, bringing in new IT staff, buying new servers and networking hardware, or making what often proves to be a decade-long commitment. Even more importantly, the economics of software as a service mean that smaller organizations no longer need sacrifice solution scalability or functionality due to cost concerns.
+Software that Grows with your Business
+The elasticity of the SaaS model is ideally suited to enable organizations to link the costs of their system usage with their cash flow. In simple terms, cloud computing is a pay-per-use model. Whether transaction-based, contract-, or asset-based,
+cloud computing for finance
+pricing models provide real economic benefits in terms of lowering total cost of ownership and simplifying cost projections. The bottom line is that software customers can now spend for exactly as much usage of a solution as they actually need.
+Reduced IT Infrastructure Costs
+Cloud computing services are hosted by the provider, eliminating the need to buy additional servers and other hardware or to add to IT support staff.
+Operational Flexibility
+Cloud Services are accessed securely through a web browser giving you and your staff access to vital business information anywhere, anytime, from any computer device. This makes implementing a flexible, mobile working system quite straightforward.
+Business Continuity
+Too often overlooked, business continuity and disaster recovery planning is an important added benefit that cloud computing brings. Additionally, the host organization assumes responsibility for 24/7 system availability, data backup, and database administration.
+Early Adopters and the Economies of Necessity
+Like any new technology, cloud computing has had to work its way through the typical levels of resistance along the path to general adoption. Not surprisingly, the early adopters have been found among the IT teams of organizations. They have been among the first to recognize cloud computing as a cost-effective, low-risk means to highly elastic computing resources with minimal capital expenditures and minimal human resource requirements.
+But as Geoffrey A. Moore, author of Crossing the Chasm, has observed, "Technological changes do not live in isolation but rather come under the influence of changes in surrounding technologies as well." Growing acceptance of Internet-based services and applications as a fact of daily life is having an effect inside large-scale enterprises, including those engaged in financial services and
+equipment finance software
+New Choices for New Challenges: The Growing Menu of Cloud Computing Options
+The exciting news is that there is a growing range of cloud computing choices that invite customers to enjoy the advantages of pay-as-you-go economics as they access applications that streamline every component of the finance life-cycle.
+An example would be NetSol Technologies' NetSol Financial Suite (NFS), a modular portfolio management system comprised of three complimentary, fully integrated components, all newly available as Software-As-A-Service offerings to North American customers:
+NFS Credit Application Processing (NFS-CAP)
+: A powerful deal origination workflow management system, with powerful tools for credit adjudication, pricing, and document generation and management. NFS CAP streamlines management and processing of credit applications from dealers agents brokers and the sales field, enabling dealers, vendors, and borrowers to interact with funding sources for quotations and for submission of credit applications.
+NFS Contract Management System (NFS-CMS)
+: A complete, end-to-end
+lease origination solutions
+and portfolio management system. With its functional depth, bank-level security, triple audit controls, and scalability, NFS-CMS manages accounting, billing and collections, reporting, customer service tools, and asset management.
+NFS Wholesale Finance System (NFS-WFS):
+A solution for manufacturer's captives, and independent and bank-owned finance companies that provide floor planning or stock finance facilities to a supporting distribution network. NFS-WFS automates the entire
+wholesale finance
+life cycle, covering manufacturer distribution, unit detail validation and valuation, security registration and settlement, including retail finance contra-settlement where applicable.
+The Forecast: Cloudy, with a Chance of Windfalls
+Slowly but surely, leasing and finance managers are recognizing that cloud computing offers significant strategic benefits. The technology promises to level the playing field by making the best technology affordable for all players. It also represents a new kind of operating platform, one that will enable smart managers to find extremely cost-effective ways of outsourcing and automating the least critical components of the portfolio management cycle, enabling their teams to focus on what they do best.
+If this sounds like the beginning of a new way of life for software users, it is. New
+lease servicing software
+and finance-focused cloud computing offerings (for an example, see
+www.netsoltech.com
+) offer vivid proof of the game-changing implications for powerful business applications of pay-as-you-go economics. For early adopters, the option to turn significant new operational efficiency into competitive advantage will be a one-time opportunity to pull ahead of the pack.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

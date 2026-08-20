@@ -1,0 +1,41 @@
+https://netsoltech.com/blog/it-engagement-model-architecture-and-implementation
+Blog
+IT Engagement Model Architecture and Implementation
+By
+NETSOL Technologies
+, on July 27, 2023
+"The defining principles of an EA (Enterprise Architecture) model revolve around the core mission, precedented goals, linear objectives, trivial responsibilities, and ample resources within an organization."
+Table of Contents
+Components of a Game-Changing Engagement Model
+Exploring Engagement Purposes
+Share this Blog:
+The defining principles of an EA (Enterprise Architecture) model revolve around the core mission, precedented goals, linear objectives, trivial responsibilities, and ample resources within an organization. In order to make record progress taking everyone along on the transformation journey is one way to ensure fruitful outcomes.
+In this scenario, creating and sharing engagement models across the board helps all stakeholders understand the scope and ultimate EA objectives. A communication plan, followed by funding details and innovative ideas, is documented in the charter.
+In order to to get a better understanding of an engagement model,  let’s look into a variety of components of engagement models:
+Purposeful Engagement
+An EA ensures collaboration among various teams in an organization. It’s essential to be in touch with the ground realities of business processes. That is why each model comes with an engagement purpose. It defines the reasons for interaction between EA teams and other groups.
+Collectively Moving Towards a Common Goal
+A huge part of a successful engagement is collaboration across all platforms and those involved. The population of participants comprises of all stakeholders involved in the process, including the EA team and the groups they interact with, to work towards and achieve the identified goals.
+Meticulous Data Extraction
+Another pivotal component of the EA is carefully executed data extraction. Artifacts are extracted from the data based on analytics and then evaluated or modified by this engagement type for future reference.
+Effective Communication
+A productive communications strategy forms another vital component of a successful EA model. Therefore, effective communication approaches guarantee that all participants agree regarding successes, failures, capabilities, and opportunities. Also ensuring,  that this type of engagement is the most effective.
+Strike on Time!
+Since time is of the essence, hence the timing of an engagement defines the duration a particular task will take. It evaluates the total timeline of the process related to the engagement purpose.
+For a better understanding of these engagement purposes, here are four common categories of EA engagements:
+Strategy Channeling
+When it comes to engagement purposes, strategy channeling tops the list.  This features engagements solely focused on creating support for EA, strategy building, portfolio management, and governance.
+Focus For Successful Outcomes
+In order to secure Engagements focused on evaluating, recognizing, collecting, and drafting artifacts. These elements are responsible for defining the current situation of EA and how it will look.
+Impact on Workflow
+Engagements focused on impacting the current workflow to support the EA’s intermediate and future states.
+Analyzing the Future
+Engagements that focus on influencing future outcomes and decisions that relate to the EA’s intermediate and future states.
+Developing a consistent mindset, strategies, and actions to understand engagement purposes can have additional objectives and approaches, but the major ones have been discussed already.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

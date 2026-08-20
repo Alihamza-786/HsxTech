@@ -1,0 +1,51 @@
+https://netsoltech.com/blog/enterprise-platform-must-haves-for-2021-and-beyond-business-continuity
+Blog
+Enterprise Platforms Must Haves for 2021 and Beyond: Business Continuity
+By
+Kamran Khalid
+Head of Business Analysis Group & Head of PreSales at NETSOL Technologies Inc.
+, on October 19, 2020
+The advent of 2020 and events that unfolded around the globe have made strategic leaders view organizational resilience as part of their strategic imperatives. Hence, effective Business Continuity programs are now sought after more than ever before as they are directly associated to customer delivery commitments and a company's progress towards their goals & objectives.
+Table of Contents
+Share this Blog:
+The term Business Continuity (BC) refers to sustaining key business operations or rapidly resuming them in case of a major shock, whether triggered by a pandemic, natural disasters or geopolitical crisis etc.
+An effective business continuity plan highlights processes and guidelines that an enterprise must adapt when faced by adversities that might hamper day to day business operations. While the success of any business continuity plan is also pinned on internal factors such as business processes, capitals and human resources at the same time, external alignment with key stakeholders such as IT
+vendor financing for lenders
+providing enterprise platform is vital.
+Evaluation of your vendor's business continuity plan can give insights on how dependable the enterprise platform and consequent business relation with them really is especially at a time of crisis. Therefore, to verify that all adequate protocols are in line, it is recommended to review the following seven features of your vendor's
+Business Continuity Plan
+(BCP).
+1. Vendor's ability to provide remote maintenance and delivery
+The pandemic in 2020 has taught businesses many things. One of which is the importance of remote working.
+Enterprise platforms
+vendors which cannot remotely manage client servicing and deliver on promises under deadlines will eventually cost you your business reputation. Hence, your vendor's remote working ability should be carefully reviewed.
+2. Contingency plans in case of loss of facility
+After reviewing remote working capabilities, you should analyze vendor's contingency plans in case the facility they operate from is lost. The impact in this case should be analyzed as well. Therefore, for any vendor which claims to be dependable, a solid plan in case of loss of facility is important.
+3. Tried and Tested Plans
+Annual testing of vendor's business continuity plans is important to see how it impacts their ability to provide seamless
+data engineering services
+for their enterprise platform. Moreover, analyzing and addressing testing results and highlighting areas for improvement is also vital to update current business continuity plans.
+4. Relocation strategy and vendor's global footprint
+Vendors which have a robust relocation strategy or have global outreach, and footprint can play a vital role in sustaining key platform services such as maintenance and project delivery at times of regional/national level crisis.
+5. Plans to manage loss of any human resource
+Vendors need to have a clear strategy in place to manage sudden loss of personnel who might be responsible for managing your business account. Hence, a replacement plan should also be reviewed and discussed to manage expectations and ensure continued support from your vendor's client servicing team.
+6. Effective communication strategy during an emergency
+A communications team from your vendor will be responsible to ensure that all stakeholders will be regularly updated, in defined time intervals. Usually, the director of the Customer Service notifies the clients of the announcement of any disaster and consequent plan in motion to mitigate adverse impact. Estimated time for recovery is also communicated by the vendor. Therefore, you should know your point of contact in case a vendor declares a crisis situation.
+While effective communication with vendor at time of crisis is important, it is only a solid internal communication strategy that can help you align your employees with your business goals. A people's first approach to the business continuity plan can be beneficial in ensuring that your employees are taken care of so that they can consequently take good care of your key business stakeholders such as customers, vendors, shareholders etc. Internal Communications, Human Resources and Client Servicing departments can lead the way when a business continuity plan comes into play.
+7.	Cloud Based System or Back Up
+A vendor with
+modern mobility solutions
+can seamlessly provide you different services via the internet using data storage, servers, databases, networking, and software. However, its significance increases by many folds when a crisis situation strikes as
+cloud computing services
+can help an enterprise to swiftly back up sensitive information, data, operating systems, and applications to the cloud with the help of hardware virtualization tools. Moreover, with uploads and downloads speeds getting faster as new technological updates are adopted, recovery time is getting shorter making your business continuity plan more robust. Hence, the importance of cloud is immense when it comes to disaster recovery.
+If you are interested in finding out how NETSOL Technologies has mitigated various risks through effective business continuity planning and has successfully delivered multiple projects by working remotely, check with our
+next gen digital solutions
+here.
+This is the second article of the series highlighting Enterprise Platform - Must Haves for 2021 and Beyond.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

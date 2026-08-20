@@ -1,0 +1,40 @@
+https://netsoltech.com/insights/webinars/digital-dealer
+Increasing Consumer Trust in Digital Retailing
+In this on-demand webinar, Heath Emerson, Digital Retailing Manager at NETSOL Technologies, and David Kain, Senior Advisor at NCM Associates, explore the critical role that
+digital retail platform
+plays in building and sustaining consumer trust within the automotive digital retailing landscape. With cyberattacks on dealership systems becoming more frequent and more disruptive, the session provides a practical roadmap for dealerships looking to strengthen their security posture without compromising the customer experience.
+About this webinar
+Consumer trust is one of the most fragile and most valuable assets a dealership holds. When data breaches occur, exposing customer financial information, personal data, or transaction records, the operational disruption is significant. But the longer-term damage to consumer confidence can be even harder to recover from. At the same time, dealerships are being pushed to move more of the buying journey online, requiring customers to share more sensitive information at every step of the process.
+This session, produced in partnership with Digital Dealer, examines what dealerships must do to close the gap between the digital retail experiences customers expect and the security infrastructure needed to make those experiences safe. Heath Emerson brings over 20 years of automotive industry experience to the discussion, including direct expertise in deploying digital retail platforms across dealership networks at scale.
+What you'll learn
+This session is built for dealership principals, general managers, digital retail managers, and IT leads responsible for cybersecurity posture across dealership operations. It covers:
+How consumer concerns about data protection are directly affecting digital retail adoption rates across dealerships.
+The operational and reputational impact of recent high-profile dealership system breaches and the lessons they carry for the broader industry.
+Key cybersecurity measures that improve both the security posture and the customer experience simultaneously.
+How to communicate effectively with customers about data protection to rebuild or reinforce trust in your digital retail tools.
+Practical steps dealerships can take today to reduce their exposure without requiring a major infrastructure overhaul.
+Key themes from the discussion
+Three priorities emerged from Heath Emerson and David Kain as the foundation for building consumer trust in digital retail:
+Security as a trust signal, not just a risk control.
+The dealerships gaining the most from digital retail are those that treat their security investments as a visible commitment to customers, not just an internal risk management exercise. Transparent communication about how customer data is collected, stored, and protected directly improves conversion rates on digital retail tools.
+Learning from real incidents.
+The session analyses a recent high-profile dealership system breach as a case study, examining the specific attack vectors exploited, the operational disruption caused, and the recovery steps taken. The
+AutoNation's AWS security case study
+demonstrates how a large automotive group approached building enterprise-grade security infrastructure for their digital operations, a practical reference point for any dealership group evaluating their security posture.
+Communication is as important as technology.
+Many dealerships invest in the right security tools but fail to communicate those investments to customers. The panel outlines specific customer-facing messaging strategies that reduce friction at the point of data entry and increase confidence in online transactions.
+Why information security matters for dealerships
+For any dealership operating digital retail tools, customer data flows through multiple touchpoints, from initial online vehicle searches and finance applications through to e-contracting and e-signature. Each of these touchpoints represents a potential vulnerability if not properly secured. NETSOL's approach to digital retail platform security is built around protecting every point in that data flow, ensuring that the transparency and convenience customers experience online is underpinned by infrastructure designed to keep their information safe. For a deeper look at the operational shift underpinning consumer trust in digital retail,
+connected decision flows in auto retail
+explores how integrated, real-time decision-making across the purchase journey is becoming the new baseline dealers are measured against.
+Going deeper: Related reading
+This webinar was produced in partnership with Digital Dealer, the leading media and events platform for automotive retail professionals. The full webinar recording and session description are available on the
+Digital Dealer consumer trust webinar
+for anyone wanting a full background on the session and speakers.
+Related
+webinars
+Webinar
+SME Finance: What Needs to Change to Create Better Outcomes for SMEs, Brokers & Lenders
+Bridging the Retail Gap: What Dealers Really Want from Digital Retailing
+Reimagining the dealership experience with AI and omnichannel retail
+Reinventing Your Dealership with AI and Omnichannel Journeys

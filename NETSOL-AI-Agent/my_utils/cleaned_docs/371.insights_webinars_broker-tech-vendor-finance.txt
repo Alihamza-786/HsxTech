@@ -1,0 +1,44 @@
+https://netsoltech.com/insights/webinars/broker-tech-vendor-finance
+Broker Tech in Vendor Finance: NETSOL | AFC Webinar
+In this webcast hosted by Asset Finance Connect and sponsored by NETSOL Technologies, a panel of industry experts explores how technology is breaking down traditional barriers between brokers and lenders in vendor finance, and how tech-savvy brokers are winning an increased share of vendor business from primary lenders. The session features Jason Hurwitz, Sales Director Europe at NETSOL Technologies, alongside Vincenzo Scalzone from Société Générale Equipment Finance, Malcolm Workman from Shire Leasing, and Joe Lloyd from Complete Leasing Solutions, moderated by John Rees. Brokers and lenders evaluating their vendor finance strategy can explore how NETSOL's
+vendor finance broker portal
+is simplifying and accelerating the origination journey.
+About This Webinar
+The vendor finance market has traditionally been dominated by large banks and a small number of independent lenders. However, a new breed of tech-savvy brokers is entering the space, and they are not just competing for a share of the market. They are actively displacing primary lenders in some vendor relationships by offering faster approvals, greater flexibility, and a more comprehensive service proposition through a single digital interface. For a detailed written breakdown of the key findings from this session,
+broker technology in vendor financing
+covers the full panel discussion, including the specific platform capabilities and hybrid broker models the panellists identified as the most significant developments reshaping the market.
+What Is Driving the Rise of Tech-Enabled Brokers in Vendor Finance
+The traditional vendor finance model has had clear structural limitations that technology is now helping to dismantle. The panel identified four forces reshaping the market, each underpinned by the kind of
+asset finance technology
+that enable real-time connectivity between vendors, brokers, and lenders:
+Speed is the primary competitive lever:
+Shire Leasing's average deal turnaround is just over an hour, from proposal to payout; large bank-owned lenders operating on legacy systems cannot match this, making tech-enabled brokers increasingly attractive to vendors managing smaller, time-sensitive transactions.
+API-first platforms are enabling multi-lender access:
+Brokers using cloud-based platforms with diverse lending panels can now offer multiple finance options through a single interface, providing a service proposition that was previously only available from large institutions.
+The hybrid broker model is gaining ground:
+Brokers are evolving beyond pure intermediation, funding a portion of loans themselves to gain greater control, speed, and margin; this model offers strategic advantages that purely broker or purely lender models cannot replicate.
+Underserved SME vendors are a growing opportunity:
+Smaller vendors that fall below the minimum transaction thresholds of large bank-owned lenders represent a significant addressable market for tech-enabled brokers willing to invest in these relationships.
+Key Takeaways from the Panel
+Three priorities emerged from the discussion for brokers and lenders evaluating their vendor finance strategy. Unlocking the Future with API-First Solutions covers the technical and commercial case for this approach in detail:
+Super configurability is the next frontier:
+The ability to configure finance technology rapidly for different asset types, vendor profiles, and credit appetites is becoming the primary differentiator between technology platforms; one-size systems are losing ground.
+Collaboration beats competition:
+Société Générale Equipment Finance's Vincenzo Scalzone noted that large manufacturers are unlikely to switch wholesale to broker-led models, but growing collaboration between brokers and lenders, where each handles the parts of the process they do best, is creating stronger outcomes for vendors and end customers.
+Automating proposal to payout is now table stakes:
+The baseline expectation for vendor finance technology is same-day processing from proposal to payout; brokers and lenders that cannot demonstrate this capability are already at a competitive disadvantage.
+How NETSOL Is Enabling the Broker-Tech Revolution in Vendor Finance
+NETSOL's Transcend platform is purpose-built for the flexibility the vendor finance market now demands, enabling brokers and lenders to automate credit assessments, document processing, and approvals while maintaining real-time connectivity across the full vendor-lender-customer chain. For a reference point on how NETSOL's technology performs in practice for a UK asset finance lender operating in a broker-led model, the
+Haydock Finance vendor finance case study
+case study demonstrates the operational and commercial outcomes that a fully connected lending platform delivers.
+Going deeper: Related reading
+Finance Connect published a full written review of this session, covering how technology is eroding traditional boundaries between brokers and lenders, the rise of the hybrid model, and the key innovations coming next in vendor finance broker technology. Read
+Finance Connect webinar review
+for the complete analysis.
+Related
+webinars
+Webinar
+SME Finance: What Needs to Change to Create Better Outcomes for SMEs, Brokers & Lenders
+Bridging the Retail Gap: What Dealers Really Want from Digital Retailing
+Reimagining the dealership experience with AI and omnichannel retail
+Reinventing Your Dealership with AI and Omnichannel Journeys

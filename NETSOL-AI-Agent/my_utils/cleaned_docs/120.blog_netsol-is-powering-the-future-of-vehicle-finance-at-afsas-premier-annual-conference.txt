@@ -1,0 +1,101 @@
+https://netsoltech.com/blog/netsol-is-powering-the-future-of-vehicle-finance-at-afsas-premier-annual-conference
+Blog
+NETSOL is powering the future of vehicle finance at AFSA’s premier annual conference
+By
+NETSOL Technologies
+, on January 21, 2026
+NETSOL is proud to announce our participation as a Premier Sponsor and Exhibitor at the AFSA Vehicle Finance Conference 2026 in Las Vegas!
+Table of Contents
+A prominent presence at AFSA 2026
+Experience the power of Transcend Finance
+Introducing Check
+Why NETSOL is at the AFSA Vehicle Finance Conference 2026
+Meet the NETSOL team in Las Vegas
+Why visit Booth 4
+See you at the Bellagio
+Share this Blog:
+From February 1–5, 2026, the American
+vehicle finance software
+community will converge at the iconic Bellagio, Las Vegas for the AFSA Vehicle Finance Conference 2026 and NETSOL is proud to be at the center of the action.
+As a Premier Sponsor and Exhibitor, NETSOL is arriving with a clear purpose: to showcase how modern, AI-driven finance technology is redefining speed, scale and intelligence across the vehicle finance ecosystem.
+NETSOL’s role at the
+AFSA Vehicle Finance Conference
+reflects our deep commitment to the vehicle finance industry and the partnerships that drive it forward.
+Premier Sponsor of AFSA Vehicle Finance Conference 2026
+Exhibitor at Booth 4
+Sponsor of the Vehicle Finance Board Meeting (February 1, 2026 from 12:30 PM – 2:00 PM)
+Our sponsorship goes beyond branding. It’s about contributing meaningfully to conversations shaping the future of retail and wholesale vehicle finance.
+One platform. The entire finance lifecycle.
+At Booth 4, attendees will get a firsthand look at
+Transcend Finance
+, NETSOL’s proven, next-generation platform purpose-built to manage the entire lifecycle of retail and wholesale vehicle financing –all on one unified system.
+Transcend Finance empowers lenders to move beyond traditional financing and orchestrate the broader mobility ecosystem through an AI-enabled, API-first platform. With a proven track record of delivering complex implementations and deep insight into OEMs, it provides a trusted, low-risk foundation for transformation. Transcend unifies wholesale, retail and emerging mobility services, accelerates decisioning and automates complex workflows, driving faster onboarding, higher satisfaction and scalable growth.
+From start to finish, Transcend Finance delivers seamless control and intelligence across:
+Application intake and onboarding
+Credit evaluation and approvals
+Contract origination and management
+Disbursement and funding
+Servicing, billing, and customer management
+Collections and end-of-term processes
+Designed for scale, configurability and regulatory readiness, Transcend Finance empowers lenders to operate faster, smarter and more efficiently, without sacrificing control or compliance. Orchestrate every stage of dealer funding and customer lending, eliminating fragmentation across systems and departments. Gain real-time visibility into portfolio performance, utilization and delinquency trends for proactive decision-making.
+Trusted by world-leading financial institutions, auto captives, commercial financiers and diverse finance and leasing enterprises, Transcend Finance is actively transforming vehicle finance operations across North America and global markets.
+The
+MINI Anywhere case study
+demonstrates the scale of that impact in the US market, MINI USA achieved a 23% increase in average conversion rate from lead to sales over three years, establishing a benchmark for what NETSOL-powered digital retail and finance delivers in a production OEM environment.
+Intelligent credit decisioning. Reimagined
+Also on display at Booth 4 is
+Check
+: NETSOL’s AI-enabled credit decisioning engine that’s redefining how credit and funding teams work.
+Check streamlines and enhances the entire credit evaluation lifecycle by:
+Automating manual and repetitive underwriting tasks
+Aggregating data from multiple internal and external sources
+Processing complex financial documents with speed and accuracy
+Performing in-depth financial and risk analysis
+Accelerating decision timelines while improving underwriting precision
+By combining advanced analytics with intelligent automation, Check empowers financial institutions to work smarter, faster and with greater confidence, turning complexity into clarity and insight into action.
+While Check streamlines and speeds up underwriting, it is built around a human-in-the-loop framework that preserves expert oversight at every step of the decision-making journey. This approach helps mitigate bias, strengthens regulatory compliance and upholds exceptional standards of accuracy and fairness. Through an intuitive chat-based interface, analysts can engage directly with the AI, asking questions, exploring insights and fine-tuning decisions in real-time.
+In an environment where speed and accuracy are competitive differentiators, Check is a game-changer.
+For a deeper look at how AI is transforming underwriting specifically for auto captives, the exact lenders Check is built for, the blog on
+credit intelligence for captives
+examines the structural shift from manual credit checks to AI-powered decisioning across fragmented data environments.
+Every year, the Vehicle Finance Conference has always been where industry leaders come to exchange ideas, confront challenges and shape what’s next. For NETSOL, being here is about partnership, progress and purpose.
+With over four decades of experience delivering mission-critical finance and leasing technology solutions, NETSOL understands the real-world pressures lenders face, from evolving regulations and rising customer expectations to operational inefficiencies and data complexity.
+At the AFSA Vehicle Finance Conference 2026, we’re here to help attendees:
+Modernize legacy systems without disruption
+Unlock operational efficiency through automation and AI
+Scale retail and wholesale finance operations with confidence
+Improve credit decisions while managing risk intelligently
+Future-proof their technology stack for what’s next
+Technology matters, but people make it work. At AFSA 2026, you’ll have the opportunity to connect directly with NETSOL leaders and executives who understand both the technology and the business of vehicle finance.
+Our five-member delegation attending the conference include:
+Peter Minshall
+: Executive Vice President
+Faizaan Ghauri
+: Chief Strategy Officer
+Eva Kellershof
+: Vice President of Sales for North America and Europe
+Haider Naqvi
+: Chief of Staff
+Nandhini Subramanian
+: Field Marketing Manager (United States)
+Whether you want a deep-dive demo, a strategic discussion or a candid conversation about industry trends, our representatives will be ready to engage.
+A visit to NETSOL’s booth isn’t a sales pitch. It’s a strategic working session.
+Attendees can expect:
+Live demonstrations of Transcend Finance and Check
+Insights into how leading lenders are modernizing operations
+Practical use-cases across retail, wholesale and commercial finance
+Conversations grounded in real-world challenges
+A roadmap for leveraging AI responsibly and effectively
+If you’re serious about improving speed, intelligence and scalability in vehicle finance, Booth 4 is where your journey should begin.
+The AFSA Vehicle Finance Conference 2026 is more than an event. It’s a moment for the industry to align around innovation and opportunity. NETSOL is proud to play a leading role in that conversation.
+For auto captives and vehicle finance lenders evaluating how to build the technology foundation for the next decade, the whitepaper on the
+auto captive stack
+provides a strategic blueprint for what an AI-first, API-connected, and composable architecture looks like across the full captive technology stack.
+We look forward to connecting, collaborating and shaping the future of vehicle finance together!
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

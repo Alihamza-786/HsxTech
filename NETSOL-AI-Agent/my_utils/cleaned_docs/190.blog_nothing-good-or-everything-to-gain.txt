@@ -1,0 +1,68 @@
+https://netsoltech.com/blog/nothing-good-or-everything-to-gain
+Blog
+Nothing good or everything to gain? Key takeaways from fiduciary duty debate for finance intermediaries
+By
+Netsol Technologies
+, on January 14, 2025
+Explore the key arguments from the AFC Christmas debate on the Court of Appeal’s ruling regarding fiduciary duties for intermediaries in asset finance sector.
+Table of Contents
+Background
+The great debate - Should intermediaries be fiduciaries?
+1. John Rees: "This won't end well"
+2. David Betteley - “A catalyst for positive change”
+Audience perspectives and key takeaways
+The final vote
+The road ahead
+Conclusion
+Share this Blog:
+In December 2024, NETSOL sponsored a lively
+Christmas debate
+hosted by Asset Finance Connect (AFC). Jason Hurwitz (Sales Director – Europe) from NETSOL Technologies chaired the debate, which addressed one of the most pressing regulatory and legal issues currently affecting the asset and motor finance industry: Should intermediaries be regarded as fiduciaries?
+Since the Court of Appeal’s ruling in October, industry professionals have been fighting with the implications. The ruling introduced fiduciary as a duty to intermediaries. Some see this change as an opportunity for better customer outcomes and transparency. For others, there is a fear of uncertainty and enhanced compliance costs.
+In this blog, you’ll learn about the debate's core arguments, its historical context, and possible consequences for customers, lenders, brokers, dealers, and the broader finance industry. We’ll also share the key takeaways and next steps to cope with this change.
+The controversy started back in October 2024 as the Court of Appeal judgment challenged long-held assumptions within motor and asset finance about the responsibilities of intermediaries. Historically, intermediaries, or you can say brokers and dealers, acted as connectors. They helped customers connect with the best financial solution among multiple lenders. However, intermediaries have been regulated under the Financial Conduct Authority (FCA), particularly for commission disclosure. However, they were generally not viewed as fiduciaries, whose first duty is to the customer.
+Yet, the Court of Appeal introduced a new dimension by declaring that intermediaries do owe a fiduciary duty. According to this duty, they need to act in the best interests of the customer rather than just facilitating a transaction. AFC CEO Edward Peck has summarised the situation using three critical themes: complexity, consistency, and collaboration.
+Complexity
+The asset and motor finance industry is grappling with the question: Does the ruling apply to me? The term “intermediary” can include broker-arranged deals, dealer-originated transactions, and even partnerships with a single funding source or multiple lenders. Each scenario brings unique compliance hurdles.
+Another complex layer is the sophisticated vs. unsophisticated customer distinction. The Court indicated that fiduciary duty might not apply to “sophisticated” businesses but offered little clarity on what “sophisticated” means in practice.
+Consistency
+There’s a real fear that different businesses will interpret the ruling in different ways, causing inconsistency. That can lead to confusion for customers who work with multiple brokers or dealers. And operational headaches for intermediaries juggling various interpretations of the rules.
+Collaboration
+Industry players agree on one thing: they need to work together. However, simply forcing everyone into a single and uniform solution might not work for every scenario. The debate centers on finding a balanced approach, one that helps customers without overburdening businesses or reducing choice.
+At the AFC Christmas debate, two seasoned industry experts presented opposing views:
+John Rees, Head of the Equipment Finance Community at AFC, supported the motion that “nothing good will come out of the decision to make intermediaries into fiduciaries.”
+Role Misalignment
+Rees compared brokers and dealers to shopkeepers. Customers know that a shopkeeper profits from selling goods. However, if you expect a “doctor-like” duty, it could clash with the core role of the broker, which is making sales happen.
+Economic risks
+He warned that the added legal responsibilities could raise costs for businesses, particularly when they need to figure out who’s “sophisticated” vs. “unsophisticated.” These costs often end up being passed to customers, limiting competition and new entrants.
+Regulatory overreach
+Rees worried about “regulatory creep”. He suggested that this ruling could pave the way for even greater state intervention in financial markets. According to him, the industry should challenge the judgment in the supreme rather than accepting it.
+Impact on industry structure
+Rees concluded that if brokers start acting like fiduciaries, they may shift to a fee-based model, similar to lawyers charging for legal advice. This can disrupt the traditional commission-based intermediary model and may reduce choice in the marketplace if smaller brokers cannot adapt to the added regulatory burden and leave the market.
+David Betteley, Head of Content at AFC, disagreed with Rees’s perspective and argued that the ruling represents “an opportunity for the sector to become more transparent, customer-centric, and ultimately stronger.”
+Preventing mis-selling scandals
+Betteley stated that by imposing a legal requirement that intermediaries put the customer’s best interests first, the industry could avoid large-scale mis-selling crises. He cited the PPI scandal and suggested that a robust fiduciary framework might have prevented billions in compensation claims.
+Strengthening trust and accountability
+Betteley emphasised that trust is the currency of financial services. Making intermediaries to fiduciaries will set a high bar for ethical conduct, fostering consumer confidence that can translate into sustained business growth.
+Reducing long-term risks
+Although compliance costs may rise initially, Betteley argued that better regulation would save the industry from disputes and lawsuits. A strong reputation for ethical business will enhance an international investment appeal.
+Leveraging digital transformation
+Betteley highlighted how AI-driven platforms and digital consent forms can simplify compliance and help intermediaries meet fiduciary standards. Automated disclosures, records of interactions, and guided workflows can help meet fiduciary standards without stifling innovation.
+The debate brought out a mix of opinions from attendees that included lending institutions, brokers, legal experts, and even the medical field. According to one participant, forcing a fiduciary duty upon intermediaries could create a “false sense of security,” especially if neither the customer nor the broker fully understands the obligations. Others highlighted the industry’s persistent need for clarity, noting that the term “fiduciary” often requires years of legal training to interpret properly.
+Despite these concerns, some audience members supported modernization: If technology can simplify the complexities of compliance, such as guiding brokers through a standardized check-and-disclosure process, then enhanced transparency and customer-centricity might be easier to adopt.
+Before the debate 54% of attendees were against the idea that “nothing good would come out” of the Court of Appeal’s decision. However, after the debate the votes were in Rees' favour. After the debate 65% of attendees were favouring the idea that “nothing good would come out” of this appeal.
+Just weeks later, the High Court dismissed Barclays’ judicial review challenge, bringing the industry closer to accepting fiduciary duty as a legal requirement. Although many stakeholders remain reluctant, the path toward recognising intermediaries as fiduciaries is becoming increasingly difficult to avoid.
+If you missed the debate, be sure to watch it
+here
+For businesses, there’s both risk and opportunity. Classifying customers, rethinking commission models, and understanding what “fiduciary duty” really involves can be challenging. Yet, it also presents an opportunity. Firms willing to invest in technology and compliance training could stand out as leaders in a more transparent and customer-centric market.
+At NETSOL Technologies, we specialise in developing solutions that help lenders, brokers, and intermediaries meet emerging regulatory demands. Our intermediary portals streamline the quotation and proposal management process. Users can quickly compare options and easily convert quotes into professional proposals, make informed decisions, monitor progress, and respond quickly to opportunities. Our portal adheres to the recent Finance Commission ruling, ensuring transparent commission disclosures that meet legal standards and strengthen customer trust.
+Whether one views the Court of Appeal’s ruling as overreach or a catalyst for positive change, the reality is that fiduciary duties for intermediaries are increasingly likely to shape the future of asset and motor finance. The debate highlighted valid concerns around costs, market structure, and the operational realities of imposing fiduciary obligations on professionals who were never traditionally held to such standards. However, the arguments in favour of transparency, accountability, and consumer protection also resonate in an industry seeking to build trust.
+The best path forward is one of balance, finding ways to protect customers without crushing business innovation. That means lenders, brokers, dealers, regulators, and tech partners need to work together. With the right digital tools and open collaboration, we can make any new regulations feel less like a burden and more like an opportunity to stand out in a more customer-centric marketplace.
+At NETSOL Technologies, we have always followed a transparent process, partnering with financial institutions and intermediaries to deliver cutting-edge and compliant solutions. Our solutions are designed to help you adapt to new regulatory demands while staying focused on your customers. If you are looking to future-proof your operations, enhance your compliance framework, or need guidance on navigating fiduciary duty, contact us today to learn how our advanced digital platforms can transform compliance challenges into strategic opportunities. We’re here to help you every step of the way.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

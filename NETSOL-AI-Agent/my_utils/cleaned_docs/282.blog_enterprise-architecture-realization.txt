@@ -1,0 +1,42 @@
+https://netsoltech.com/blog/enterprise-architecture-realization
+Blog
+Why do you need Enterprise Architecture Realization Scorecard (EARS)
+By
+NETSOL Technologies
+, on January 25, 2023
+The benefit of this strategy is that it is essential and uncomplicated to apply. There are a lot of drawbacks, though. Only fully accomplished objectives will qualify for measurement.
+Table of Contents
+Enterprise Architecture Realization Scorecard Approaches
+EARS and the CobiT Framework
+Objectives and Concepts
+EARS Approach Application
+EARS and Its Effective Results – Valid or Invalid
+Share this Blog:
+A comprehensive strategy for managing an organization’s IT systems, procedures, and infrastructure is called enterprise architecture (EA). It enables businesses to make greater use of their IT expenditures by assisting in aligning IT with overall company strategy and objectives.
+However, putting in place an EA may be difficult and complex, so it’s crucial to have a mechanism to gauge how well it achieves its objectives. This is where the Enterprise Architecture Realization Scorecard enters, changing the enterprise architect interface for businesses.
+The idea behind the EARS is that there are various approaches to respond to the study issue, “How can we quantify the EA management function’s capacity to fulfill its goals?” How closely does the operational performance match the objective values of the EA goal? This is one approach to measuring the ultimate outcome.
+The benefit of this strategy is that it is essential and uncomplicated to apply. There are a lot of drawbacks, though. Only fully accomplished objectives will qualify for measurement. Furthermore, it is not made credible that EA management might be held responsible for the outcomes.
+Additionally, there is little understanding of the final score’s causes or room for improvement. As a result, the alternative of measuring at a more detailed level was chosen rather than the original option of merely measuring the end output.
+Since measuring organizational and IT performance is a well-established practice within this discipline, the body of knowledge of (IT) governance was used to determine the most effective method. An enterprise architect aggregation composition can be effective. For this investigation, CobiT was extremely helpful. It is an open standard for IT governance that is well-liked in both the business world and the academic community. The following guiding concepts are the foundation for the CobiT framework: business-focused, process-oriented, controls-based, and measurement-driven.
+A metamodel and a set of principles were produced as a result of applying CobiT principles to the field of EA. Together, they create a model that permits precise measurement of the effectiveness of the EA management function in fulfilling its objectives.
+Enterprise goals and enterprise strategy serve as the foundation for EA goals. The ideal EA goals should be timely, practical, measurable, actionable, and detailed.
+A (repeatable) EA realization procedure is used to achieve EA aims.
+A systematic progression of EA activities makes up the EA realization process.
+An activity goal and associated metrics are set for each EA activity. The outcomes of the EA activity are the main focus of the measurements.
+During the survey to gauge enterprise architecture compatibility and perfection, scorecard, indicator values, and compiled arguments proved to be an excellent base to pinpoint the realization process’s advantages and disadvantages and offer suggestions; the EARS technique was found to be successful. Furthermore, the interviewees responded well when asked if the essential facets of the architectural function were addressed during the interview.
+The relevant managers and important stakeholders also approved the results of the assessments. Enterprise system architecture examples figured out that a responsible manager’s evaluation generated more money and sparked internal debate about the architectural function’s purpose, approach, and efficiency.
+The EARS approach’s applicability cleared up some early questions. Consider some of the cases studies findings mentioned below:
+It was easy to identify the EA goals, and there were no issues with choosing representative goals.
+In enterprise architecture KPI examples, EA activities and the outcomes were sufficiently recognized and distinct and were applicable in practice.
+The outcomes are generally linked to product, acceptance, and scope factors. However, there are times when two elements are strongly related. For instance, in Migration Plan, endorsement and product are assigned the same value because they are difficult to distinguish.
+The first case study was used to develop the indicators, which were then improved. In the applications that followed, they showed promise and received no opposition.
+We have reason to assume that the EARS can be used efficiently and effectively as an assessment tool with awareness and improvement goals based on the results of the case studies. It’s sure to be effective in enterprise architecture in a cloud computing system.
+Our research has certain limits right now, though. Even though three analyses of various organizational models were carried out in the Netherlands, our research’s conclusions may only sometimes apply to other businesses, industries, or nations. Additionally, because our study did not contain a comparison with other assessment procedures, it could not draw any meaningful conclusions about the effectiveness of the assessment method.
+Because the image was sufficiently clear and the results could be evaluated after five to six interviews, the research team believed the EARS technique to be highly effective. With the enterprise architecture examples, the assessment could have been much improved by subsequent interviews, but they helped confirm the results.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

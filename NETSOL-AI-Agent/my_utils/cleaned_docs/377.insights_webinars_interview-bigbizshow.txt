@@ -1,0 +1,37 @@
+https://netsoltech.com/insights/webinars/interview-bigbizshow
+NETSOL Technologies CEO, Najeeb Ghauri, at The Big Biz Show
+Najeeb Ghauri, Founder and CEO of NETSOL Technologies, joins The Big Biz Show host Bob "Sully" Sullivan for a wide-ranging conversation covering NETSOL's global vision, four decades of innovation in asset finance and leasing, and the company's strategic push into
+digital retailing solutions
+, connecting automotive OEMs, captives, and dealers through a unified AI-powered platform. Najeeb shares his perspective on digital transformation, the evolving role of AI in financial services, and how NETSOL is positioned at the intersection of automotive retail and enterprise finance technology.
+About this interview
+Najeeb Ghauri co-founded NETSOL Technologies in 1996 and has led the company across nearly three decades of growth, from its origins in Lahore to a NASDAQ-listed global enterprise serving automotive OEMs, auto captives, banks, and financial institutions across more than 30 countries. In this interview, he reflects candidly on what that journey has looked like, what NETSOL has learned from working with some of the world's largest leasing organisations, and where the company is heading as AI and digital transformation reshape the industry.
+The conversation touches on NETSOL's unique position as a technology company with deep domain expertise in both enterprise finance and the consumer automotive journey. The shift from ownership to access models and the rise of
+automotive mobility solutions
+, including subscription finance, Car-as-a-Service, and EV lifecycle management, features prominently in Najeeb's discussion of where automotive finance is heading over the next decade.
+Key themes from the interview
+The conversation covers four core themes that reflect NETSOL’s current strategic focus:
+Global vision and emerging markets:
+NETSOL's presence across North America, Europe, and Asia Pacific gives it a perspective on how different markets are adopting digital finance technology at different speeds, and which lessons transfer across regions.
+AI and digital transformation in financial services:
+Najeeb discusses how AI is moving from proof-of-concept to production across asset finance operations. The whitepaper
+AI gear shift in asset finance
+expands on this with a practical framework for asset finance leaders navigating the same transition.
+The Transcend platform:
+The evolution of NETSOL's product suite into a unified, AI-powered platform covering digital retail, asset finance, and loan servicing, and why the composable, API-first architecture was the right strategic choice for serving clients across multiple markets simultaneously.
+Mobility and the future of vehicle finance:
+How shifts from ownership to access models, the rise of EVs, and changing consumer expectations are reshaping what automotive finance companies need from their technology partners.
+About Najeeb Ghauri
+Najeeb Ghauri is the Founder, Chairman, and CEO of NETSOL Technologies, which he co-founded alongside his brothers Salim and Naeem Ghauri. Under his leadership, NETSOL has grown from a small technology consultancy to a global enterprise with over 1,400 professionals across eight delivery centres worldwide. NETSOL's platform now manages over $200 billion in assets globally and has maintained a 100% implementation success rate across more than 300 client deployments. The
+MINI Anywhere case study
+, NETSOL's flagship deployment with MINI USA, is one of the most cited examples of this impact at scale, achieving a 23% increase in average lead-to-sales conversion rate over three years of live operation.
+Going deeper: Related reading
+The Big Biz Show is broadcast on NASDAQ and features conversations with founders and executives from publicly listed companies. Watch the full interview on The
+Big Biz Show’s
+platform.
+Related
+webinars
+Webinar
+SME Finance: What Needs to Change to Create Better Outcomes for SMEs, Brokers & Lenders
+Bridging the Retail Gap: What Dealers Really Want from Digital Retailing
+Reimagining the dealership experience with AI and omnichannel retail
+Reinventing Your Dealership with AI and Omnichannel Journeys

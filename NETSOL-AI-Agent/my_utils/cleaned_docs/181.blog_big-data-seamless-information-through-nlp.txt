@@ -1,0 +1,150 @@
+https://netsoltech.com/blog/big-data-seamless-information-through-nlp
+Blog
+Big Data - Seamlessly retrieve pertinent information from documents and databases through intuitive Natural Language Processing
+By
+NETSOL Technologies
+, on March 14, 2025
+Unlock the power of Natural Language Processing (NLP) with AWS technologies to retrieve information from documents, databases and chatbot interactions for businesses.
+Table of Contents
+Solution overview
+Step 1: Set up infrastructure
+Develop and deploy the chatbot
+Test the solution
+Finalize deployment
+Prerequisites
+Use cases
+Clean up
+Solution enhancements
+Conclusion
+Share this Blog:
+As an AWS Partner, Advanced Tier Services and Solution Provider we experiment and build solutions addressing real-world challenges. This challenge was to build a solution to empower users to seamlessly retrieve pertinent information from documents and databases through intuitive Natural Language Processing (NLP) queries, offering an advanced solution driven by Gen AI using Amazon Bedrock, Amazon Kendra, and Amazon QuickSight Q.
+The plethora of documents and data associated with any business activity presents a significant challenge when searching for specific, pertinent information. This pattern was developed for a Life Sciences company aiming to query medical and research data through intuitive Natural Language Processing (NLP) queries.
+In this post, we demonstrate how this can be achieved using two distinct use cases:
+Chatbot Interaction with Document Repositories:
+A chatbot powered by Amazon Bedrock and Amazon Kendra enables users to interact with a document repository, retrieving precise and relevant information.
+NLP Analytical Queries on Oracle Databases:
+Users can perform advanced analytical queries using natural language on Oracle databases, enabling deeper insights into structured data.
+Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies. With Amazon Bedrock, you can experiment with and evaluate top FMs for your use case, privately customize them with your data using techniques such as fine-tuning and Retrieval Augmented Generation (RAG) and build agents that execute tasks using your enterprise systems and data sources.
+Amazon Kendra GenAI Index is a new index in Kendra designed for retrieval-augmented generation (RAG) and intelligent search, helping enterprises build digital assistants and intelligent search experiences more efficiently and effectively.
+Amazon Q in QuickSight now provides users with unified insights by bringing together pertinent information from traditional BI sources, document repositories, webpages, emails, images, messages, and over 40 other data sources.
+This solution, built by AWS Partner NETSOL Technologies, showcases the ability to seamlessly integrate Gen AI-powered document retrieval and NLP-based analytics, offering a comprehensive approach to tackling complex business challenges.
+Amazon Kendra offers a GenAI index that's highly accurate for retrieval augmented generation (RAG) as well as enterprise search on your data. You can use Kendra GenAI indices in Amazon Q Business and Amazon Bedrock knowledge bases to build generative AI applications using your proprietary data.
+The following is a step-by-step breakdown of the first element of the solution:
+A UI for the chatbot to question and answer research data queries powered by Amazon Kendra.
+Authentication using Amazon Cognito.
+Index PDF and .doc files that reside in the S3 bucket using Amazon Kendra.
+Relevant information retrieved from Amazon Kendra and generate answers using Amazon Bedrock LLM.
+Response to each query includes a descriptive answer against the query and a reference link of the file where the relevant information exists
+Amazon QuickSight Q is a new machine learning-based capability in Amazon QuickSight that enables users to ask business questions in natural language and receive answers with relevant visualizations instantly to gain insights from data.
+The following is a step-by-step breakdown of the second element of the solution:
+Configure an Oracle instance and restore the provided data dump from the customer.
+Perform a single data migration from Oracle to Redshift.
+Migrated data will be validated.
+Configure a dataset in QuickSight Q.
+Configure a topic in QuickSight Q for NLP querying.
+Perform testing on QuickSight Q via NLP prompts.
+The deployment process consists of the following high-level steps:
+Create a document repository in Amazon S3:
+Organize and upload the required .pdf and .doc files into an S3 bucket.
+Ensure the bucket permissions are configured to allow Amazon Kendra to access the documents.
+Configure Amazon Kendra:
+Set up a Kendra GenAI Index to enable retrieval-augmented generation (RAG) capabilities.
+Index the uploaded files from the S3 bucket into Amazon Kendra for enterprise search functionality.
+Deploy Amazon Bedrock:
+Configure Amazon Bedrock with a foundation model suitable for generating answers to queries.
+Ensure that the Bedrock instance is integrated with the Kendra GenAI Index for enhanced query results.
+Set up Oracle Database:
+Restore the provided Oracle data dump into an Oracle database instance.
+Validate that the database is functional and accessible for querying.
+Migrate data from Oracle to Redshift:
+Perform a one-time migration of the Oracle database content to an Amazon Redshift cluster.
+Use Amazon DMS (Database Migration Service) to facilitate the migration.
+Validate the migrated data to ensure consistency and accuracy.
+Configure Amazon QuickSight Q:
+Connect QuickSight to the Redshift cluster.
+Configure a dataset in QuickSight Q with the migrated data.
+Set up a topic in QuickSight Q to allow users to perform NLP-based analytical queries.
+Set up authentication:
+Configure Amazon Cognito for user authentication to the chatbot interface and other solution components.
+Build the chatbot interface:
+Develop a user interface (UI) for the chatbot to accept research and data queries.
+Ensure that the UI communicates with Amazon Bedrock and Kendra for NLP query processing and document retrieval.
+Integrate components:
+Ensure that the chatbot retrieves relevant information from the Kendra GenAI Index.
+Configure responses to include descriptive answers and reference links to the source documents.
+Test Amazon Kendra:
+Validate the document retrieval by querying the indexed repository.
+Check the relevance and accuracy of the retrieved results.
+Test QuickSight Q:
+Perform NLP prompts in QuickSight Q to test the analytical capabilities.
+Verify the visualizations generated are accurate and actionable.
+Perform end-to-end Testing:
+Test the entire solution workflow, from chatbot queries to document retrieval and analytics in QuickSight.
+Launch in production:
+Deploy the solution to a production environment for end-users.
+Ensure all components are scalable and monitored for performance.
+Enable monitoring:
+Use monitoring tools like Amazon CloudWatch to track performance metrics and identify issues in real-time.
+To deploy this solution, complete the following prerequisite steps:
+AWS services:
+Ensure an AWS account is available with permissions to create and configure the following services:
+Amazon S3
+Amazon Kendra
+Amazon Bedrock
+Amazon Redshift
+Amazon QuickSight
+Amazon Cognito
+Data preparation:
+Collect all .pdf and .doc files required for indexing in the S3 bucket.
+Obtain the Oracle database dump and ensure it is ready for restoration.
+Tools:
+Install AWS CLI for managing AWS services from the command line.
+Install tools like SQL Developer for working with the Oracle database.
+Networking:
+Ensure VPCs, subnets, and security groups are configured to enable communication between AWS services.
+This can be used with both structured and unstructured data applying an automated search capability with Natural Language that reduces the time and cost for searching.
+This solution is applicable in several real-world scenarios:
+Document retrieval:
+Enables users to perform natural language queries to retrieve precise information from large repositories of unstructured documents stored in S3.
+Useful for research-intensive industries such as life sciences, legal, and compliance.
+Data analysis:
+Facilitates NLP-based analytical queries on structured datasets stored in Oracle databases, offering insights through QuickSight Q’s visualizations.
+Relevant for financial services, healthcare, and other data-driven industries.
+Interactive assistance:
+Supports building interactive chatbots for answering user queries using integrated AI models via Amazon Bedrock and Kendra.
+Applicable in customer support, knowledge management, and education sectors.
+It’s always a good practice to clean up all the resources you created as part of this post to avoid any additional cost. To clean up your resources, complete the following steps:
+To clean up all resources and avoid unnecessary costs, complete the following steps:
+Amazon Kendra:
+Delete the Kendra GenAI Index and associated configurations.
+Amazon Bedrock:
+Decommission the Bedrock instance and remove any temporary customizations.
+Amazon S3:
+Remove the uploaded .pdf and .doc files and delete the S3 bucket.
+Amazon Redshift and Oracle:
+Terminate the Redshift cluster and Oracle database instance.
+Amazon QuickSight Q:
+Delete datasets and topics configured for NLP queries.
+Amazon Cognito:
+Remove the user pools and identity pools created for authentication.
+Validate Cleanup:
+Verify all resources are deleted via the AWS Management Console or AWS CLI.
+While Amazon Kendra effectively retrieves relevant medical research documents using intelligent search capabilities, the solution can be further optimized by replacing Kendra with Amazon Bedrock Knowledge Bases. With this change we gained more control over the embedding generation process and the choice of vector database, leading to more efficient and accurate retrieval. Unlike Kendra’s built-in embeddings, Knowledge Bases allow us to customize embeddings and leverage external vector databases like OpenSearch, Pinecone, or pgvector providing more fine-tuned semantic search. Additionally, Knowledge Bases seamlessly integrate with Bedrock LLMs, automating the retrieval-augmented generation (RAG) pipeline and ensuring the model receives the most relevant context dynamically. This results in a more optimized, scalable, and intelligent chatbot, delivering precise and well-informed responses to complex medical queries.
+In this post, we demonstrated how to implement seamless retrieval capabilities for pertinent information from both document repositories and structured databases using intuitive Natural Language Processing (NLP) queries. By leveraging Amazon Bedrock, Amazon Kendra, and Amazon QuickSight Q, we showcased two use cases: an interactive chatbot for document retrieval and NLP-driven analytical queries on Oracle databases.
+NETSOL: Your partner in Big Data exploitation
+While AWS provides the technology, implementing a natural language information retrieval solution requires deep expertise in Kendra, Amazon Bedrock, and data workflows. If you’re interested in exploring this solution pattern further or addressing your unique data search, retrieval, and analytics challenges, we would be delighted to collaborate and help you design a tailored solution.
+At NETSOL Technologies, we help institutions:
+Deploy and optimize AWS-powered Big Data solutions.
+Enhance knowledge work with AI-powered tools.
+Seamlessly integrate AWS data solutions into existing platforms
+Ready to elevate your data strategy?
+Let’s Talk!
+Book a consultation
+with our AWS and data experts today. Let’s build together.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

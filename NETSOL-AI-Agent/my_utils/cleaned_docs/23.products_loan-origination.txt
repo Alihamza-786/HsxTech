@@ -1,0 +1,115 @@
+https://netsoltech.com/products/loan-origination
+Loan Origination
+Origination that scales
+with your lending model
+Unified origination platform for quote-to-funding journey, designed to adapt across channels, lending models, and asset complexity.
+The world's leading brands are powered by NETSOL
+Smarter lending starts with
+AI-enabled origination
+Modern origination demands speed, but not at the cost of control. Transcend Finance unifies quoting, eligibility, credit checks, approvals, and funding into a single platform, enabling faster decisions while preserving compliance, transparency, and decision quality.
+Built on a modular, API-first architecture, each origination capability operates as a composable service with pre-built integrations for dealer systems, broker portals, credit bureaus, and core finance platforms. This allows organizations to modernize origination quickly without replacing their existing stack or disrupting downstream systems.
+Accelerate
+quote-to-funding journeys
+Quick quoting, guided intake, and automated checks reduce friction across dealer, broker, and digital journeys, accelerating decisions without manual handoffs.
+Maintain
+compliance and control
+Enforced policies, automated checks, and end-to-end traceability keep every application audit-ready from quote to funding, without slowing execution or increasing manual effort.
+Reduce risk
+and decision exceptions
+AI-assisted checks and rule-driven approvals
+reduce exceptions and keep decisions aligned with credit policy and approval authority.
+Operate at scale
+on one platform
+Originate across products, customer segments, and asset types on a single platform with shared rules and workflows across markets, currencies, and languages.
+Intelligent
+document processing
+AI-powered IDP classifies, extracts, and validates data, flags missing items, inconsistencies, and risk signals in real time, reducing manual review while improving auditability.
+Identity, risk and compliance
+integrations
+Pre-built integrations with credit bureaus, KYC, AML, and fraud providers enable real-time verification and risk screening during application intake.
+Rule-driven
+credit decisioning
+Configurable workflows, business rules, and internal scorecards enforce credit policy, automate eligibility checks, and route applications with full decision traceability.
+Human-in-the-loop
+decisioning
+Underwriters retain control over final decisions, with AI surfacing insights and recommendations to support faster, controlled approvals.
+Industry-ready
+lending journeys
+With embedded AI assistance, Transcend Finance is built to support and accelerate diverse lending journeys that scale on demand, stay available across regions, and adapt quickly as business needs change.
+Automotive finance
+Support partner-led retail finance, captive programs, and digital-first customer journeys. Deliver configurable workflows and personalized lending journeys that adapt to customer, asset, and partner needs.
+Equipment finance
+Fleet and commercial finance
+Intelligence applied across every role in origination
+Transcend Finance embeds intelligence directly into day-to-day origination workflows. AI is applied where it reduces effort, improves consistency, and strengthens decisions without removing human control or adding operational complexity.
+Dealers and sales
+Brokers and partners
+Credit and underwriting
+Operations and compliance
+Customers
+Accelerate deal flow without increasing operational friction.
+Real-time eligibility checks and offer comparisons are generated from validated application data to support faster approvals.
+Customer consent is captured and recorded to support GDPR and data privacy compliance.
+Automated data verification reduces re-entry and back-and-forth with lenders.
+Guided application flows ensure submissions meet lender and policy requirements before reviewing.
+Assets managed globally
+Successful implementations
+Customers worldwide
+Countries served
+Intelligence at every step
+Transcend Finance empowers lenders to manage origination with precision, combining AI, automation, and compliance across a connected, multi-channel ecosystem.
+Activation and
+funding readiness
+Move approved deals through final checks and activation in a controlled flow, enabling clean handoff to funding and servicing.
+Contract activation
+Pre-funding checks
+Origination-to-servicing handoff
+Quotation and
+eligibility
+Apply product pricing and eligibility rules at the point of quote, with built-in affordability checks and quote comparison to stop non-viable applications early.
+Product configuration
+Eligibility rules
+Quote eligibility checks
+Application intake
+and validation
+Capture complete applications through guided workflows with automated data and document validation to reduce follow-up and rework.
+Guided application intake
+Data validation
+Intelligent document processing
+Credit assessment
+and underwriting
+Enforce credit policies through rule-driven workflows, augmented by AI-generated risk summaries with source references, while underwriters retain final decision authority.
+Credit policy enforcement
+AI-assisted credit insights
+Human-in-the-loop underwriting
+Approvals and
+decision governance
+Route applications through configurable approval workflows with clear exception handling and full decision traceability.
+Approval workflow configuration
+Exception handling
+Decision audit trail
+Ikano Bank gains competitive edge with NETSOL
+"We are pleased to be working with NETSOL as our strategic platform partner. NETSOL’s smart technology solutions are well-recognized in the finance and leasing space and deploying Transcend Finance (Formerly known as Ascent) enables us to maintain a competitive edge in today’s highly dynamic marketplace. With its powerful configuration engines, Ascent will streamline our processes, enabling faster on-boarding of new partners and speed up new product introductions across markets."
+Henrik Staulund
+Chief Commercial Officer at Ikano Bank
+Future of Technology
+Explore loan origination tools via
+Transcend Marketplace
+Need to augment your loan origination process or deploy standalone capabilities faster?
+Access plug-and-play modules, digital onboarding, identity verification, credit scoring, document processing, e-signing, and more, flexible to work independently or alongside core systems. Scale or reconfigure as your business evolves.
+Blog
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Whitepapers
+The Next Era of Equipment Finance: Speed, AI & Lifecycle Control
+Fraud Detection & Credit Decisioning in Digital Originations
+Cyber resilience in APAC: Why 2026 demands more than traditional defence
+From AI ambition to intelligent automation: What brokers need next
+Data migration in asset finance: Why success depends on early planning, governance, and the right delivery model
+Podcast
+Data Migration in Asset Finance: Strategies, Pitfalls & Real-World Insights
+Fair lending vs. faster lending: How human-in-the-loop AI improves speed without compromising ethics
+Featured
+reads & insights
+Stay informed with the latest from NETSOL. Thought leadership, product updates, industry perspectives, and company news, all in one place.
+Subscribe to our newsletter to get the latest news in your inbox.

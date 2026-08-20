@@ -1,0 +1,150 @@
+https://netsoltech.com/blog/shared-financing-models-for-high-value-assets
+Blog
+Shared financing models for high-value assets: Indonesia's scaling architecture
+By
+Farooq Ghauri
+Head of Sales, Asia
+, on February 27, 2026
+Discover how shared financing drives Indonesia’s asset growth in fleets, construction, and EVs, with NETSOL Transcend Finance optimizing risk and compliance.
+Table of Contents
+What changed in 2025: The Indonesian “friction stack” leaders are actually facing
+Shared financing is not a product. It’s a risk-and-distribution architecture.
+The five shared financing models that will dominate Indonesia’s high-value asset growth
+What “good” looks like in Indonesia: The operating system for shared financing
+Indonesia’s highest-leverage arenas for shared financing in 2025
+The trap to avoid: “Shared financing” without shared infrastructure
+Conclusion
+Where Transcend Finance fits
+Share this Blog:
+Indonesia’s next wave of
+asset finance systems
+growth is asset-heavy; fleets, construction equipment, industrial/mining equipment, and a fast-scaling EV ecosystem that’s reshaping collateral risk.
+The financing signal is already clear. Multifinance financing receivables reached Rp504.58 trillion as of May 2025 (OJK data cited in a June 2025 briefing). And importantly, the portfolio is shifting toward “productive” lending: productive-sector share was 46.47% (May 2025), within OJK’s targeted range (46-48%).
+So, what is the problem?
+The problem is that high-value assets require larger ticket sizes, longer tenors, and more dynamic risk management, exactly the combination that pushes lenders into concentration limits, tighter approval gates, and slower time-to-cash.
+Meanwhile, credit quality is holding up, but it’s not “free.” Multifinance NPF was reported at 2.57% in May 2025 (up from May 2024, down from Dec 2024), a reminder that growth must be paired with stronger controls.
+That’s why shared financing is no longer just a structuring option. It’s becoming Indonesia’s scaling architecture for asset finance.
+Senior leaders don’t need definitions of co-financing. They need a clear view of what is newly constraining execution in 2025.
+1. Prudential pressure + compliance expectations are tightening
+OJK’s direction across non-bank financial institutions and digital finance is increasingly explicit. Growth is welcome, but
+governance, transparency, and auditability
+are non-negotiable.
+OJK has emphasized supervisory enforcement: in February 2025, OJK
+imposed administrative sanctions
+across multiple sectors, including 24 financing companies (PVML), reflecting a stricter compliance posture.
+In late 2024, OJK issued POJK 40/2024 on Layanan Pendanaan Bersama Berbasis Teknologi Informasi (LPBBTI), effective 27 Dec 2024, shaping how joint funding models and tech-based funding services should operate under clearer regulatory boundaries.
+Implication for shared financing: It’s not enough to “partner.” Partnerships must be regulator-ready by design, with clean roles, clean data lineage, and controls that can be evidenced quickly.
+2. Residual value is now a first-class underwriting variable, especially for EVs
+Indonesia’s EV growth in 2025 isn’t a vague trend; it’s quantifiable:
+GAIKINDO reported
+82,525 BEV wholesale units
+Jan-Nov 2025.
+Reuters reported February 2025 car sales growth tied to EV momentum and noted GAIKINDO’s projection of
+900,000 total car sales
+in 2025.
+ICCT highlighted that quarterly EV sales reached 24,000 units in Q2 2025.
+But EV collateral behaves differently. Battery lifecycle concerns, model churn, charging availability, and brand mix shifts compress and destabilize residual assumptions.
+Implication for shared financing:
+Distributing residual-value exposure across parties becomes rational, not optional.
+For a focused analysis of how EV residual value is reshaping leasing risk across markets, the blog on
+EV residual value challenges
+examines the specific pressures this creates for lessors, from pricing uncertainty through to portfolio-level exposure management.
+3. The real bottleneck isn’t funding, it’s coordination
+In Indonesia, shared deals often die in the “last mile”:
+Duplicated underwriting packs
+Inconsistent covenant tracking
+Unclear servicing ownership
+Reconciliation disputes
+Slow exception handling when an asset’s utilization, insurance, or payment status changes
+This is why shared financing fails even when everyone “agrees.” The issue is not structure; it’s the operating model.
+High-value asset financing becomes scalable when you separate two things:
+1. Origination + underwriting expertise (who finds and prices the deal)
+2. Balance sheet distribution (who holds what exposure and under what rules)
+Indonesia’s multifinance system is already moving toward productive portfolios. But productive assets are precisely where ticket sizes and lifecycle monitoring are more complex, making shared financing the cleanest way to keep growth within internal and regulatory risk appetite.
+Below are the models leaders will keep seeing in 2026. The winning edge is not knowing these models. It’s executing them faster, cleaner, and with fewer disputes.
+Model 1 - OJK-aligned tech-enabled joint funding (LPBBTI discipline)
+Best for:
+Scalable origination where digital rails matter (SME productive assets, fleet programs, dealer/vendor ecosystems).
+What breaks it:
+Mismatched KYC/AML, inconsistent credit policy, weak audit trails, and data lineage across parties.
+Control pattern:
+One policy spine + configurable participant overlays; evidence-ready logs; role clarity baked into workflows.
+Why now in Indonesia:
+POJK 40/2024 (LPBBTI) sets clearer operating boundaries and governance expectations for IT-based joint funding services (effective 27 Dec 2024).
+Model 2 - Club / syndicated asset finance for mega tickets
+Construction equipment, industrial equipment, large fleet rollouts, mining services, where ticket sizes exceed single-lender appetite.
+Covenant monitoring and event handling across multiple parties (documentation drift, servicing ambiguity, slow exceptions).
+Agent-of-record; covenant engine; standardized reporting pack; exception workflows for asset events (insurance, utilization, delinquency, repossession triggers).
+As governance pressure rises, execution failures (monitoring gaps, disputes) become risk events, not operational annoyances, especially in multi-party deals. OJK’s enforcement posture in PVML (including sanctions) reinforces the need for auditable operating discipline.
+Model 3 - Originate-to-distribute via loan transfer / loan sale (post-origination risk distribution)
+Lenders with strong origination but constrained balance sheets, freeing capacity while keeping origination economics.
+Messy data tapes, unclear servicing transfer mechanics, and ambiguity on whether risk truly transferred.
+Standardized data tape; transfer-ready contract set; servicing handover playbook; clear “who owns what” ledger.
+POJK 40/2024 clarifies bank receivables/loan transfer mechanisms and emphasizes real ownership/risk transfer, including prohibiting buybacks of transferred receivables.
+Model 4 - Securitization-ready asset finance (ABS mindset even before issuance)
+High-quality, repeatable portfolios (fleet, equipment, vendor programs) where investor-grade reporting and performance stratification are feasible.
+Inconsistent contracts, weak servicing performance data, missing audit lineage, and non-standard cashflow logic.
+Standard documentation; clean servicing KPIs; performance stratification; investor-grade reporting; audit-ready data lineage.
+IDX press materials report 7 EBA issuances valued at Rp2.13 trillion (per IDX news). Plus, a high-profile milestone: Indonesia’s first Sharia ABS issuance at IDR 1.95 trillion, signaling appetite for structured asset cashflows.
+Model 5 - OEM/vendor ecosystem finance with risk-sharing (especially relevant for EV)
+Scaling adoption where vendors can reduce risk through warranties, maintenance, telemetry, and residual support programs.
+No integration between OEM/dealer operations and lender servicing; unclear triggers for residual support; delayed event signals (insurance, battery health, usage anomalies).
+API-based integration across vendor/dealer/lender; event-driven monitoring; explicit residual support triggers; shared asset record.
+EV growth is quantifiable and accelerating: GAIKINDO reports 82,525 BEV wholesale units (Jan-Nov 2025), while ICCT reports quarterly EV sales rising to ~22,000 units in Q2 2025, making residual volatility and model churn a core underwriting variable.
+If shared financing is the architecture, this is the operating system.
+1. Shared underwriting, not duplicated underwriting
+One credit memo, modular risk views by participant showing
+AI-driven asset finance enhancements
+Policy overlays per participant without rebuilding the deal
+Clear decision rights: who can approve what, when
+2. A single source of truth for the asset
+Asset identity, valuation history, insurance status, utilization signals (where available)
+Event-driven monitoring: payment, insurance lapse, usage anomalies, covenant triggers
+3. Servicing orchestration + collections waterfall encoded as rules
+Clear servicing ownership (customer comms, posting, dispute handling)
+Waterfall rules encoded: fees → interest → principal → charge-offs
+Reconciliation is designed to prevent “spreadsheet arbitration”
+EV transition assets:
+Accelerating volumes, shifting residual curves, ecosystem dependency.
+Fleets + logistics:
+Productivity assets that benefit from structured monitoring and programmatic distribution. (Supported by the productive portfolio push shown in OJK’s productive-sector share.)
+Construction and earthmoving equipment:
+Infrastructure pipelines and industrial projects sustain equipment financing demand.
+Industrial/mining-adjacent equipment:
+Commodity dynamics create cyclical stress, risk sharing preserves capacity.
+Shared financing fails in Indonesia when it’s treated as a partnership announcement instead of an execution layer.
+The KPI leaders should care about isn’t “deal closed.” It’s:
+Time-to-yes (credit decision velocity)
+Time-to-cash (disbursement readiness with clean documentation)
+Time-to-reconcile (how quickly the system resolves and explains money flows)
+When these aren’t engineered, shared financing becomes a slow, dispute-prone version of bilateral lending, and everyone quietly reverts to smaller tickets.
+Indonesia’s direction in 2025 is clear. Asset finance growth is real, but so are the requirements, controls, traceability, and scalable operating discipline.
+NETSOL
+Transcend Finance
+addresses the core reason shared financing breaks. The lack of an execution platform that can coordinate multiple parties across the full lifecycle.
+NETSOL has already demonstrated this capability in the Indonesian market, the
+Transcend Finance in Indonesia
+go-live with a leading Chinese leasing company was completed in under six months, fully localized to OJK regulatory requirements and operational standards, with no data migration from prior systems required.
+Configurable multi-party deal structures
+Encode participation rules (allocations, roles, responsibilities), rather than managing them in emails and spreadsheets.
+Workflow-driven underwriting + approvals with policy overlays
+One underwriting spine, participant-specific overlays, and clean audit trails.
+Servicing orchestration + collections waterfall management
+Encode who does what, when, and how money flows, reducing reconciliation disputes.
+Governance-by-design
+Role-based access, audit logs, and evidence-ready reporting aligned to a tighter supervisory posture.
+Integration-first architecture (APIs)
+Connect OEM/dealer ecosystems, insurance, payments, and valuation sources, critical for EV and equipment lifecycle monitoring.
+Distribution readiness
+Support originate-to-distribute patterns (loan transfer/sale discipline) and securitization-ready hygiene as Indonesia’s capital market pathways mature.
+The thought-leadership point
+Indonesia’s winners won’t just be the firms with the largest balance sheet. They’ll be the firms that build the cleanest distribution architecture, the ability to originate confidently, distribute risk responsibly, and service assets with regulator-ready evidence.
+Shared financing is a strategy.
+Execution infrastructure is an advantage.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

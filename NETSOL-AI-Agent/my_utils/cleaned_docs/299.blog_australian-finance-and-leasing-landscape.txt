@@ -1,0 +1,71 @@
+https://netsoltech.com/blog/australian-finance-and-leasing-landscape
+Blog
+Australian finance and leasing landscape
+By
+Farooq Ghauri
+Managing Director, NETSOL Technologies Australia
+, on February 9, 2022
+Great resilience has been shown by the Australian economy in the wake of the most unprecedented global health crisis that the world has witnessed in recent decades. As COVID-19 struck the world, Australia closed its borders in 2020 and a well-coordinated lockdown was implemented by the Australian government. While lockdowns were stringent in the country, their implementation was essential in terms of limiting the transmission of the deadly virus. Following Australia's first recession in nearly three decades in the first half of 2020, economic activity rebounded, driven by strong monetary and fiscal stimulus.
+Table of Contents
+The Australian Equipment Finance & Leasing Industry
+Share this Blog:
+According to the Australian Bureau of Statistics, GDP rose 0.7% in the June quarter of 2021. This was below the 1.9% in the March quarter, however, it surpassed anticipations of 0.5% and fears by analysts of a negative outcome. The June quarter results indicated customer demand returning to normal, increase in spending by consumers and the government, strength in business investment and booming exports.
+Nominal GDP was recorded at A$2.07 trillion for the year, placing Australia as the eleventh largest economy globally. Output stood at A$80,432 for every one of the country's 25.6 million residents. Further widespread lockdowns this year due to new waves of the virus caused dilemmas for the country, and the economy will be fortunate to evade another recession. However, as these lockdowns are now being eased or totally lifted, the future looks bright.
+While banks have been the chief source of equipment finance and leasing, better access to financing has witnessed captives as well as independents increase their share. With the accelerated pace of digitization across the world, Australia remains at par, with the advent of fintech
+equipment finance software
+providers who primarily use digitization to interact with their customers and provide them with a superior and unparalleled customer experience.
+When COVID-19 initiated, in March 2020, due to the effects of the global health crisis on the Australian economy, the Reserve Bank of Australia (RBA) reduced the cash rate by 25 basis points two times, including one out-of-cycle reduction that month.
+Due to strict restrictions imposed due to the pandemic in order to flatten the curve of the deadly virus, social distancing guidelines and containment orders in place impacted economic activity, however, not as severely as other countries where COVID lockdown measures were even more stringent and implemented for longer time periods.
+According to the
+Australian Finance
+Industry Association (AFIA), as of June 30, 2021, they projected total new equipment finance (including fleet leasing) at A$34bn (reduced from financial year 2020, which was A$38bn).
+Funding by equipment type has been similar to previous years in the fiscal year 2021 and has been mostly spread across cars/light commercial, mining/earthmoving equipment, and trucks, trailers and buses. Chattel mortgage continues to be the dominant origination product.
+The Recovery of the Australian Auto Sector
+Due to the unprecedented global health crisis, from February to April 2020, the value of new auto commitments fell drastically from a staggering $1.151 billion to $629 million. This has been in line with the effects of the crisis on the overall economy of the country. However, as stringent lockdowns imposed due to the pandemic eased and normalcy returned in Australia, an increase in car sales was witnessed.
+According to the Australian Bureau of Statistics, auto finance loan commitments rose by 4.7% in May 2021 (Seasonally adjusted). The total value of new loan commitments for this month (May 2021) grew to $1.296 billion. This figure represents the resilience and ongoing recovery of the Australian automotive industry alongside the overall economy.
+Supplementing the above, statistics obtained from the Federal Chamber of Automotive Industries (FCAI) revealed strong new auto sales in June 2021, with 110,664 recorded sales, representing a 0.4% increase year-on-year. The first half of this year witnessed vehicle sales increase by 28.3% when compared with the same time period for 2020.
+New vehicle sales increased to 567,468 in 2021's first half, while the figure was 442,415 for the first half of last year. Tony Weber, Federal Chamber of Automotive Industries Chief Executive, stated that despite some states being forced into COVID-19 lockdowns towards the end of June (2021), the acquisition of a new vehicle remained a popular option for buyers across all market segments.
+Pertaining to sales by manufacturers, the leading brand for June 2021 was Toyota, which stood as the leader with 21,076 sales, followed by 12,225 sales by Mazda, 8,456 sales by Ford, 7,890 sales by Kia and 7,357 by Hyundai. For the same month, pertaining to the top-selling vehicles, the Ford Ranger took the leading position, followed by the Toyota HiLux, the Isuzu Ute D-Max, the Mazda CX-5 and the Kia Cerato.
+Electric Vehicles (EVs)
+The EV revolution is taking place in many countries worldwide. Governments globally are planning and implementing measures in order to promote a cleaner environment via sustainable transportation. With the United Nation's target of 'net zero emissions' by 2050 and the European Union's proposition of a ban on vehicles that use petrol or diesel in 2035, stringent action plans are being decided to reduce the rate and impacts of global warming.
+In Australia, however, the present EV landscape remains insignificant. In 2020, EVs accounted for less than one percent of total sales of vehicles in the country and only 8688 EVs were sold in the first six months of the current year, inclusive of Tesla which does not officially report its vehicle sales figures. The low rate of sales of EVs in Australia can be accounted for by the fact that only 5 out of the 78 models available across Kia, Toyota, Mazda and Ford are EVs.
+According to Sydney-based specialist market research agency ACA Research, it is anticipated that by the year 2030, EVs will account for approximately 30% of total vehicle sales worldwide. They also anticipated that in the next two years, each of the top twenty manufacturers will have launched a minimum of one EV in the Australian market. A number of these OEMs, including Land Rover, Jaguar and Mazda have set specific timelines for becoming completely electric, varying from the year 2025 to 2040.
+Irrespective of the current adoption of EVs in Australia, and being behind the United States, Europe and China, the country remains as a primary benefited one from the transition to EVs globally. This is due to Australia being a powerhouse in lithium production and export, and accounting for half of global production. As worldwide demand continues to increase for lithium substantially, Australia will continue to greatly benefit with the transition towards the phenomenon of EVs.
+Tesla is still currently the world's largest EV manufacturer. Robyn Denholm, Tesla Chairman, stated that Australia will undertake a crucial position globally in terms of the provision of minerals that power EVs. Australia provides Tesla with 75% of their lithium supply.
+Acceleration of Digitization, Emerging Technologies & The Future
+The global health crisis further accelerated the adoption and use of digitization. Consumers globally are increasingly transitioning to digital channels for their banking and other financial transacting requirements. Financial institutions, in order to survive this era of digital transformation, must understand how essential it is for them to provide their customers with an unparalleled and seamless user experience. Consumers worldwide have transitioned to online and digital channels for various industries, and most significantly, their financial dealings. It is imperative for financial institutions to provide their customers with an Omni-channel experience which is seamless, and which can help in attaining a competitive edge.
+A number of important insights on accelerated digital adoption since the initiation of the pandemic in Australia were published last year by AlphaBeta, a part of Accenture, in collaboration with Microsoft. The report stated that Australian businesses swiftly transitioned to increased adoption of technology and digitization last year, more than they had over the past decade. Australian companies that went digital and adopted technology during these unprecedented times were those that were able to weather the storm and show resilience, and this reflected in their revenues and profitability.
+According to Gartner, behind the growth in Australia's total technology spend, are new investments in augmented analytics, business intelligence and robotic process automation. The research and consulting company stated that the adoption of modern business intelligence in the banking and securities industry will be greater than the adoption within other industries by the year 2023.
+The Reserve Bank of Australia stated that for financial institutions in the country, there are various long-term obstacles which need to be overcome, in terms of the risks associated with IT malfunctions and
+cyber-attacks
+. Financial institutions need to carefully manage risks in this regard, and these challenges can be managed and overcome by the implementation of next-generation financial technologies and software that essentially future-proof operations for financial institutions and which have the most stringent security mechanisms in place to counter any form of cyber-threats.
+Artificial intelligence is anticipated to contribute up to $16 trillion to the global economy by 2030, according to PwC. The adoption of artificial intelligence for financial institutions has also accelerated globally. For customer service, AI is a phenomenon which will play a crucial role pertaining to personalization at scale. Financial institutions are incorporating human-like aspects in AI-enabled platforms and applications in order to provide superior customer experiences. UBank, the digital arm of National Australia Bank, introduced 'Mia', a virtual assistant which interacts and communicates with the bank's customers face-to-face and provides instant answers to over 300 queries related to home loan applications.
+Australia is a powerhouse in the fintech sector, with over 700 fintech companies in the country. According to Fintech Australia, the country's national fintech association, it is estimated that the fintech industry has increased from A$250 million in 2015 to $4 billion in 2021. As per the KPMG Australia Fintech Landscape 2021, there are a total of 718 fintechs that are active currently, up from 701 in December 2020. Lending, payments, wallet and supply chain are the most sophisticated sectors for fintech in the country in terms of number of companies. However, the growth of emerging technologies such as blockchain and insurtech has been witnessed as well.
+Reference
+https://www.oecd.org/economy/surveys/Australia-2021-OECD-economic-survey-overview.pdf
+https://www.rba.gov.au/publications/fsr/2021/apr/australian-financial-system.html
+https://www2.deloitte.com/au/en/pages/consumer-industrial-products/articles/global-automotive-consumer-study.html
+https://www.world-leasing-yearbook.com/wp-content/uploads/2021/12/5276e_bookWLY22.pdf
+https://www.world-leasing-yearbook.com/wp-content/uploads/2021/02/WLY21_Australia.pdf
+https://news.microsoft.com/en-au/features/accelerated-digital-adoption-shields-firms-from-pandemics-worst-helps-keep-3-2m-australians-working
+https://home.kpmg/au/en/home/insights/2021/05/major-australian-banks-half-year-2021.html
+https://www.acaresearch.com.au/australian-market-research-blog/topic/financial-services
+https://www.gartner.com.au/en/finance
+https://www.zdnet.com/article/gartner-predicts-aussie-finance-it-spend-to-push-au18b-next-year
+https://www.ratecity.com.au/car-loans/news/car-loans-rise-car-sales-boom-australia
+https://www.finder.com.au/car-loan-statistics
+https://www.acaresearch.com.au/australian-market-research-blog/electric-vehicle-growth-in-australia
+https://economics.rabobank.com/publications/2021/october/australia-economic-update
+https://www.austrade.gov.au/news/economic-analysis/global-fintech-rankings-2021-australia-now-ranks-6th-in-the-world
+https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html
+https://www.rba.gov.au
+https://www.abs.gov.au
+https://www.fcai.com.au
+https://afia.asn.au
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

@@ -1,0 +1,1929 @@
+https://netsoltech.com/blog/case-connected-autonomous-shared-and-electric-an-insight
+Consent
+Details
+[#IABV2SETTINGS#]
+About
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+[#GPC_BANNER_ICON#]
+[#GPC_TOAST_TEXT#]
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Details
+Necessary
+18
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Cookiebot
+1
+Learn more about this provider
+CookieConsent
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Google
+1
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+test_cookie
+Used to check if the user's browser supports cookies.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+HubSpot
+1
+Learn more about this provider
+cookietest
+This cookie is used to determine if the visitor has accepted the cookie consent box.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+LinkedIn
+2
+Learn more about this provider
+bcookie
+Used in order to detect spam and improve the website's security.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+li_gc
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+cms.netsoltech.com
+1
+X-Mapping-#
+Saves the address and port number of the web server that is managing the session. Used to improve the website's performance security.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+hsadspixel.net
+hs-banner.com
+linkedin.com
+t.co
+12
+__cf_bm [x12]
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+Preferences
+4
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+LinkedIn
+1
+Learn more about this provider
+lidc
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+netsoltech.com
+3
+adroll#adroll
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+i18n_redirected
+Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+locale
+The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+Statistics
+15
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Google
+2
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+_ga
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+_ga_#
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+Hotjar
+4
+Learn more about this provider
+hjActiveViewportIds
+This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+hjViewportId
+Saves the user's screen size in order to adjust the size of images on the website.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+_hjSession_#
+Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+_hjSessionUser_#
+Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+HubSpot
+4
+Learn more about this provider
+__hssc
+Identifies if the cookie data needs to be updated in the visitor's browser.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+__hssrc
+Used to recognise the visitor's browser upon reentry on the website.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+__hstc
+Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+hubspotutk
+Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+Microsoft
+3
+Learn more about this provider
+_clck
+Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+_clsk
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+_cltk
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+Twitter Inc.
+1
+Learn more about this provider
+personalization_id
+This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+netsoltech.com
+1
+hs-cta-interactions#cta
+Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+Marketing
+38
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Meta Platforms, Inc.
+3
+Learn more about this provider
+lastExternalReferrer
+Detects how the user reached the website by registering their last URL-address.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+lastExternalReferrerTime
+Detects how the user reached the website by registering their last URL-address.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+_fbp
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+Adroll Group
+3
+Learn more about this provider
+__adroll_consent_params
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+adroll_dqs
+Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+adroll_flgs
+Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+Google
+5
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+NID
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+Maximum Storage Duration
+: 6 months
+Type
+: HTTP Cookie
+pagead/1p-user-list/#
+Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+csi
+Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+_gcl_au
+Used to measure the efficiency of the website’s advertisement efforts, by collecting data on the conversion rate of the website’s ads across multiple websites.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+_gcl_ls
+Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+HubSpot
+1
+Learn more about this provider
+__ptq.gif
+Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+Leadfeeder
+1
+Learn more about this provider
+[empty name]
+Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+Quora
+1
+Learn more about this provider
+_/ad/75aa344edeef4dbfa3b3dd7cb5f40e6f/pixel
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+Reddit
+2
+Learn more about this provider
+rp.gif
+Necessary for the implementation of the Reddit.com's share-button function.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+_rdt_uuid
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+Twitter Inc.
+6
+Learn more about this provider
+1/i/adsct [x2]
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+muc_ads
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+guest_id
+Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+guest_id_ads
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+guest_id_marketing
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+YouTube
+12
+Learn more about this provider
+__Secure-ROLLOUT_TOKEN
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+__Secure-YEC
+Stores the user's video player preferences using embedded YouTube video
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+__Secure-YNID
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+LogsDatabaseV2:V#||LogsRequestsStore
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+ServiceWorkerLogsDatabase#SWHealthLog
+Necessary for the implementation and functionality of YouTube video-content on the website.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+TESTCOOKIESENABLED
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+VISITOR_INFO1_LIVE
+Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+YSC
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+yt-icons-last-purged
+Necessary for the implementation and functionality of YouTube video-content on the website.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+YtIdbMeta#databases
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+sc.lfeeder.com
+4
+_lfa
+Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+_lfa_test_cookie_stored
+Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+_lfa
+Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+_lfa_expiry
+Contains the expiry-date for the cookie with corresponding name.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+Unclassified
+219
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+netsoltech.com
+218
+insights-state-/ar-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/ar/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/de/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-gb/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/en-us/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/es/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/fr/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/id/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/blogs-blogs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/case-studies-casestudies
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/events-events
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/podcasts-podcast
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/testimonials-testimonial
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/webinars-webinar
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/insights/whitepapers-whitepapers
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/lease-servicing-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/loan-origination-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/mobility-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/portals-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/transcend-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/transcend-ai-labs-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/products/wholesale-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/ai-ml-services-and-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/cloud-services-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/data-engineering-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/digital-solutions-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/emerging-technologies-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/generative-ai-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/information-security-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/services/policy-strategy-consulting-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/solutions/asset-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/solutions/automotive-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+insights-state-/th/solutions/equipment-finance-
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+lastSelectedLanguage
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+static.ads-twitter.com
+1
+_twpid
+Pending
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Cross-domain consent
+[#BULK_CONSENT_DOMAINS_COUNT#]
+[#BULK_CONSENT_TITLE#]
+List of domains your consent applies to:
+[#BULK_CONSENT_DOMAINS#]
+Cookie declaration last updated on 6/6/26 by
+Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+About
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Please state your consent ID and date when you contact us regarding your consent.
+Do not sell or share my personal information
+Allow all
+Customize
+Allow selection
+Deny
+Blog
+CASE (Connected, Autonomous, Shared and Electric): An insight
+By
+Peter Minshall
+Executive Vice President of NETSOL Technologies Americas
+, on June 29, 2022
+Four megatrends in automotive technology have started to redefine the competitive landscape of the automotive sector. C.A.S.E, or Connected, Autonomous, Shared and Electrified are ushering a new era of operations for the global automotive industry.
+Table of Contents
+Introduction
+Connected Car Market
+Share this Blog:
+Introduction
+In recent years, the automotive industry (and indeed several industries adjacent to it) has been driven by technological advancements such as the development of electric powertrains which are both affordable and sized appropriately, Artificial Intelligence (AI) - enabling vehicles to take more of their responsibility for action recommendations and decisions, and digital technologies around communications and UI/UX advancements, such as the Internet of Things (IoT), or mobile devices which can be presented anywhere. These advancements, for the most part, have created the acronym CASE (or sometimes ACES) which is regularly used to describe the four main strategic areas of focus for the industry - Connected, Autonomous, Shared, and Electrified.
+A connected car communicates bi-directionally with other systems. This connectivity enables communication between vehicles, people and the wider IoT. In itself, this enables advances in areas such as safety, route-planning, congestion avoidance and managed maintenance. But, together with the use of AI and developments in the transmission of massive volumes of data, it has led the automotive industry towards enabling autonomous vehicles. An autonomous vehicle is one that, through technological advancements, can sense its surroundings and operate and perform vital activities with little to no need for human intervention. The Society of Automotive Engineers have defined 5 levels of vehicle autonomy. We have recently seen the first vehicles approved for public road use with level 3 - which allows for some actions to be taken completely by the vehicle itself, such as overtaking slow moving traffic.
+Another surging trend in the automotive industry is
+smart mobility solutions
+. Shared mobility refers to the usage of a vehicle collectively by commuters or commercial users, but without owning it. Sharing activity has been significantly enabled by advancements in digital mobile technology, and of course, the availability of always-on high-speed internet connectivity. Finally, with both a push from government policy around environmental issues and technological advancements, the growth of emission-free
+adoption of Electric Vehicles
+(EVs) in the automotive industry has rapidly increased. The present article aims to present brief insights into the four trends mentioned above.
+Connected Car Market
+The fully connected car will consist of an ecosystem that comprises of technologies enabling the car to receive and transfer large amounts of data. A connected car offers comfort, performance, safety, and security. Factors such as an increase in the need for constant connectivity, the surge in consumer demand for connectivity solutions, and high technology dependency have contributed to the growth of the global connected car market.
+Fortune Business Insights
+reports that in 2020, the globally connected car market was valued at $55.56 billion. This valuation was in fact lower than the year before, when it was valued at $62.28 billion, due to the impacts of the COVID-19 pandemic. However, the connected car market was forecasted to grow at a CAGR of 18.1% from 2021 to 2028, and the total evaluation of the market is expected to reach $191.83 billion by 2028, according to the same report. Region wise, Asia Pacific is expected to lead the highest growth rate for the connected car market worldwide, with Japan, China and India playing a major role.
+Autonomous Vehicle Market
+The autonomous vehicle industry has undergone rapid technological advancements. An average self-driving vehicle uses a combination of cameras, sensors, LIDAR (Light Detection and Ranging), and RADAR (Radio Detection and Ranging). These technologies gather a large volume of data, which, when used by AI, enables the vehicle to see, hear, "think," and make decisions like human drivers. Such developments in the technological field are reducing traffic congestion, improving safety, and increasing connected infrastructure. These advancements have contributed to the autonomous vehicle industry's market growth. According to a report by Fortune Business Insights, the global autonomous vehicle market size was valued at 1.45 billion in 2020, exhibiting a decline of 20.3% from the year before due to the pandemic.
+Interestingly, however, despite the crisis causing short-term sales to drop, the resultant changes in the behavior of employees and companies accelerated the adoption of autonomous vehicles worldwide. Delivery companies and health institutes made use of autonomous vehicles throughout the health crisis. During the outbreak, retail, dining, and daily living restrictions raised the demand for non-contact operations and corresponding investments into driverless deliveries. In the passenger car market, we have seen mainstream OEM's introduce level 3 autonomous vehicles, which makes use of different driver assistance systems and AI into the market as the technology evolution investments made over several years begin to bear fruit.
+Despite COVID-19 causing short-term sales to drop, the resultant changes in the behavior of employees and companies accelerated the adoption of autonomous vehicles worldwide in the longer run.
+Due to such consumer behavioral changes and the rapidly evolving tech field, the global autonomous cars market was projected to grow from $1.64 billion in 2021 to $11.03 billion in 2028 at a CAGR of 31.3%, according to a report by Fortune Business Insights. This report can be furthered backed with a study by McKinsey which states that by 2030, 45 % of global new car sales could be at level-3 or above. It is also reported that by 2030, the Asia Pacific region will have the largest autonomous vehicle market share, followed by Europe and North America.
+Shared Mobility Market
+Globally, shared mobility, or commuters' shared use of vehicles, is becoming more popular. Cars, vans, electric bicycles, scooters, and motorbikes are all now common examples of shared mobility vehicles. It is cost-effective for consumers and also provides transportation accessibility without owning a vehicle. For these reasons, the shared car market size continues to grow. For instance, according to a report by McKinsey, the shared mobility market could reach a consumer-spending potential of $300 to $500 billion globally by 2030, which is three to four times larger than today's ride-for-hire or e-hailing market.
+E-Hailing is today the dominant service in the shared mobility space (more than 90%) but shared mobility includes car sharing, peer-to-peer car sharing, shared micro-mobility (bicycles and scooters) and dynamic shuttle services or pooled e-hailing. The report also states that since 2010, more than $100 billion has been invested in shared mobility companies. With the given advancement in the tech field, particularly with AI, investments and adoption will continue to increase.
+By 2030, the global shared mobility market could reach a consumer-spending potential of $300 to $500 billion, which is 3 to 4 times larger than today's ride-for-hire or e-hailing market.
+To support the McKinsey study above, Fortune Business Insights speculated growth in this market from $84.30 billion in 2021 to $242.37 billion in 2028, at a CAGR of 16.3%. According to a report by Statista, Asia Pacific is projected to have the largest shared mobility market size by 2028, followed by North America.
+The global shared mobility market has significantly impacted the public transport sector due to shifting consumer preferences towards ride-hailing, one of the major market drivers for the public transport industry. Users can plan and select their transportation in real-time while traveling, thanks to services like Uber and Lyft, which provide shared mobility.
+Uber has also helped solve the "last mile problem" by linking commuters from their houses or offices to train stations (and vice-versa) on discounted ride fares by partnering up with local and national transportation agencies. The last mile problem is the challenge of moving people between transportation hubs (like train stations and bus stops) and their starting point/final destinations.
+$100B+
+has been invested in shared mobility companies since 2010.
+Uber in selected cities displays information about the city's metro and bus service with data like real-time scheduling, pricing, arrival, departure, pickup, and drop-off times on its mobile app. With shared mobility playing one of the significant roles, the total revenue of the global public transport market is projected to reach $318.80 billion by 2026, according to a report by Statista.
+Electric Vehicle Market
+EVs have gained widespread interest because of their ability to reduce energy consumption and emissions. Electric automobiles create no carbon dioxide emissions when driving - they simply have no tailpipe. This significantly minimizes air pollution. Although concerns have been raised about greenhouse emissions during the manufacturing process of EVs and their batteries, a study from the Massachusetts's Institute of Technology Energy Initiative suggests that EVs create a much lower carbon footprint in their lifetimes than conventional internal combustion vehicles.
+The International Council of Clean Transportation reported that various governments worldwide continue to make new policies and commitments for EV sales. The cost of manufacturing such vehicles continues to fall in pursuit of making them a more viable option than conventional internal combustion vehicles.
+$1,318.22B
+is the projected valuation for the global EV market in 2028.
+Due to these supportive policies, the electric vehicle market continues to grow globally. A market report by Fortune Business Insight states that the EV market size was valued at $287.36 billion in 2021 and is expected to reach $1,318.22 billion by 2028, at a CAGR of 24.3%. Countries like China, Japan, and South Korea enable Asia Pacific as the region to lead the electric vehicle market. China, being the world's top EV producer and user, has a stronghold on the EV market worldwide.
+Recent Developments
+Automotive companies, including automakers, technology and service providers worldwide, are actively working towards solutions that could significantly change our everyday lives. A good example is Argo AI, an autonomous vehicle technology startup backed by Ford and Volkswagen, which provides people with a model of shared
+auto mobility solutions
+. According to a report by Business Insider, in May 2022, the company announced fully driverless cars in Austin, TX, and Miami, FL. The car's self-driving technology comprises LIDARs, RADARs, sensors, and mapping software implemented in Ford and Volkswagen vehicles.
+Argo AI will use its completely autonomous vehicles in Austin and Miami as part of partnerships with Lyft and Walmart's delivery services to provide driverless taxi trips and autonomous grocery deliveries, respectively. Similarly, Waymo, another autonomous vehicle technology company, announced in March this year that its total autonomous vehicles are ready to offer public ride-hailing services to its customers. Like Argo, Waymo is also partnered up with Lyft.
+Another important step forward in automotive technology is a vehicle's in-vehicle infotainment (IVI) system combined with automotive driving capabilities through 5G connectivity. And it's a step that we have started to see a lot of lately across the automotive industry. For instance, Einride's T-pod - a driverless vehicle, running continuously at DB Schenker's logistics facilities in JÃ¶nkÃ¶ping, Sweden - is connected to the Ericsson Radio System and Ericsson Cloud Core for 5G connectivity. The 5G connectivity enables the vehicle to receive information at a high speed, which is required since real-time autonomous decisions must be taken in fractions of a second. This creates an efficient transport ecosystem for fleet management, with high connectivity through 5G, resulting in lower downtime.
+In China, Baidu, a leading service provider of autonomous car technology, partnered with Chinese automaker Geely to make JiDU Automotive, an electric, level-4 autonomous vehicle. The car uses the NVIDIA DRIVE Orin system-on-a-chip (SoC), enabling continuous over-the-air software updates. The Orin SoC can support autonomous driving capabilities, as well as powering instrument clusters, infotainment systems, and passenger interface with AI, at a rate of 254 trillion operations per second (254 TOPS).
+Conclusion
+"Connected, autonomous, shared, and electrified" are the four megatrends reshaping the automotive industry. Supplemented by rapid technological developments, supportive government policies, and consumer behavioral changes in recent times, these four trends continue to take us closer to a driver-less, always connected, battery-powered future, all that without having the necessity to own a vehicle. This reshaping of the industry brings with it opportunities for incumbents, but also for others, as the traditional definition of "the automotive industry" is changing rapidly. This reshaping warrants a separate discussion and will certainly form the topic of future publications from NETSOL.
+NETSOL has been proudly serving automotive finance and leasing companies worldwide with smart software technology for over four decades and is itself broadening its offering to the wider industry with solutions now covering services such as shared mobility and online vehicle retailing. To explore the company's modern technology solutions for the evolving global automotive finance and leasing industry.
+Contact us
+today!
+Explore our
+automotive financial solutions
+and leasing business with cutting-edge digital retail solutions. Explore how our platform, trusted by Fortune 500 companies, can help you streamline operations, enhance customer experiences, and scale effortlessly!
+References:
+Connected Car Market Size, Share & COVID-19 Impact Analysis, By Application Type (Mobility Management, Telematics, Infotainment, and Driver Assistance), By Network Type (3G, 4G, 5G, and Satellite), By Technology Type (Embedded, Tethered and Integrated), By Sales Channel Type (OEM and Aftermarket), By Communication Type (Vehicle to Vehicle and Vehicle to Infrastructure) and Regional Forecasts, 2021-2028. (2021, August). Fortune Business Insights.
+https://www.fortunebusinessinsights.com/industry-reports/connected-car-market-101606
+Autonomous Cars Market Size, Share & COVID-19 Impact Analysis, By Type (Fully Autonomous and Semi-Autonomous), By Vehicle Type (Passenger Cars and Commercial Vehicles), and Regional Forecasts, 2021-2028. (2021, August). Fortune Business Insights.
+https://www.fortunebusinessinsights.com/industry-reports/autonomous-cars-market-100141
+Heinek, K., Kampshoff P. (2019, May 14). The trends transforming mobility's future. McKinsey & Company.
+https://www.mckinsey.com/industries/automotive-andassembly/our-insights/the-trends-transforming-mobilitys-future
+MIT Energy Initiative. (2019, November). Mobility of the Future.
+https://energy.mit.edu/research/mobilityofthefuture/
+Electric Vehicle Market Size, Share & COVID-19 Impact Analysis, By Vehicle Type (Passenger Car and Commercial Vehicle), By Type (Battery Electric Vehicle (BEV), Plug-In Hybrid Electric Vehicle (PHEV), and Hybrid Electric Vehicle (HEV)) and Regional Forecasts, 2021-2028. (2021, July). Fortune Business Insights.
+https://www.fortunebusinessinsights.com/industry-reports/electric-vehicle-market-101678
+Statista. (2021, October 20). Global shared mobility market size forecast 2021-2028, by region.
+https://www.statista.com/statistics/1229470/shared-mobility-market-size-worldwide-by-region/
+Electric Vehicle Market. (2021, April). Markets and Markets.
+https://www.marketsandmarkets.com/Market-Reports/electric-vehicle-market-209371461.html
+Autonomous / Self-Driving Cars Market. (2022, January). Markets and Markets.
+https://www.marketsandmarkets.com/Market-Reports/near-autonomous-passenger-car-market-1220.html
+Connected Car Market. (2021, December). Markets and Markets.
+https://www.marketsandmarkets.com/Market-Reports/connected-car-market-102580117.html
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Blog
+Broker-Lender Alignment: The Future of Asset Finance Success
+Read more
+Blog
+From manual friction to intelligent workflows: The next step for equipment finance
+Read more
+Blog
+Cyber resilience in APAC: Why 2026 demands more than traditional defence
+Read more
+Broker-Lender Alignment: The Future of Asset Finance Success
+Read more
+From manual friction to intelligent workflows: The next step for equipment finance
+Read more
+Cyber resilience in APAC: Why 2026 demands more than traditional defence
+Read more

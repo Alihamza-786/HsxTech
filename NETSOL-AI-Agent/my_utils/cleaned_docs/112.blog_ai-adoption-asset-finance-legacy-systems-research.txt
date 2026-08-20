@@ -1,0 +1,48 @@
+https://netsoltech.com/blog/ai-adoption-asset-finance-legacy-systems-research
+Blog
+Four in five asset finance leaders want to integrate AI – but nearly half of IT budgets are stuck maintaining legacy systems
+By
+NETSOL Technologies
+, on March 18, 2026
+80% of asset finance leaders rate their digital maturity as high, but questions loom over data readiness and accessibility
+Table of Contents
+Where is your digital maturity?
+Data must be AI-ready
+Share this Blog:
+Four in five
+asset finance management software
+leaders are eager to embrace AI, but almost half (47%) of the industry’s IT budget is being spent on maintaining ageing legacy systems. That’s according to research commissioned by NETSOL Technologies, a leading provider of AI-enabled solutions for the global leasing and financing industry.
+The push for AI and digital integration comes from an array of operational challenges that are slowing down delivery and eating into margins. The research findings show that around two-fifths of all lenders and brokers cite slow decision times (43%), a lack of visibility or tracking across the journey (42%) and complaints handling and resolution (39%) as the three biggest friction points in the customer and introducer journey.
+Four-fifths (80%) of respondents think their firm’s digital maturity is ‘high’ or ‘very high’. AI was also cited as a target for future investment by 44% of firms. However, only 41% are following through on their investment plans and more than half (54%) still describe their attitude to AI as ‘experimental’.
+For asset finance and equipment finance leaders ready to act on that challenge, the webinar on
+deploying AI in asset finance
+examines the practical case for AI adoption, what it requires, what it delivers, and how to move from intent to implementation.
+The disparity between digital maturity sentiment and attitude towards AI could be telling of a ‘reality gap’ among leaders across the automotive and equipment finance industries. This research has also been covered by
+Leaseurope
+, the pan-European leasing and asset finance association, a signal of how widely these findings resonate across the global asset finance industry.
+AI-powered models could reduce friction and improve customer journeys, but firms must be honest about their readiness to adopt AI. If data is inconsistent, low-quality or difficult to access, even the most sophisticated AI models will struggle to produce any usable outputs. The report findings show that the punishment for hesitation is too great to ignore.
+Data is fast becoming a precious resource for asset finance firms and respondents are confident about the quality of their data. Automotive finance lenders were the most upbeat. Over half (55%) were ‘very confident’ in the quality of their data and 61% were ‘very confident’ in the accessibility of their data.
+Equipment finance lenders were slightly more pessimistic than their automotive counterparts, but a significant share remained confident in their data: 45% of equipment finance lenders were ‘very confident’ and a further 45% were ‘moderately confident’ in its quality. In addition, 42% were ‘very confident’ in the accessibility of their data.
+Over half (53%) of brokers were also ‘very confident’ in the quality of their data, but only 38% have the same faith in their data’s accessibility. For a practical framework on what AI-ready data infrastructure requires in 2026, the blog on
+data modernization in 2026
+examines exactly what firms need to build now to unlock AI's potential across their operations.
+Jason Hurwitz, Sales Director, Europe at NETSOL Technologies said:
+“The asset finance sector is certainly exploring its options in the AI field, but there is still a gap between intention and reality. Expensive legacy systems are an undeniable drag on progress, and many firms are still cautious about adopting AI on a wider scale. However, there is a flipside to that coin: enthusiastic adopters must take a hard look at their data and be honest about their operational readiness for an AI project.”
+“No one is denying that the utopian forecasts of an AI-powered world are appealing and AI has long been a consideration for boards. But if an AI tool can only draw upon cluttered data, then the outputs may fall way below stakeholder projections. Urgent steps are required. Asset finance leaders must upskill their staff, hire new experts and take full advantage of API-first architecture. It is fast becoming clear that a generational divide exists, and stakeholders must ensure that digital transformation projects are actioned with a culture of change in mind for the best results.”
+“Good data is the precious high-margin resource of tomorrow and by securing their reserves today, the industry will win its future.”
+Naeem Ghauri, President and Co-Founder at NETSOL Technologies said:
+“Our new report shows that the asset finance sector has no shortage of ambition. Business leaders want to embrace innovation and eliminate the friction points that are slowing customer journeys. By harnessing AI and other digital technologies, our sector can take a vital step toward a future where those friction points are a footnote in history.”
+“But there is a rub here. Many asset finance leaders rate their digital maturity as ‘high’, but data readiness and accessibility are lagging behind. Organisations must be bold and transform their approach to AI. This may include ripping up the existing legacy infrastructure and setting ambitious digital transformation targets.”
+“As the research demonstrates, legacy systems are a huge drain on a company’s finances. By investing in a more modern system – one powered by both APIs and AI – organisations will stand to save more in the long-term, freeing up capital for investment in more ambitious and mould-breaking AI projects.”
+Ready to dive deeper into the findings?
+Read the report
+For organisations ready to act on the data readiness challenge the research highlights, the whitepaper
+from data chaos to AI readiness
+provides a step-by-step framework for building the data foundations that make AI deployment viable at scale.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

@@ -1,0 +1,65 @@
+https://netsoltech.com/blog/how-the-rise-in-car-sharing-will-affect-oems-and-captives
+Blog
+How the Rise in Car Sharing will Affect OEMs and Captives
+By
+Shankar Subramanian
+Product Owner OTOZ, NETSOL Technologies, Inc.
+, on December 19, 2019
+Ride hailing and sharing have ushered in a new era in the automotive industry. As consumer behaviour around using vehicles changes, manufacturers face growing pressure to adapt their business models to maintain profits and take advantage of emerging opportunities.
+The evolution of automotive industry business toward mobility services started with ride sharing and a shift towards autonomous vehicles. The rapid rise of companies like Uber and Lyft gave consumers new options for affordable transportation without having to own a car. Throw in services like DoorDash that bring the ride hailing business models to food delivery, and the need for a car for many consumers has begun to evolve.
+Table of Contents
+Making Data Part Of The Business Model
+Share this Blog:
+Car sharing is extending the reach of these trends. Services like ZipCar provide a pool of cars available for short-term rentals, often located near apartment buildings or other urban hubs. As such, users can simply use an app to utilise a car, use it for a few hours and pay a proportional fee.
+Between ride sharing and car sharing, individuals have access to a wider range of transportation options. Affordable mobility changes car ownership for many households, particularly those in urban areas where owning a vehicle is already less necessary due to easy access to public transit.
+A Frost & Sullivan study found that new business models are already emerging surrounding shared and autonomous vehicles, creating opportunities for innovation across the industry. These trends are already changing car ownership, and many pundits believe this shift will only accelerate as connected vehicles and, eventually, autonomous vehicles enter the industry landscape. Connected cars often include driver assists that allow for partial autonomy, such as vehicles that can use self-driving modes when on highways.
+As these capabilities become more prominent, many industry pundits expect ride sharing to gain prominence. In theory, fully autonomous vehicles could allow for complete car sharing as automobiles are available on demand via subscription services, reducing the need for ownership in entirety. As mobility becomes a service, PricewaterhouseCoopers (PwC) predicts the market for shared, on-demand vehicles will reach a value of US$1.4 trillion by 2030. This will make up 30% of profits in the industry compared to 26% of profits stemming from new car sales.
+While this vision for the future is still a long way out and not by any means determined, it does point to how drastically automotive
+loan servicing software
+business models could shift moving forward. OEMs are already preparing for this future and adjusting their business models to reflect the growing prominence of ride and car sharing models. Five ways OEMs are adapting are:
+Connected vehicles can benefit consumers and OEMs on a variety of levels. Allowing for network connectivity in automobiles can:
+Allow consumers and businesses to track vehicles that are part of service fleets for more visibility into operations. This gives consumers visibility into when service technicians will arrive or where deliveries are when in transit. For businesses, it opens up a greater ability to optimise routing and respond to customer requests more effectively.
+Enable fleet owners to track vehicle diagnostics and alert customers when certain thresholds are met. For example, using a connected monitoring device to measure wear and tear on engine components and alert your service team if damages are imminent can help you prevent emergency situations.
+Empower OEMs to take diagnostic data across a variety of users. With this data, OEMs can evaluate vehicle performance and reliability. This data can inform engineering and design decisions to create better future vehicles or help OEMs get ahead of problematic features and initiate recalls before safety issues emerge.
+Help OEMs track customer usage patterns for driving and use of various services in the vehicle to inform decision-making in developing new features and capabilities or making software updates.
+Ultimately, connected vehicles give OEMs the ability to get involved in the data economy by monetising consumer data. A Forrester report explained that, for more than a decade, mobility has served as a key driver for economic change and growth. While mobility is still critical for the automotive industry - automobiles are still central to
+floorplan finance software
+- increased use of ride and car sharing is starting to turn mobility into a commodity.
+As mobility begins to shift from ownership-focused to service-driven models, OEMs are finding it harder to differentiate themselves and create value through better
+business mobility solutions
+, Forrester explained. Instead, the growth opportunity in the industry stems from data and how OEMs can use information to both generate revenue and improve their business models to gain a competitive advantage.
+Preparing for New Purchasing Models
+As OEMs adjust to the opportunity presented by ride sharing, they will need to consider how they sell their vehicles and who they focus their marketing campaigns on. While consumers will still purchase their fair share of automobiles, OEMs increasingly need to assess how to adjust their long-term sales and marketing strategies as customer behaviors shift. Key issues to consider include:
+Identifying if it makes sense for an OEM to develop its own vehicle sharing services and build vehicles specifically to support those operational models. Alternately, OEMs could work with third-party ride sharing providers and develop products and marketing strategies to reach those audiences as efficiently as possible.
+Selling to businesses maintaining fleets of shared vehicles. This can take the form of service-driven business that use specialty vans to support their workers who spend significant time in the field. It can also include engaging in ride sharing.
+Adjusting their production and sales strategies as ride sharing fuels growth in the used car market and fewer consumers purchase new vehicles. This could push OEMs to look for more ways to generate revenue throughout a vehicle's entire life instead of just at the initial sale.
+Shared vehicle models are having a sweeping impact on how customers purchase goods. Businesses leasing company cars may shift to buying a small number of vehicles to be shared among workers or subscribing to a third-party vehicle sharing service. Independent ride-sharing drivers may share vehicles with other drivers to maximise their value opportunity. These types of purchasing models will create new financing models, as more flexible loan types will be necessary as dealers try to adapt to more varied customer needs.
+Leveraging Telematics to Create Transparancy
+The global market for telematics technologies - solutions that underpin autonomous vehicles and location tracking for connected vehicles - will expand at a compound annual growth rate of 24.7% from 2018 to 2025, Adroit Market Research found. By 2025, the global telematics market will be valued at approximately US$231.6bn.
+The market for telematics specifically for passenger vehicles is rising at a similar pace, as it is expected to grow at a CAGR of 23.57% from 2018 through 2022, 360Research Reports found.
+Telematics gives businesses an opportunity to gather large quantities of data, ranging from information about user behaviours to details pertaining to component wear and tear. This allows organisations to use that data for a wide range of business outcomes. They can improve maintenance efficiency through more precise details about stress put on equipment. They can identify patterns in customer use statistics to adjust service models.
+Telematics creates opportunities for transparency that drives operational gains, and manufacturers are moving quickly to leverage the technology accordingly.
+Understanding a Shifting Regulatory Environment
+The transition to electric and autonomous vehicles is laying the groundwork for emerging mobility services. Ride sharing becomes much easier with autonomous vehicles that can travel between user locations. Electric vehicles provide efficiency and reliability advantages that make them a natural fit to take on the heavy miles of nearly continuous operation in shared mobility services. As such, the regulatory trends that are helping to fuel innovation in electric and automotive vehicles have a significant influence on ride and car sharing.
+OEMs often fall into a three-level maturity model as they try to adjust to the new mobility-as-a-service model for the industry, according to PwC. The first is simply a technology push, and it's already well underway as OEMs create a higher volume of connected and electric vehicles while working toward autonomous automobiles. The second level involves a changing customer pull toward new service models and a subsequent shift in profits and revenues. This is also already happening, though it is in the fairly early stages.
+The third stage of market maturity, which is only starting to unfold, is understanding and responding to new regulatory realities, PwC explained. Many regulations around self-driving cars and consumer data collection/sharing are still in development. The study found that the US regulatory climate is currently the most favorable to autonomous vehicles, but the EU is making slow progress. While these regulations are starting to inform how OEMs design and develop vehicles, emissions standards are already fueling new business decisions.
+According to PwC, a blend of tax breaks, electric vehicle quotas and even localised urban bans on combustion engines are set to shape the sector moving forward. The shift is already underway, but the pace is highly variable depending on market. By 2030, electric vehicles will make up 50% of all new cars in China and 44% in the EU. That figure will be just 20% in the US.
+While the pace of change is highly variable depending on the regulatory environments where OEMs operate, regulatory changes are contributing to industry disruption as OEMs try to respond to ride and car sharing.
+Evaluating Revenue Models
+By 2030, mobility services will represent a larger percentage of profits than new car sales, PwC found. At that time, mobility services will make up just 22% of revenue compared to 38% for new car sales.
+In other words, mobility services have the potential to be much more efficient from a revenue to profit perspective. The total revenue created by new sales may be higher than mobility services even a decade from now, but the high efficiency associated with monetising data-driven mobility services makes them attractive to OEMs. Data is not becoming more valuable than the actual vehicles, but it still presents significant revenue opportunities.
+PREPARING FOR THE NEW AUTOMOTIVE FINANCING REALITY. User Based Insurance (UBI) is gaining popularity and many auto insurers are beginning to offer it as an option to customers to save on insurance premiums. The global UBI market is expected to grow from its current value of US$34bn to over US$107bn by 2024; according to a new research report by Global Market Insights, Inc. an increase in the production of passenger and commercial vehicles that are embedded with telematics to capture data are one of the major factors for the increase in UBI market growth.
+Smartphones enable customers to connect to the onboard devices and the increase in the number of connected cars, allowing vehicles to share data with the outside environment. Hence, making it another reason for the UBI market growth.
+Due to the new model of ride-sharing emerging, dealers need to identify and unlock operational efficiencies, and discover new ways to operate in a digital environment by putting the customer at the centre.
+All of these business model changes create new opportunities in the auto financing world.
+OEMs
+need tools that allow them to offer faster, more flexible financing options to better meet the needs of different customer types and reduce the costs associated with selling new vehicles. Modernising auto financing processes is key to being prepared. It can empower you to enact
+credit origination process
+that can further help you to improve finance processes and adjust as the market changes moving forward.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

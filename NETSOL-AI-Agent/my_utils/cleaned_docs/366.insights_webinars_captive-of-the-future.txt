@@ -1,0 +1,57 @@
+https://netsoltech.com/insights/webinars/captive-of-the-future
+Captive of the Future: How Technology is Reshaping Captive Finance Operations
+Captive finance leaders face a fast-shifting landscape. Digital-first customers, tightening regulations, surging cyber risks, and the rapid rise of electric and autonomous vehicles are rewriting the competitive rules. The captives that will thrive in this environment are those that make the transition from being financial services providers to being technology companies first.
+NETSOL sponsored AFSA's Business Partner Webinar on captive finance operations, bringing together four industry leaders with deep experience across the world's largest auto captive organisations to share their vision for how captives can navigate this shift. The discussion is directly relevant for anyone working in
+auto finance software
+, from technology strategy and product development through to operations and executive leadership.
+The panel:
+Richard Howard:
+Board Adviser, NETSOL Technologies; former President & CEO, Daimler Truck Financial USA.
+Ian Smith:
+Board Member, NETSOL Technologies; former CEO, BMW Group Financial Services USA & the Americas.
+Faizaan Ghauri:
+Chief Strategy Officer, NETSOL Technologies, Inc.
+Eva Kellershof:
+Vice President of Sales, North America & Europe, NETSOL Technologies, Inc.
+What Needs to Change in Captive Finance
+The panel aligned on six structural imperatives for captives preparing for the next decade:
+Omnichannel is non-negotiable:
+Online and in-store experiences must be consistent, with transparent pricing, clear fees, seamless credit approvals, and end-to-end e-contracting across every channel.
+AI requires process redesign, not bolt-ons:
+Rebuilding core processes before automating them is critical; the goal is better business decisions on asset risk, credit, and pricing, not just cost reduction.
+Flexibility must replace rigidity:
+Captives need to support loans, leases, subscriptions, short-term rentals, and fractional access models with simple product switching and bundled services.
+EV residuals demand new logic:
+Battery health, software updates, charging ecosystems, and policy changes all reshape asset value over time; real-time telematics and dynamic data models are now essential.
+Platformisation is the architecture:
+API-first hubs that align OEMs, dealers, and captives unlock modern customer experiences and enable rapid integration with new partners and products.
+GEO is replacing SEO:
+as AI-powered shopping assistants reshape how customers discover and compare finance products, captives must ensure their content is structured, explainable, and present in AI-generated responses.
+Key Takeaways for Captive Finance Leaders
+Three strategic priorities emerged from the discussion:
+Start with the customer journey:
+Building a consistent, digital-first experience across online and in-store channels is the foundation for AI adoption, EV lifecycle management, and platform transformation.
+AI adoption follows three horizons:
+Immediate gains come from decisioning and automation improvements; mid-term value comes from integrating OEM and dealer flows; long-term transformation comes through fleet monetisation and lifecycle optimisation.
+Human oversight is not optional:
+AI enables a significant increase in productivity, but human expertise must remain in the loop wherever judgement matters; AI tells you what the data shows, not what to do with it.
+NETSOL's Role in Shaping the Captive of the Future
+NETSOL’s
+asset finance platform
+is purpose-built for captives operating at this level of complexity, supporting the full lifecycle from origination through servicing with configurable workflows, real-time portfolio analytics, and API-first architecture that connects OEM, dealer, and lender systems without custom builds. For a real-world reference point on what a connected, digital-first captive finance deployment looks like in production, the
+MINI Anywhere platform
+demonstrates how NETSOL has enabled an OEM to run a fully integrated retail and finance journey at national scale.
+Going deeper: Related reading
+A full written analysis of the session’s key findings is available in NETSOL’s detailed blog on
+captive finance technology
+. It explores the digital-first imperative, EV residual value challenges, the AI adoption roadmap, and the strategic shifts captives must make to remain competitive.
+The
+American Financial Services Association
+hosted this session as part of its Business Partner Webinar series for member organisations.
+Related
+webinars
+Webinar
+SME Finance: What Needs to Change to Create Better Outcomes for SMEs, Brokers & Lenders
+Bridging the Retail Gap: What Dealers Really Want from Digital Retailing
+Reimagining the dealership experience with AI and omnichannel retail
+Reinventing Your Dealership with AI and Omnichannel Journeys

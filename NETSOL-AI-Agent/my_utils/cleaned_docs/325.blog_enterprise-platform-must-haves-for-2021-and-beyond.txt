@@ -1,0 +1,57 @@
+https://netsoltech.com/blog/enterprise-platform-must-haves-for-2021-and-beyond
+Blog
+Enterprise Platforms Must Haves for 2021 and Beyond: Multitenancy
+By
+Kamran Khalid
+Head of Business Analysis Group & Head of PreSales at NETSOL Technologies Inc.
+, on October 6, 2020
+Explore the benefits of multi-tenant architecture, from cost efficiency and scalability to simplified management, enabling businesses with cloud solutions
+Table of Contents
+Share this Blog:
+Multi-tenancy is often a misunderstood term. Multi-tenancy is an architectural approach enabling a single instance of an application to be shared among multiple organizations or users. The core principle here is; it is the single instance of the application which is being shared. Hence, multi-instance architectures are not the same as multi-tenant architectures.
+The multi-tenant approach models are divided into:
+Logical Data Separation
+Permits all tenants the right to use a single database, the data is separated within the same database through implementing unique identifiers for storing and retrieving data.
+Physical Data Separation
+This model separates the data by utilizing different databases for different clients (tenants).
+Benefits of Multi-Tenant Architecture:
+Agility and Scale
+In a multi-tenant environment, rolling out new capabilities can be done once for the entire infrastructure for all customers. A multi-tenant SaaS provider's resources are focused on maintaining a single, current version of the application, rather than spread out in an attempt to support multiple software versions for customers.
+Cost Efficiency
+Multi-tenancy enables to share infrastructure across multiple tenants, leading to significant savings compared to dedicated hardware for each end customer. Lower costs can be achieved through economy of scale and using shared infrastructure. Reduced costs of
+best software development models
+and deployment are passed on to the customers.
+Easier Application Management
+Architecture of a multi-tenant application is easier for vendors to manage leading to a
+seamless cloud solutions
+for the customers.
+Quick Onboarding
+Through automated process, new customer onboarding can be quick and easy.
+Less Down Time
+Since all customers are using a shared
+cloud based firewalls
+infrastructure, vendor must ensure application is running smoothly at all times to avoid any disruptions and down time.
+Access to Periodic Updates
+Customers don't need to pay for high costs for application maintenance and can get access to updates and enhancements through periodic updates.
+Community Building around the System
+A single software version also creates an unprecedented sense of community where customers and partners share knowledge, resources, and learning.
+Simplification of Complex Processes
+Being able to use part of the common data, for example, system is able to simplify complexities in situations like involving multiple tenants for
+financial services
+opting to share business partner exposure but keeping separate transactional data.
+Flexibility for Tenants
+Loading new portfolios of different geographical locations, specific type of assets in each tenant, varying
+financial products marketplace
+and many such differences among tenants, but with all this having a common user management or separate, common business processes or separate etc., - all such flexibilities are provided for tenants.
+Layered Organizational Structure
+Defining multiple finance companies under each tenant gives another layer of organizational structure.
+If you are interested in finding out how NETSOL Technologies can enable cost efficiency for your business through multi-tenancy, check out our
+asset finance software
+today! This is the first article of the series highlighting Enterprise Platform - Must Haves for 2021 and Beyond.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

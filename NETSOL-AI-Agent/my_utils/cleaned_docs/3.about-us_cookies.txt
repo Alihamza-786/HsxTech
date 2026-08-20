@@ -1,0 +1,65 @@
+https://netsoltech.com/about-us/cookies
+Cookies Policy
+General Principles:
+Cookies are small pieces of data sent from a website and stored on the user’s web browser while the user is browsing. Cookies don’t identify you as an individual, they simply collect statistical data about your browsing activities. By using Cookies, We are able to provide you with a better experience and to improve our site by better understanding how you use it. Please read this Cookie Policy carefully and ensure that you understand it. Your acceptance of Our Cookie Policy is deemed to occur if you continue using our site. If you do not agree to Our Cookie Policy, please stop using Our Site immediately.
+How Does Our Site Use Cookies?
+Our site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by us and are used only by us. We use Cookies to facilitate and improve your experience of our site and to provide and improve our products and services. We have carefully chosen these Cookies and have taken steps to ensure that your privacy and personal data is protected and respected at all times. By using our site, you may also receive certain third party Cookies on your computer or device. Third party cookies are those placed by websites, services, and/or parties other than us. Third party Cookies are used on our Site for analysing usage of our website.
+All cookies used by and on our site are used in accordance with current Cookie Law. We may use some or all of the following types of cookie:
+Strictly Necessary Cookies -
+A cookie falls into this category if it is essential to the operation of our site, supporting functions such as logging in, your shopping basket, and payment transactions.
+Analytics Cookies –
+It is important for us to understand how you use our site, for example, how efficiently you are able to navigate around it, and what features you use. Analytics cookies enable us to gather this information, helping us to improve our site and your experience of it
+Functionality Cookies –
+Enable us to provide additional functions to you on our site such as personalisation and remembering your saved preferences. Some functionality cookies may also be strictly necessary cookies, but not all necessarily fall into that category.
+Third Party Cookies –
+These are not placed by us; instead, they are placed by third parties that provide services to us and/or to you. Third party cookies may be used by advertising services to serve up tailored advertising to you on our site, or by third parties providing analytics services to us (these cookies will work in the same way as analytics cookies described above)
+Persistent Cookies –
+Any of the above types of cookie may be a persistent cookie. Persistent Cookies are those which remain on your computer or device for a predetermined period and are activated each time you visit our site.
+Session Cookies –
+Any of the above types of cookie may be a session cookie. Session cookies are temporary and only remain on your computer or device from the point at which you visit our site until you close your browser. Session cookies are deleted when you close your browser.
+Cookies on our site are not permanent and will expire as indicated in the table below.
+For more details of the personal data that We collect and use, the measures we have in place to protect personal data, your legal rights, and our legal obligations, please refer to our Privacy Policy.
+Privacy Policy.
+For more specific details of the cookies that we use, please refer to the table below.
+What Cookies Does Our Site Use?
+The following first party cookies may be placed on your computer or device:
+Name of Cookie
+Purpose and Type
+Strictly Necessary
+X-Mapping-jgcaohmn
+Session Cookie
+Our site uses Google Analytics. Website analytics refers to a set of tools used to collect and analyse anonymous usage information, enabling us to better understand how our site is used. This, in turn, enables us to improve Our Site and the products and services offered through it. You do not have to allow Us to use these Cookies, however whilst our use of them does not pose any risk to your privacy or your safe use of our site, it does enable us to continually improve our site, making it a better and more useful experience for you.
+The analytics service(s) used by our site use(s) analytics cookies to gather the required information.
+The analytics service(s) used by our site use(s) the following analytics cookies:
+Provider
+Expiry Time
+Used to distinguish users.
+Google
+2 Years
+24 Hours
+gattext
+Used to throttle request rate. If Google Analytics is deployed via Google Tag Manager, this cookie will be named _dc_gtm_.
+1 Minute
+Contains campaign related information for the user. If you have linked your Google Analytics and AdWords accounts, AdWords website conversion tags will read this cookie unless you opt-out.
+90 Days
+Consent and Control
+When visiting our site you will be shown a pop-up informing you of our use of cookies. By continuing to use our site you are giving your consent to the placing of cookies on your device enabling us to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of cookies unless those cookies are strictly necessary; however certain features of our site may not function fully or as intended. You can return to your cookie preferences to review and/or change them at any time by resetting your cookie preferences in your browser.
+In addition to the controls that we provide, you can choose to enable or disable cookies in your internet browser. Most internet browsers also enable you to choose whether you wish to disable all cookies or only third party cookies. By default, most internet browsers accept cookies but this can be changed. For further details, please consult the help menu in your internet browser or the documentation that came with your device.
+https://support.google.com/chrome/answer/95647?hl=en-GB
+Microsoft Internet Explorer:
+https://support.microsoft.com/en-us/kb/278835
+Microsoft Edge:
+https://support.microsoft.com/en-gb/products/microsoft-edge
+pleaseNoteText
+Safari (macOS):
+https://support.apple.com/kb/PH21411?viewlocale=en_GBandlocale=en_GB
+Safari (iOS):
+https://support.apple.com/en-gb/HT201265
+Mozilla Firefox:
+https://support.mozilla.org/en-US/kb/block-websites-storing-cookies-site-data-firefox
+Android:
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroidandhl=en
+pleaseReferText
+Changes to this Cookie Policy
+We may alter this cookie policy at any time. Any such changes will become binding on you on your first use of our site after the changes have been made. You are therefore advised to check this page from time to time.
+In the event of any conflict between the current version of this cookie policy and any previous version(s), the provisions current and in effect shall prevail unless it is expressly stated otherwise.

@@ -1,0 +1,52 @@
+https://netsoltech.com/blog/on-prem-to-cloud-migration-a-series-of-articles-dos-donts
+Blog
+On-Prem to Cloud Migration - Do's & Don'ts
+By
+Peter Minshall
+Executive Vice President (North America) at NETSOL Technologies Inc.
+, on December 7, 2020
+Discover the key benefits of successful cloud migration, including higher profitability, enhanced security, better resource utilization, and seamless scalability.
+Table of Contents
+Share this Blog:
+Digitization usually comes at the cost of taking some calculated risks and yet being prepared for disasters. But these risks can be mitigated with taking calculated decisions, proper staff training, and having backup recovery systems in place. When the decision of changing the IT landscape is evaluated, the product's performance and efficiency is paramount, but there are other preparations that need to be considered. This fast-paced world has left us with very little margin for error; however, this is where the real challenge lies, and this is where the product longevity is tested. So, when that change decision involves moving to the Cloud - the complexity of possible outcomes is increased further. Many of the issues that face decisions to move to the Cloud are repeated (or copied) from any other IT changes, but because the Cloud represents such a fundamental change in the way organizations see IT Software, it is important to consider them again.
+This series of articles is not at all a technical justification or guide for Cloud migration initiatives, it is more a reference point for project leaders (regardless of the project management methodology) to consider before and during the activities.
+1. Set goals to help dictate your path to the cloud
+The shift from a traditional environment to Cloud is a drastic one. While it is commendable to be motivated and ambitious, this change demands moving up the (Cloud) ladder gradually and steadily. Setting small but significant goals while transitioning and after having transitioned will help you grasp a better understanding of the new platform, its capabilities, and its limitations.
+2. Develop a thorough plan
+Ensuring a smooth transition from traditional infrastructure to Cloud remains one of the top challenges. Given the potential risks involved, it is worth having a thorough plan of action. The key areas that you need to take care of include infrastructure management, Cloud solutions (SAAS, IAAS, PAAS), level of Cloud integration, a data migration plan, establishing security policies and a contingency plan. Running through these areas will certify all the risky aspects surrounding the migration that have been scrutinized and set-up. Continuous health checks of your different running servers and timely notification alerts will ensure almost zero downtime.
+3. Connect with business stakeholders on how cloud can support the bottom line
+Around 80-90 % of businesses have already increased their footprint on cloud. Having stakeholders on board and getting them familiar with the benefits will give you a better understanding of how to plan, execute and effectively tackle potential issues that can come around. Not having a clear understanding of the goal or by involving stakeholders at later stage might end up in delays and increased cost.
+Adapting to these practices and having a clear goal in mind will set a marker for your product and ensure that it is regarded as a cutting-edge development.
+4. Communicate & train employees
+As you move your business's workload to Cloud, domain skills that caters to process automation, architecture optimization and resource optimization will be required to enable this transformation. Thus, training your employees for this shift is your best way forward. For this, employees must be kept in loop and presented with the business case that warrants moving to
+Agile Cloud solutions
+. For a practical experience, the companies can engage their employees in trainings and certifications offered by Cloud providers. Just like new skills and languages are introduced, with every passing day new services and processes are emerging in the Cloud eco system which makes it essential for employees to upskill timely.
+5. Change mindset overall
+The most significant changes from traditional to Cloud infrastructure (in addition to flexibility, scalability and elasticity), are virtualization and centralization. Adhering to a work ethic and approach shift is imperative for adapting to this new platform. Things that were previously distributed over multiple domains are now accessible at a central point, without any dependencies. The centralization of the platform enables us to serve multiple clients having similar infrastructure or
+asset finance software
+requirements to get going without a hitch.
+6. Application testing before business-critical areas migration
+Whether the intention is improved performance, scalability, or reducing infrastructure investments; one should have the application/data run through a cycle of functional validation, integration, security, and performance testing. This specially applies to the business-critical areas before deploying to Cloud. It will ensure a certain level of stability and help avoid deterrents that can otherwise create bugs, which can be a major workload with the resultant fixing and migration cycles.
+7. Use centralized dashboards for tracking
+Cloud is a great solution for multi-tenant companies, where control is traditionally distributed and usually depends upon multiple entities or business units. With the centralized governance that Cloud brings, comes centralized control, allowing for monitoring and tracking of resources and operations. Making use of this ability will greatly reduce the dependencies and discrepancies that can come with distributed control. It is best to keep an eye on your Cloud usage and have a clear understanding of which resources are under or over utilized, which as a result can be automated or utilized on-demand. This is not about control per se, it is about optimizing the control structures and mechanisms and ensuring the most efficient and effective way to achieve control objectives.
+8. DevOps approach for deployment
+It is becoming a common practice to align DevOps with the Cloud. For one, the centralized natured Cloud provides DevOps with a standard platform. Secondly,
+Cloud service providers
+support DevOps on their platforms systemically, including continuous integration and development. So not considering aligning the approach of the provider with your own is a huge lost opportunity. Incorporating DevOps will help streamline and make the process of deployment error-free due to its agile nature and allowing the ability to incorporate changes in real-time. It is also the best time to consider Dev Ops as the main control system where all the future pipelines of codes and changes are placed. Single click deployment will reduce dependencies on resources and make the process easier which otherwise becomes complicated and more prone to error.
+9. Assess existing application and resources environment
+Cloud migration can be a complicated, arduous process if executed incorrectly. Data may be lost or compromised if adequate contingency and security measures are not in place.
+Application Migration Testing
+helps you maintain and ensure a thorough process by comparing the migrated and legacy applications to uncover discrepancies. The goal here is to ensure that legacy data transfers with minimum downtime and disruptions with all the essential data intact, and that the upgraded application is compatible with hardware and software that your legacy application supports.
+10. Partner up with cloud experts
+The sheer amount of change required to make the move to Cloud, including technology, processes and people can be quite overwhelming and confusing. Partnering up with the right experts from the domain will help reduce overhead that may be encountered in cases and especially if there is no previous experience of having worked with the Cloud. Expert knowledge and advice will help streamline the process for seamless migration and deployment to the Cloud and minimize the possibility of things going south. Like many Information Technology topics, "the devil is in the detail" and cloud experts will see the impacts of the details long before less experienced team members.
+If you are interested in finding out how NETSOL Technologies has successfully carried out Cloud migration for its customers,
+get in touch
+with us here.
+This is the first article of the series highlighting On-Prem to Cloud Migration: Do's and Don'ts.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

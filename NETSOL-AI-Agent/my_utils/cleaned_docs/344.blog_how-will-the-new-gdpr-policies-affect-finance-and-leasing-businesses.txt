@@ -1,0 +1,67 @@
+https://netsoltech.com/blog/how-will-the-new-gdpr-policies-affect-finance-and-leasing-businesses
+Blog
+How Will the New GDPR Policies Affect Finance and Leasing Businesses?
+By
+Najeeb Ghauri
+Chairman & CEO at NETSOL Technologies Inc.
+, on June 12, 2018
+Data is gold for companies as it helps them identify vulnerabilities and optimize their operations. This data also contains personal data that is often collected without any consent. In addition, the data is usually shared with third parties without notifying users. Data is gold for companies as it helps them identify vulnerabilities and optimize their operations.  This data also contains personal data that is often collected without any consent. In addition, the data is usually shared with third parties without notifying users.
+Table of Contents
+Share this Blog:
+To address the data privacy and protection issue of citizens, EU introduced the General Data Protection Regulation (GDPR) that came into effect on the 25th of May 2018.
+The legislation has created a new framework replacing the older EU Data Directive with a unified data protection law that is applicable across all EU member states. It represented the biggest change in data protection laws in the past two decades and will require wide ranging changes in data privacy policies across different organizations.
+Finance and
+lease management software
+businesses handle a large amount of confidential data. They have to collect different information for verification purposes such as name, date of birth, salary statement, postal address, email address, social security, medical data, and others. This results in the likelihood of increased supervision by regulatory authorities, which have new rights to impose hefty fines for noncompliance of up to â‚¬ 20 million or 4 percent of annual turnover.
+In order to avoid paying fines,
+asset finance technology
+and leasing companies that serve EU citizens need to take a close look at the existing policies regarding user data collection and take active steps to bring it in line with the new GDPR legislation.
+So, what areas should financial companies focus on to bring existing policies in line with the latest EU data regulation?
+Here, we will take a look at 10 key areas of the legislation that will impact data collection activities in the sector.
+1. Obtaining Consent
+The GDPR has set a high standard for obtaining permission from customers regarding the use of confidential data. It requires that companies offer individuals a control and choice over the use of their personal data. The responsibility of obtaining permission from users is placed on the company.
+Financial institutions should not only obtain permission from customers, but also keep a record of how, when, and where it was obtained. In addition, they should record what was said to customers in obtaining their permission.
+Apart from obtaining consent, financial companies also need to allow individuals to withdraw from their consent any time they wish. Regular review of consent should be a part of the process of ensuring compliance with the
+GDPR legislation
+2. Right to Data
+Under the GDPR rules, individuals shall have complete ownership of personal data. They have the 'right to be forgotten' that gives them the right to request deleting their data from company records. Users have the right to request for deletion of data when it's no longer required for the purpose for which the data was obtained.
+Also, individuals have the "data portability" right that allows them to request a copy of personal data. They may also request transfer of stored data from one service provider to another.
+Financial companies also need to implement organizational and technical measures to ensure timely and appropriate response to all requests of users regarding their private data.
+3. Appointment of Data Protection Officer (DPO)
+When an organization processes large scale of specific user data as part of the core activities, which is the case for most
+finance and leasing
+companies, the GDPR requires the appointment of a data protection officer (DPO).
+The DPO's main role includes ensuring that data process activities of the firm conform to the data privacy requirements. Also, the job role includes notifying the concerned authorities of any kind of data breach. The exact tasks and responsibilities are specified in the GDPR and may differ from the roles of existing privacy officers employed by the company.
+4. Data Breach Notification
+The GDPR has unified different data breach notification laws in the EU region. Companies are required to constantly monitor and notify any breaches of personal and confidential data. The law requires organizations to notify about the breach within 72 hours of identification.
+What this means for financial companies is that they must have technologies in place to ensure that any data breach is detected and reported in a timely manner. For most companies, this may require making changes in their internal data monitoring systems. In addition, it may require training employees including the DPO about how to report data breaches.
+Financial businesses need to streamline the notification requirements under GDPR with other data notification obligations under national laws. Any breach must be notified immediately, unless the breach does not present a risk of privacy rights of individuals.
+Financial companies need to implement a system for assessment of the risk of data breach. They must foresee and plan for any breach of confidential data. This is particularly important for large financial companies that handle large amounts of personal data. The DPO must be consulted prior to processing of data when it is likely to result in a data breach.
+5. Data Transfer Outside the EU
+The GDPR prohibits data transfer outside the European Economic Area unless approval is taken from the individual. Also, the action must be legitimized by the relevant agency in the target country. The EU-US Privacy shield allows many US Organizations to ratify transitional or binding contracts through standard EU model clause. However, this provision does not include financial companies.
+One possibility to ensure compliance with GDPR rules is to have an approved certification or code of conduct for the financial sector companies. The code of conduct relates to conventional principles and expectations regarding data protection rules that are considered binding on financial-sector staff. Such certification or code can be used to ensure compliance with the data protection legislation.
+6. Data Minimization Principle
+The data protection law has introduced restrictive data handling legislation. One of the restriction is the data minimization principle that requires companies not to store confidential data unless necessary for the transaction.
+Financial companies should only collect data that will be required for opening an account or processing transaction. A system should be in place to carefully assess collected data and delete information that is not required or whose purpose has expired. Adopting the minimization principle will reduce the risk of noncompliance with the data privacy law.
+7. Changes in the Use of Data
+The GDPR law mandates that data should be used for purposes for which it was collected. If a company wants to use data for any other purpose than it was collected for, fresh consent must be obtained from users. This means that financial companies must have the system and process in place to ensure that permission is obtained from users whenever there is any change in the use of data than originally intended.
+8. Privacy by Design & Default
+An important requirement of the GDPR is 'Privacy by Design'. This refers to an approach to GDPR compliance whereby data privacy is implemented from the start and maintained throughout the complete development process of the project, procedure, or business policy.
+The requirement does not mean that regulators will examine at what stage of the process the company implemented data protection process. It means that the regulatory authority will evaluate whether the company has complied with the law in its entirety. The company must show what measures and controls have been implemented to ensure complete compliance with the data protection laws.
+Companies who collect private data of EU citizens are also required to conform to the 'Privacy by Default' requirement. A data controller must ensure that only those private data are used that are necessary for a specific purpose. Also, the data must not be retained for more than the duration that is deemed necessary for a particular purpose.
+9. Accountability
+One of the main requirements of GDPR is that every company that collects data of EU citizens is accountable for noncompliance. In other words, companies are responsible for demonstrating that they fully comply with GDPR.
+As an example, companies need to show records of private data that have been processed. They need to show permission was obtained for the use of information. Financial companies need to verify whether the data processing was in accordance with GDPR obligations.
+10. Third Party Use of Data
+Lastly, financial businesses must monitor personal information for which permission has been obtained from users and inform them about the use of data by third parties. The third parties can be partners, suppliers, or local regulatory authority. It's important to understand the risks involved in transferring data to third parties and ensure that privacy of user data is maintained.
+Conclusion
+The GDPR allows the EU regulatory body to take action against a company for non-compliance with regulations regarding data privacy. The latest legislation is one of the toughest data privacy regulations to date. Setting up a comprehensive program to streamline GDPR compliance is necessary for all types and sizes of financial and leasing businesses.
+A company that collects information about EU citizens is required to ensure complete compliance with the data protection rules. In order to avoid hefty fines for not complying with the GDPR laws, financial and leasing companies must identify user data capture and access points.
+Also, it's important to collaborate with users to ensure easy access to the use of personal information. There should also be policies to remediate issues regarding breach of personal data. Not taking any action in this regard will not only cause great financial burden but also erode the confidence of customers in the region.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

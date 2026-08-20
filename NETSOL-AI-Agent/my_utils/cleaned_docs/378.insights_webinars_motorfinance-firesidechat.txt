@@ -1,0 +1,41 @@
+https://netsoltech.com/insights/webinars/motorfinance-firesidechat
+Motor Finance Fireside Chat - NETSOL and Deloitte
+Join Johannes Riedl, Global Client Partner at NETSOL Technologies, and Ingo Schmuckall, Senior Manager Strategy & Business Design at Deloitte Consulting, for an exclusive fireside chat recorded at the Motor Finance Europe Conference & Awards. The discussion also features James Comrie, Director of Wholesale Finance at Close Brothers Asset Finance. Together they explore how digitalization is reshaping
+motor finance software
+and what it means for OEMs, captives, dealers, and end customers navigating the shift toward Car-as-a-Service models.
+What Is driving the shift to Car-as-a-Service
+The panel identified three converging forces reshaping how automotive finance providers must operate:
+Consumer preferences are moving toward flexibility:
+Customers are increasingly reluctant to commit to long-term loans or ownership, preferring short-term, usage-based models that offer convenience without long-term financial exposure
+Profit pools are shifting from assets to services:
+Traditional OEM revenue from vehicle sales and after-sales is declining, while captive finance and Car-as-a-Service revenues are projected to grow significantly, with Deloitte forecasting a tripling of CaaS revenue streams.
+Digital expectations are being set by other industries:
+E-commerce, retail banking, and telecommunications have trained customers to expect simple, fully digital journeys; motor finance providers that still rely on paper, manual processes, and media breaks are losing ground in customer experience.
+Key takeaways from the discussion
+Three strategic priorities emerged for motor finance providers and captives:
+Digitalization is non-negotiable for CaaS:
+Flexible financing options, car and asset management, and mobility services all require digital infrastructure as their foundation; without it, Car-as-a-Service models cannot be profitable at scale.
+Three technologies underpin the transition:
+AI enables flexible, dynamic pricing across complex mobility offerings; blockchain provides an open, transparent, and secure view required for multi-stakeholder asset management; and IoT enables telematics data collection that powers usage-based services and residual value management.
+The customer journey must be frictionless:
+A Car-as-a-Service offering only attracts enough traffic to be profitable if the customer experience is fully digital, involves minimal steps, and is free of manual interruptions such as printing, scanning, or physical mail.
+How NETSOL enables the transition to Car-as-a-Service
+NETSOL's
+loan origination software
+is one of the foundational components for motor finance providers building toward Car-as-a-Service, enabling the kind of digital, self-service origination journey that Deloitte's Ingo Schmuckall identified as the essential first step in the transition. Moving from manual, paper-based loan processes to fully digital origination creates the operational foundation from which flexible financing products, dynamic pricing, and subscription models can be built.
+For a detailed written exploration of the key themes from this session, the
+NETSOL Deloitte fireside chat
+covers the full discussion, including the specific capabilities motor finance providers need to build and the technology stack that underpins them. For a real-world reference point on how a UK motor finance lender has approached digital transformation, the
+United Trust Bank auto finance case study
+demonstrates what a NETSOL-powered lending modernisation looks like in practice.
+Going deeper: Related reading
+The themes discussed in this session sit within a fast-evolving European motor finance landscape. Motor Finance Online featured NETSOL's Eva Kellershof sharing her perspective on
+five key trends in European auto finance
+, covering regulatory shifts, EV challenges, commission disclosure requirements, and the strategic implications for captives and lenders across the UK and Europe.
+Related
+webinars
+Webinar
+SME Finance: What Needs to Change to Create Better Outcomes for SMEs, Brokers & Lenders
+Bridging the Retail Gap: What Dealers Really Want from Digital Retailing
+Reimagining the dealership experience with AI and omnichannel retail
+Reinventing Your Dealership with AI and Omnichannel Journeys

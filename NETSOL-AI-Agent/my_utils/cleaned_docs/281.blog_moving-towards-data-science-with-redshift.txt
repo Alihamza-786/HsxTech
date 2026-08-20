@@ -1,0 +1,58 @@
+https://netsoltech.com/blog/moving-towards-data-science-with-redshift
+Blog
+Moving Towards Data Science with AWS Redshift
+By
+NETSOL Technologies
+, on January 31, 2023
+AWS Redshift provides exceptional value and meets all expectations as a data warehouse service.
+Table of Contents
+Understanding AWS Redshift
+Important Components of AWS Redshift Architecture
+Wrapping Up
+Share this Blog:
+Today, Data Analytics and Big Data are the most demanded technological revolutions adopted by modern businesses across the globe. If we are talking about the past, the concepts of Data Analytics and Data Warehousing were new and confusing. However, the present era caters to both as vital tools for millions of customers. The most notable and prominent Data Warehouse is AWS Redshift, which is taking the world by storm.
+In 2021, the amount of data generated for digital transformation was 79 zettabytes, predicted to increase 24% a year till 2025. Source: Medium
+As per data received from
+Medium
+, the volume of data created, captured, copied, and consumed worldwide in 2021 was 79 zettabytes. By the end of 2025, it’s envisioned that the consumed data will increase by an average of 24% yearly.
+Because of the accumulation of data and the rising complexity of computing systems, businesses now require a centralized data warehouse. A “data warehouse” is the primary storage facility in this scenario, as it is the hub where all data is handled, transformed, and ingested.
+Amazon Redshift is a fully-managed,
+cloud-based
+, large-scale data warehouse. AWS Redshift architecture eliminates the concern of setting up, managing or guaranteeing the uptime of a data warehouse. It’s compatible with SQL-based tools and widely-used data intelligence programs and provides a querying layer that works with Postgres.
+Since the foundation significantly affects the service’s behavior in different systems, it is typically the first point of dispute for a data architect when considering using a third-party managed service as the backbone data warehouse.
+Amazon Redshift is MPP (Mass Parallel Processing) data warehouse supported by AWS (Amazon Web Services). It can handle large volumes of data and manage workloads conveniently for optimal configuration and exceptional performance for big datasets.
+Did you know that you can quickly start with just a few GigaBytes of data with AWS Redshift and scale of PetaBytes?
+With AWS Redshift architecture, you can start with a single
+160 GigaBytes of data
+and scale up to PetaBytes to achieve more compressed user data.
+Component 1: Leader Node
+AWS Redshift’s Leader Node oversees external and internal communication. It prepares query execution strategies for Cluster searches. The Leader Node starts distributing the code to Compute Nodes when the query execution plan is prepared. It also assigns data slices for calculation.
+Leader Node distributes query burden only when the query accesses Compute Node data. Otherwise, it runs on the Leader Node. AWS Redshift Architecture performs numerous functions on the Leader Node.
+Component 2: Compute Node
+Compute Nodes execute and store queries. They conduct searches and return intermediate results to the Leader Node.
+The architecture has two Compute Nodes:
+DS (Dense Storage) Nodes:
+It lets you create cheap Data Warehouses with HDDs.
+DC (Dense Compute) Nodes:
+Produces high-performance Data Warehouses employing SSDs.
+Component 3: Node Slices
+The Compute Nodes comprise Node Slices, where each Slice performs query operations on Compute Node’s memory and disc. The Leader Node assigns query code and data to a slice. Once assigned, slices generate query results in parallel.
+A table’s Distribution Style and Distribution Key determine how data is distributed among Slices. AWS Redshift assigns workloads equitably to Slices and maximizes parallel processing with an even data distribution.
+Different types of Compute Nodes determine the number of Slices.
+Component 4: Massively Parallel Processing
+Massively Parallel Processing (MPP) is built into the architecture of Amazon Redshift, allowing it to quickly handle even the most sophisticated queries and large data sets. To maximize Parallel Processing, many compute nodes run the same query code on different parts of the data.
+Component 5: Columnar Data Storage
+Columnar Data Storage decreases I/O on AWS Redshift Architecture discs. Columnar storage reduces disc I/O requests and query memory strain. Redshift can conduct more in-memory processing with less I/O and lesser data loaded. Redshift uses Sort Keys to sort Columns and filter queries.
+Component 6: Data Compression
+For fast results, compressing the data is a phenomenal source. It minimizes the amount of space needed to store data and expedites the process of loading massive volumes of data into memory. Redshift’s columnar storage allows for dynamic encoding of compression formats based on the data column type.
+Component 7: Query Optimizer
+Columnar data storage is leveraged by Redshift’s Query Optimizer, which creates MPP-aware query strategies. The data in the tables are examined by the Query Optimizer, which then makes plans for executing the queries that are both effective and efficient.
+AWS Redshift provides exceptional value and meets all expectations as a data warehouse service. Amazon is constantly improving and innovating, and you can see the results at increased speeds with each new release. For those already familiar with the AWS Stack, its seamless connection with those services makes it the obvious choice.
+Are you interested in exploring the feasibility of AWS Redshift Architecture as per your business requirements? Contact Us today to learn more!
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

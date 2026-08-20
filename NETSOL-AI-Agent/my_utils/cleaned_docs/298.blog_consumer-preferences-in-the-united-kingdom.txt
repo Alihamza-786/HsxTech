@@ -1,0 +1,80 @@
+https://netsoltech.com/blog/consumer-preferences-in-the-united-kingdom
+Blog
+Vehicle ownership vs. opting for shared mobility: Consumer preferences in the United Kingdom
+By
+Kamran Khalid
+Chief Product Officer, NETSOL Technologies
+, on June 1, 2022
+Discover the trends in UK automotive industry, from declining vehicle ownership to shared mobility. Learn how shared mobility solutions are shaping transportation.
+Table of Contents
+Vehicle Ownership
+Share this Blog:
+In 2021, the UK market slumped to record a decrease in the number of new cars bought and sold. Sales for new passenger cars decreased by 28.7%, compared to pre-pandemic levels, whereas a number of 1.65 million new cars were registered as a whole for the year 2021. Experts blame COVID -19 for playing a significant role in bringing a shift toward UK's car ownership market. Statistics show that car ownership in the UK decreased in FY 2020, witnessing a drop of 0.6% in registered cars which was registered for the first time in the past 25 years due to the global health crisis.
+Even in February 2022, the new car market in the UK witnessed no improvement and still stood 25.9% below the pre-pandemic February of 2020, with sales of 58,994 new cars registered. The following month (March) recorded the weakest sales ever since 1998, with just 243,479 new cars sold.
+Used Car Market
+The used car market in the UK has also suffered during the COVID -19 pandemic. In 2020, the used car market fell by 48%, with 6.7 million cars sold. In 2021, the market improved and witnessed a growth of 11.5% compared to the previous year, with 7.5 million cars sold.
+However, the market slumped by 5.5% in the fourth quarter of 2021, which was below the pre-pandemic five-year average. During the first quarter of 2022, used car sales increased by 5.1%, with 1,774,351 cars changing hands in the UK market. Globally, the UK secured and stood as the seventh-largest market for new vehicles in 2021, but this is expected to change in 2022 as Brazil is foreseen to take UK's place in the car ownership market, pushing the UK to eighth place.
+Trends of Shared Mobility
+Shared mobility provides individuals with short-term access to vehicles as and when they are needed. The number of people who have become members of the car club is increasing every day in the UK. Car club is a rental service that is available for the members to access a locally parked car without owning one. The car club service offers a model alternate to privately owning a car and encourages reduction in private car ownership.
+Rise of Car Clubs
+Members of car clubs have grown enormously over the last year (2021), and the total membership figure on October 31 recorded was 784,122, which was 24% more than the past 12 months. Statistics show that the number of active members who have joined or renewed their membership or used a car club vehicle stood at 450,231, which was double that of the previous year - an increase of 96% was observed. This increase was likely due to the inactive members during the pandemic in 2020 and the members that were added as new members in 2021.
+The country needs to move away from the 20th century thinking of owning a private car and adapt to shared vehicles with greater flexibility, personal choice and low carbon emissions.
+- Transport Minister Trudy Harrison
+According to CoMoUK 2021, several factors motivate consumers to join vehicle-sharing services. The majority of them stated with 64% that they do not even use a car, 28% stated that they want to avoid the hassle of car ownership, 27% wanted to save their money by joining car club service and 73% think that car clubbing will save them more money as compared to owning a personal car.
+Bikes and rides are also shared by the consumers, where bike-sharing allows consumers to pool bicycles. The total number of bicycles recorded in 2017 were 22,412, which increased to 22,789 in 2021. Average trips per day in the UK were also recorded to be 41,599 in September 2021. Shared rides have also become part of the UK's automotive landscape, where consumers are shifting towards shared taxis, lift-sharing, and on-demand minibuses.
+P2P Car-Sharing Model
+The P2P car-sharing model is gaining a lot of money through the commission they charge on every booking made; other than that, revenue is generated through banner ads and on-site car promotions. The model works in a way where the cars are listed on a platform with its specifications and are rented through that platform for use. One of the primary reasons for the growth of the P2P car-sharing model is the flexibility that it offers to its users, since the service is excellent for people who don't want to own or cannot afford a personal car. It also gets convenient for consumers to choose the vehicle they like and want. Some consumers are attracted to renting a vehicle in their neighborhoods instead of traveling to a rental company. P2P car-sharing offers excellent flexibility in time, location, cost, and choice of vehicles, making it a more convenient option for consumers.
+Change in Trend of Owning a Vehicle
+According to a report by SMLL, approximately 30% of respondents stated that the introduction of connected autonomous vehicles (CAVs) would reduce vehicle ownership. Currently, the total number of vehicles in the UK is estimated to be more than 37 million, which means more than one vehicle is available for every two persons in the UK.
+784,122
+was the total recorded membership figure for car clubs in the UK on October 31, 2021.
+Private car ownership has been a dominant trend in the UK for an extended period, but the trends are changing consumers' mobility patterns and transport behaviors now. Preferences of young people are changing as they tend to drive less, buy few cars and use more public transport. Larger cities such as London are expected to be the first to be impacted by this change.
+Why? Because it is difficult to drive in a congested city, privately owned vehicles are a costly asset to own, maintain and operate. On the other hand, car clubs are getting popular amongst consumers, providing a convenient alternative for consumers who do not own a car. The cycling trend is also increasing, which covers 2% of all trips taken by bike both in London and in England. Ride-hailing services are also increasing progressively. Taxis and private hire vehicles like Ubers cover almost the same of about 2% of all trips.
+Environmental Benefits of Vehicle Sharing
+Reduced Space Required for Cars
+Car clubbing has reduced the number of privately owned cars, freeing up street space for other uses. Statistics of a survey show that 17% of the respondents owned a car before joining the car club service. Consequently, this identified that the car club service in the UK replaces every 20 privately owned cars.
+Improved Air Quality
+Vehicle sharing has also contributed a lot towards improving air quality. The survey shows that average NOx emissions of car club vehicles is estimated to be 0.03g/km and 0.38g/km for cars and vans respectively, which is 89% and 67% lower respectively than the UK average i.e. 0.32g/km and 1.16g/km.
+Reduced Mileage
+In addition to reducing carbon emissions, shared mobility also enables consumers to save their vehicles from traveling extra miles. According to the survey conducted by CoMOUK, 31% of the respondents stated they had reduced their car mileage after joining the vehicle sharing service.
+Over the past few years, the more proactive OEMs, parts suppliers, dealers, and
+retail service providers
+are increasingly switching towards Mergers & Acquisitions (M&A) as a strategic tool to make their businesses get ready for a much more radical future. Over the last three years, there have been 1500 M&As globally in the automotive sector totaling Â£250 billion. One example of an acquisition in the European region includes acquiring a car-sharing company, Share Now, a joint venture formed by Mercedes-Benz Mobility group and BMW Group. An agreement was signed between Stellantis's mobility and car-sharing Free2move to make the acquisition. Another acquisition in the UK was made where EDF acquired a major stake in Pod Point.
+Shared Mobility - New Norm
+While addressing the Collaborative Mobility UK (CoMOUK) Annual Shared Transport Conference, Transport Minister Trudy Harrison shared her views on shared mobility. According to her, shared mobility should become a norm across the UK, where she supports the system that fits best for the future. She said that the country needs to move away from the 20th century thinking of owning a private car and adapting to shared vehicles with greater flexibility, personal choice, and low carbon emissions. She also mentioned that almost two-thirds of trips are taken by lone users, which will soon be replaced by shared mobility. Hubs will become part of the streets, and services will be available to book at the touch of smartphones.
+Richard Dilks, Chief Executive of CoMoUK, also stated that shared mobility is the need for a sustainable future for the UK, enabling people to commute and use vehicles without the need to own them, shifting to car clubbing, bike-sharing and ride-sharing while creating a positive impact on the environment.
+Mobility Trends
+The automotive industry is on the verge of a brand new era, where new technologies disrupt the way consumers drive. The world is moving towards a future that will bring together three main mobility trends:
+autonomous vehicles
+, electrification, and shared mobility. These technologies will enable consumers to order driverless taxis through apps that will deliver customers to their destination and self-drive to the nearest wireless charge point to prepare for the next pickup. Due to cost-effectiveness and environmental friendliness, EVs are now getting great support from consumers. The EV market in Europe is an excellent example of how state actions can create an impact on the mobility landscape.
+The Future of Shared Mobility in the United Kingdom
+The future of the UK automotive industry is conquered by shared mobility. The trend of shared mobility is getting more common in the region due to fewer costs incurred, environmental benefits, and fewer commutes, making car ownership less attractive for consumers in the UK market.
+The EV market in Europe is an excellent example of how state actions can create an impact on the mobility landscape.
+Revenue in this particular segment is expected to reach US$44.86bn this year. The revenue is expected to show an annual growth rate of 13.75% (CAGR 2022-2026), resulting in an estimated market volume of US$75.18bn by 2026. The most significant chunk of the market is occupied by shared vehicles, with a projected market volume of US$30.16bn in 2022. As more and more users are shifting towards the use of shared mobility, the number of users utilizing shared vehicles is estimated to reach 50.4m by the year 2026. User penetration is expected to reach 74.1% by 2026. In the shared mobility segment, it is expected that 63% of total revenue will be generated through online sales by 2026.
+Based on the facts presented above, it can be predicted that the future of the UK automotive landscape lies with shared mobility, where consumers are shifting from a product-based model and adapting to a service-based model that is more cost-efficient, flexible, and consumer and environment friendly.
+To explore our modern technology solutions that futureproof operations for
+automotive finance software
+and leasing companies in Europe and across the globe, as well as NETSOL's subsidiary Otoz that provides a range of mobility solutions.
+NETSOL's premier platform for the global automotive finance and leasing industry NFS Ascent is also available on the cloud, enabling you to gain access to the same next-generation solution used by bluechip and Fortune 500 companies via rapid deployments, flexible, subscription-based pricing and the ability to scale on demand!
+References:
+https://www.statista.com/outlook/mmo/shared-mobility/united-kingdom
+https://www.creds.ac.uk/wp-content/uploads/CREDS-Shared-mobility-comm-report-WEB.pdf
+https://www.smarttransport.org.uk/news/latest-news/shared-mobility-must-be-the-norm-across-uk-says-dft
+https://como.org.uk/wp-content/uploads/2022/04/CoMoUK-Car-Club-Annual-Report-UK-2021.pdf
+https://www.nimblefins.co.uk/cheap-car-insurance/number-cars-great-britain
+https://review42.com/uk/resources/car-ownership-statistics-uk/
+https://heycar.co.uk/blog/car-sales-statistics
+https://www.motorious.com/articles/features-3/uk-eliminating-car-ownership/
+https://archive.londoncouncils.gov.uk/our-key-themes/transport/car-clubs-london/overview-car-clubs-london
+https://como.org.uk/shared-mobility/shared-rides-and-the-rest/what-2/
+https://www.pinsentmasons.com/out-law/analysis/ma-tech-first-mobility
+https://www.just-auto.com/news/half-of-uk-consumers-consider-car-subs-survey/
+https://www.automotiveworld.com/articles/peer-to-peer-car-sharing-is-here-to-stay/
+https://www.ipsos.com/en-uk/future-mobility-autonomous-electric-and-shared
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

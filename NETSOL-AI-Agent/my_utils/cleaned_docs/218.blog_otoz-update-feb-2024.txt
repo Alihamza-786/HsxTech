@@ -1,0 +1,61 @@
+https://netsoltech.com/blog/otoz-update-feb-2024
+Blog
+NETSOL Technologies announces major updates on Otoz platform and recent traction with key automotive clients
+By
+NETSOL Technologies
+, on February 23, 2024
+NETSOL Technologies unveils Otoz 2.0, revolutionizing digital retail and mobility with key advancements for MINI USA and AutoNation. Discover the future of automotive e-commerce.
+Table of Contents
+Otoz 2.0: The Future of Digital Retail and Mobility Orchestration
+MINI Anywhere Powered by Otoz Doubles Enrollment in Past 12 Months; Achieves 5x Increase in Lead Volume
+Share this Blog:
+ENCINO, Calif., Feb. 01, 2024 (GLOBE NEWSWIRE) -- NETSOL Technologies (Nasdaq: NTWK), a global leader in SaaS solutions and IT services, today announced major updates on its
+digital retail platform
+and mobility technology platform, Otoz, and the latest traction achieved with two key automotive clients, MINI USA and AutoNation.
+NETSOL Technologies has officially unveiled Otoz 2.0 after implementing major updates to the digital retail and mobility technology platform. The white-label solution is tailored to leading automotive industry stakeholders including OEMs, dealerships, finance providers, and startups. Designed for deep integration within distinct internal ecosystems, Otoz facilitates unmatched e-commerce experiences that are fully aligned with clients' unique brand requirements. With cutting-edge technology, user-centric design, and data-driven strategies, Otoz is redefining customer engagement in the automotive realm.
+The ambition to deliver a seamless, end-to-end purchasing journey and manage asset and contract lifecycles particularly for mobility business models-from real-time pricing and meticulous tax computations to digital e-contracting-presented various challenges. This required navigation of complex state-by-state regulations and keen attention to data security, privacy, and inventory amidst unprecedented supplier challenges.
+Otoz elegantly addresses various complexities, establishing key integrations with crucial third-party services, ranging from inventory and CRM systems to identity safeguards, fraud monitoring, comprehensive lender APIs,
+automotive finance software
+, tax services, F&I product aggregators, and payment gateways. With the end customer in focus, Otoz's synergy with these third parties and its strategic placement of deal checkpoints expedite vehicle and deal verifications for dealers. This ensures a secure and profitable digital sales channel that transcends traditional lead generation.
+NETSOL is set to expand its offerings with the upcoming phased launch of Otoz 2.0 over the next year. At the forefront of this advancement is the debut of an API-first product ecosystem, Appex Now (Appexnow.com), NETSOL's marketplace offering that caters to the global finance industry with turnkey API-first solutions. Through Appex Now's Hubex API product, collaborations with major (DMS) providers, customer relationship management systems (CRMs), and finance drivers are now available. The modular and headless architecture of Otoz 2.0 will empower partners to rearrange process flows and innovate without implementing code modifications.
+The Otoz dashboard for dealers and administrators will undergo substantial enhancements. These new integrations will be further enriched by advanced artificial intelligence and machine learning models to optimize customer interactions and gain predictive insights. The vision is to provide dealers with a holistic omnichannel tool for both digital and in-person transactions, minimizing reliance on auxiliary dealer systems, and creating efficiencies through fewer screens. Emphasis will also be placed on curating personalized and intuitive F&I upselling opportunities.
+Since its debut in June 2021, MINI USA's digital retail program, MINI Anywhere powered by NETSOL's Otoz technology has established itself as a premier digital retail platform in the automotive industry. More than a sophisticated lead generator, MINI Anywhere offers MINI dealers an omnichannel, end-to-end sales platform while delivering customers a seamless yet comprehensive shopping experience. From payment options aligned with MINI Financial Services programs to trade-ins, MINI finance and insurance (F&I) options, streamlined credit approvals, digital contracts, and delivery schedules, every aspect has been designed with convenience in mind. Remarkably, MINI enthusiasts can finalize their purchase in as little as 30 minutes, all from the comfort of their homes.
+In the last 12 months, the program has more than doubled dealer enrollments now active across nearly two-thirds of the MINI USA dealership network, enabling an unprecedented 5x increase of lead volume and vehicle sales, and an impressive 20% lead conversion rate on average. The program continues to roll out across the network.
+Patrick McKenna, the Department Head of Marketing, Product, and Strategy at MINI USA, captures the vision, "In May 2021, MINI USA and MINI Financial Services set out to build a digital retail tool that could handle credit decisioning, eContracting and eSignature to allow end-to-end transactions. For the past 3 years, major
+auto lending technology
+forums in the industry have recognized MINI Anywhere as one of the top ranked OEM digital retail tools in the competitive luxury space. We are extremely proud of MINI Anywhere, the team at NETSOL Technologies, and want to thank our dealer partners for such an achievement."
+AutoNation Mobility Launches Micro Lease Marketplace, Leveraging Otoz Back-End Technology
+The automotive market is witnessing a significant shift towards short-term vehicle usage options, a trend ignited post-pandemic. In the wake of evolving market demands for flexible vehicle usage, Otoz 2.0 supports AutoNation Mobility in spearheading the shift towards micro-leasing. Otoz 2.0 is leveraged for back-end, operational processes and integrated seamlessly with AutoNation Mobility's customer facing micro-lease marketplace. This service allows customers to navigate through the process of vehicle selection, deal configuration, and transaction finalization with ease and transparency. The Micro Lease marketplace is currently available in California and Florida, with plans for further expansion.
+Otoz 2.0 is powered by the robust, API-first ecosystem of NETSOL's AppexNow marketplace, built with a headless architecture and flexible backend design that allows for seamless updates and integration, providing a highly customizable and modular experience. Its comprehensive suite of functionalities within Otoz 2.0 are designed to streamline customer onboarding, service workflows, vehicle delivery, and return processes. These features are vital for facilitating interactions among AutoNation Mobility's operations team, dealers, and customers, thereby guaranteeing an exceptional customer experience.
+Ivan Mihov, Vice President of Mobility at AutoNation Mobility, celebrates the partnership, "Our strategic alliance with NETSOL and the integration of the Otoz platform align perfectly with our goals for innovation and market entry. The swift launch of AutoNation Mobility, a mere six months into our collaboration, highlights our shared commitment to continual innovation and prioritizing customer needs."
+The debut of Otoz 2.0 signifies a transformative moment in the
+automotive retail technology
+landscape. The flexible software powers the ability for customers to finance or lease a vehicle with unmatched convenience and adaptability. To explore AutoNation Mobility's micro-lease options and witness the future of car ownership, visit autonationmobility.com. For an in-depth look at how Otoz 2.0 is setting a new standard in mobility solutions.
+About AutoNation, Inc.
+AutoNation, a provider of personalized transportation services, is driven by innovation and transformation. As one of America's most admired companies, AutoNation delivers a peerless Customer experience recognized by data-driven consumer insight leaders, Reputation and J.D. Power. Through its bold leadership and brand affinity, the AutoNation Brand is synonymous with "DRVPNK" and "What Drives You, Drives Us." AutoNation has a singular focus on personalized transportation services that are easy, transparent, and Customer-centric.
+About MINI USA
+MINI is an independent brand of the BMW Group. In the United States, MINI USA operates as a business unit of BMW of North America, LLC, located in Woodcliff Lake, New Jersey and includes the marketing and sales organizations for the MINI brand. The MINI USA sales organization is represented in the U.S. through a network of 104 MINI passenger car dealers. MINI USA began selling vehicles in the U.S. in 2002 with the introduction of the MINI Cooper and MINI Cooper S Hardtops. Since then, the MINI Brand in the U.S. has grown to encompass a model range of five unique vehicles.
+About NETSOL Technologies
+NETSOL Technologies, Inc. (Nasdaq: NTWK) is a worldwide provider of IT and enterprise software solutions primarily serving the global leasing and finance industry. The Company's suite of applications is backed by 40 years of domain expertise and supported by a committed team of professionals placed in eight strategically located support and delivery centers throughout the world. NFS, LeasePak, LeaseSoft, and NFS Ascent - help companies transform their Finance and Leasing operations, providing a fully automated asset-based finance solution covering the complete leasing and finance lifecycle.
+Forward-Looking Statements
+This press release may contain forward-looking statements relating to the development of the Company's products and services and future operation results, including statements regarding the Company that are subject to certain risks and uncertainties that could cause actual results to differ materially from those projected. The words "expects," "anticipates," variations of such words, and similar expressions, identify forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, but their absence does not mean that the statement is not forward-looking. These statements are not guarantees of future performance and are subject to certain risks, uncertainties, and assumptions that are difficult to predict. Factors that could affect the Company's actual results include the progress and costs of the development of products and services and the timing of the market acceptance. The subject Companies expressly disclaim any obligation or undertaking to update or revise any forward-looking statement contained herein to reflect any change in the company's expectations with regard thereto or any change in events, conditions or circumstances upon which any statement is based.
+Investor Relations Contact:
+IMS Investor Relations
+netsol@imsinvestorrelations.com
++1 203-972-9200
+AutoNation Public Relations:
+publicrelations@autonation.com
+954-769-4120
+MINI USA Press Contact:
+Andrew Cutler
+Head of Corporate Communications
+MINI USA
+201.307.3784
+andrew.cutler@miniusa.com
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

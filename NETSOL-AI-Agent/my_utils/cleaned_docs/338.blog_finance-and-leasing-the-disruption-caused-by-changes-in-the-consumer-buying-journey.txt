@@ -1,0 +1,77 @@
+https://netsoltech.com/blog/finance-and-leasing-the-disruption-caused-by-changes-in-the-consumer-buying-journey
+Blog
+Digital Disruption in Finance and Leasing: How the Consumer Buying Journey Has Changed
+By
+Fawad Ghauri
+Head of Digital Transformation
+, on November 28, 2018
+Explore how digital disruption is reshaping the consumer buying journey in finance and leasing, from omni-channel strategy to personalised digital experiences for lessors and lenders.
+Table of Contents
+What Finance and Leasing Companies Must Do Differently
+Digitization of Businesses - The Evolved Marketing Landscape
+The Omni-Channel Imperative for Finance and Leasing Companies
+Share this Blog:
+Creating business value requires focusing on the customer value. A marketer's goal should be to create a memorable customer journey from the time a customer first reaches the company and continues until long after a purchase is made.
+The marketing team should connect with the customers at effective touch points. However, advancements in digital technologies have disrupted the traditional mode of connecting with the consumers. In particular, there has been a fundamental change in the consumer buying journey.
+Gone are the days when you could reach the customers at the most influential decision point using a traditional mode of advertising such as billboards, TV and newspaper advertising. Today, unless you are willing to reach the customer through a medium that they prefer, and rather demand, your company will not be able to influence purchase decisions of the customers. The foundation of the evolved marketing mediums rests on digital technology that has completely changed the way a company can interact with its customers.
+A business must ride the wave of digital disruption or risk being washed away. It is that simple. The survival of a business depends on embracing technology, which has empowered customers by providing them with new ways to interact with the real world.
+Using digital technology enables customers to conduct online research, ask advice from their peers and search for reviews of the product or services. The underlying change brought about by digital technology has changed the outdated marketing model. It has allowed customers to move outside the marketing funnel and changed the way customers research and buy products, and there are numbers to prove this.
+According to Deloitte's Global Automotive Consumer Study, 60% of Gen Z consumers in the US would consider a fully virtual vehicle purchasing process and buyers of all ages increasingly want to complete financing steps online before visiting a dealership. The finance and leasing industry has been directly affected by this shift. Customers now interact with multiple digital touchpoints before they ever speak to a sales representative, researching products, comparing rates, and forming preferences entirely online. For lessors and lenders, this means the buying journey is largely won or lost before any direct contact is made. To understand how this plays out at the dealership level, the
+transformative role of digitization
+in the car buying journey covers the operational implications in detail.
+The demand for online financial products can be realized from the fact that the LendingClub has issued more than US$2bn in quarterly loans.
+Companies such as LendingClub are the eBay for consumers searching for a loan. The company matches users who need money, to investors that are willing to lend to them. Anyone can raise up to US$40,000 using the lending platform. The ease and convenience of obtaining the required loan makes it a hit among the online customers.
+At present, the financial sector is comparatively lagging behind other sectors in adopting digital technology. According to research conducted by Leading Edge Forum (LEF) that compared the 10 biggest sectors, the banking sector was behind media, entertainment, education, retail and the healthcare sector in terms of adapting to the digital transformation.
+However, that is quickly changing due to the increased popularity of digital technologies. The potential for disruption is strong across all the customer contact points. It is expected that there will be a fierce competition among the traditional players in the finance and leasing industry to capture market share through innovative digital technologies.
+Finance and leasing companies need to go further than simply adopting
+leasing technology
+— they need to completely rethink how their platforms, products, and customer journeys connect end-to-end. For lessors that have made this shift, the results are measurable: see how NETSOL clients have
+eliminated calculation discrepancies
+and accelerated onboarding by rebuilding core processes around digital-first infrastructure.
+Remember that in the digital world, control is an illusion. Instead of focusing on directing online traffic to the website, companies need to put emphasis on enriching customer experiences by offering personalized services.
+The future of financing is moving towards transformative role of digitization and similar to any other industry, the approach by the financial firms should be customer centric.
+With the digitization, companies can make the purchase process simpler and convenient for the customers. This, in turn, would drive sales. To achieve this goal, it is important to focus on identifying the digital touchpoints on the customer decision journey. Digital technologies can help in closing the gap between the marketing message and positive customer experiences.
+In order to get the most benefit from the digitization process, an omni-channel strategy is suggested.
+An omni-channel strategy is different from the traditional marketing strategy in that it allows marketers to interact with customers at multiple digital contact points including the web, mobile, social media, email and others in an integrated manner.
+Companies with a strong omni-channel strategy are able to retain 89% of the customers as compared to just 39% for firms with no or weak channel engagement.
+Moreover, implementing an omni-channel strategy allows companies to create maximum customer engagement. For instance, a survey that was conducted by Google found that 71% of shoppers prefer interacting through mobile devices instead of visiting physical premises.
+The omni-channel experience provides a more convenient manner for customers to search for the goods and services, and make the purchase. Consumers can buy the goods anywhere, anytime with no waiting time.
+Also, it provides greater choice to the consumers as they have access to a wide range of financial products. They can compare prices, read reviews and find out other customer's experiences.
+In 2015, SAIC Motor Corp., in partnership with Alibaba Holding Group, announced the launch of a first-of-a-kind omni-channel strategy for the customers. The Chinese automaker partnered with major brands and a network of thousands of dealers to offer seamless integration of online and offline channels.9 The company announced tie-ups with Premier Li Keiang to integrate cloud computing, mobile internet, and the internet-of-things with its vehicles. The end result was a happier customer and a positive impact on the company's bottom line.
+The Bank of America has also taken their omni-channel strategy seriously. As one of the biggest brands in the finance industry, they have set the standards for a dynamic experience through offering such services as check depositing, to making an appointment that could be handled through the mobile and desktop apps.
+In Kenya, a microfinance institution (MFI) named Musoni offer convenient access to loans to its customers through mobile payments and mobile money. The transactions are easily performed through the mobile money accounts. However, the company has not ignored the offline channels such as branches to cater to people that like face-to-face interactions. By implementing the omni-channel strategy, the company has been able to cut down the cost while also improving its ability to serve a maximum number of customers, particularly in the rural areas.
+In short, an omni-channel strategy allows companies to provide greater choices to the customer and thus improve customer experience. It provides an edge to the company in offering better services to the customer as compared to the rivals. By integrating loan approval/
+lease servicing solutions
+with internet technologies, an omni-channel experience provides customised, convenient and more customer centric services. Consequently, the end result is an increased retention rate and improved revenues for the company.
+How to Effectively Implement an Integrated Omni-Channel Strategy
+The finance industry is still in its infancy when it comes to an omni-channel strategy. It needs to have an omni-channel platform where customers can experience a seamlessly integrated buying experience, regardless of the channel through which they interact.
+Financial companies can partner with technology companies to improve the origination experience. They can offer a targeted up-sell and cross-sell through an omni-channel presence. Moreover, the enhanced integration with dealers can help in capturing a comprehensive customer data and avoid information follow-up.
+In order to implement an integrated omni-channel presence, companies can utilize services of Business Intelligence (BI) companies. The specialized BI firms can help businesses to connect with customers and collect data through multiple sources including social media, website, email, IM/web chat, IVR, SMS, blogs and other digital media.
+To explore how broker technology is opening new revenue opportunities across the vendor finance space,
+watch: NETSOL | AFC Webinar — How Broker Tech is Creating New Opportunities for Brokers in Vendor Finance
+An effective omni-channel approach for financial firms consists of integrating different aspects of the customer experience including:
+Technology
+People
+Process
+Financial solution
+Performance
+The integrated omni-channel framework can help companies to not only understand the customer buying behavior, but also provide customer centric services that delight the customers. The omni-channel platform can help customers to engage with the brand in a more meaningful manner. It allows companies to bank on the information collected from multiple sources and offer a completely customized and personal experience.
+Monitoring for Omni-Channel Performance
+Implementing the omni-channel digital strategy requires identifying performance metrics and monitoring them to create a positive user experience. Every performance metric should be tracked to ensure that it helps in creating a positive impact on consumers' buying journey, and results in improved customer satisfaction and loyalty. The omni-channel strategy should further be divided into three parts including team efficiency, complaint resolution and customer experience.
+By monitoring the performance metrics, a company would be able to get a clear picture of the strengths and weaknesses of the
+omni-channel strategy
+. The management will be able to analyze to get an integrated view of the customer service performance measures and take steps to improve them with the strategic aim of creating a satisfying consumer buying journey.
+The data gathered about the omni-channel strategy can also be used to analyze customer perceptions and behavior. This insight about customer behavior can be used to fine-tune the financial products and services. By quantifying the qualitative data, a company would be able to enhance customer experience, improve brand image, increase visibility and monetize the results.
+The disruption caused by digital technologies has fundamentally changed customer buying behaviour. Today's customers — across all age groups — demand personalised services delivered through digital channels, with the expectation of a seamless journey from research through to contract signing. NETSOL's
+finance and leasing solutions
+are built to support exactly this kind of connected experience. The omni-channel approach involves utilising multiple contact points — both online and offline — to create a satisfying customer buying journey.
+It allows the company to listen, analyze and act on the feedback offered by the customers across different channels. The customer data gathered from multiple sources can be used by financial and lease companies to offer an integrated, customer-centric solution that drives both top and bottom-line growth — an approach the
+Finance & Leasing Association
+has highlighted as central to staying competitive in modern consumer lending.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

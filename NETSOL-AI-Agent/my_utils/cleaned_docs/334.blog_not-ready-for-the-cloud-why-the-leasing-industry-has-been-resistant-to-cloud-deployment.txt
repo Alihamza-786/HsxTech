@@ -1,0 +1,49 @@
+https://netsoltech.com/blog/not-ready-for-the-cloud-why-the-leasing-industry-has-been-resistant-to-cloud-deployment
+Blog
+Not Ready for the Cloud? Why the Leasing Industry has been Resistant to Cloud Deployment
+By
+Farooq Ghauri
+Managing Director
+, on August 5, 2019
+In a time of exponential growth and emergence of cloud based solutions, it is hard not to wonder why some financial institutions haven't been quick to adapt to the paradigm shift. In a time of exponential growth and emergence of cloud based solutions, it is hard not to wonder why some financial institutions haven't been quick to adapt to the paradigm shift. Previously, the cost of enterprise software was exorbitantly high with stringent rules and policies in place to regulate risk.
+Table of Contents
+Share this Blog:
+With the introduction of SaaS and cloud deployment, risk and cost have been dramatically reduced. So why haven't financial institutions made the change? One reason may be that regulatory policies and rules are still in place and companies are wary of negotiating them for the purpose of a SaaS or cloud deployment.
+However, the benefits of making this simple change will alter the face of enterprise software for many decades to come. The ability to deploy data-intensive systems on the cloud at a low cost with low risk involved is an offer that sounds almost too good to be true. Not making the shift could prove to be detrimental to an institution's operations.
+Take a look at the case of Nokia. In 2007, when Apple released the first touchscreen smartphone, Nokia gave Apple's efforts a cold shoulder. With the volume of Nokia's success, it was easy to get caught up in the old way of doing things. Fast forward six years and now Nokia is off the map with Apple and Google Android capturing the global telecom market.
+Cloud-based solution cycles can be just as long as enterprise software sales cycles as clients have a number of different checkpoints, security questionnaires, and evaluation criteria. However, the benefits of these solutions are more than worthy of the time involved. Companies are increasingly looking at cloud solutions to automate back-office processes such as procurement and distribution. Furthermore,
+cloud solutions
+provide a smaller cost of entry and rapid time to market capability, allowing companies to achieve business case benefits and ROI more quickly and with a smaller risk quotient.
+Jennifer Bosavage of CRN points out that for a company going to the cloud, there are a few items that need to be kept in mind such as: how much money the cloud could save you, if the solution meets the business challenge or requirement, if the size of the solution is appropriate, the security measurements of data center access, security practices in general, and if the cloud solution is aligned with corporate governance or if it changes it.
+There are three common misconceptions when it comes to evaluating the impact of integrating the cloud.
+First, it can be challenging to illustrate the various cost savings for a specific organization due to inherent differences in their business practices.
+Secondly, there is a general hype about cloud computing and its capabilities that cause companies to stray away from the actual purpose of it. Sometimes, companies approach the business challenge backwards. Margaret Dawson, former Hubspan executive and current vice president of HP Cloud Services, says, "You need to evaluate the cloud like you would any other technology. So one of the things I often tell people is - Don't buy the cloud, buy the solution."
+Thirdly, customers often feel that integrating the cloud means a large-scale project. However, the cloud can be integrated on a small scale depending on business needs.
+Lastly, there is a conception that cloud integration will impact and interrupt the workflows and governance of a company. However, it is recommended that a thought out approach be taken when developing workflow so that it is aligned with the company's current governance and extends the current workflow into the cloud.
+Converting to the cloud is a process as anything else and it's important to evaluate exactly how the cloud can impact a company for the foreseeable future. With the prospect of greater productivity and reduced cost, it is an opportunity that all financial institutions should truly evaluate.
+Cloud computing is integral to the information age, and it has already rapidly changed how organizations operate in ways that we have not seen up to this point. The platform for accessing information has become highly intuitive and rapid, so the way that information and data are stored should reflect this. The backend processes should be able to support the speed of the frontend capability. To ignore or look past the potential benefits of the cloud is a rejection of how the world works today. In order to stay relevant, a company at the very least must understand cloud computing and the benefits of integrating with it.
+It's clear that there is a detailed list of precautions, preparations and items that a company must be aware of when integrating the cloud. The challenges of cloud computing for the finance and leasing industry are clearly overwhelming and especially daunting when evaluating how to comply with procedures, rules and regulations. However, it has been demonstrated that the challenges can be overcome and a solution can be implemented where
+cloud computing financial services
+can streamline efficiency in business practices. Companies like NetSol have proven that the transition can be smooth while still adhering to best practices.
+The leasing industry has traditionally been hesitant about utilizing cloud based solutions due to concerns over industry regulations and internal best practices that vary widely between organizations. A cloud deployment that may make sense for one organization may not be ideal for another. Through our relationships with industry leading finance organizations globally, NetSol has found that that flexible, user designed, implementations with multiple deployment options can ease these concerns and allow most organizations to realize the cost and productivity advantages of moving to the cloud.
+There are three major options:
+Onsite installation:
+upfront costs (hardware, software, implementation) and continuous costs (maintenance, support, internal
+talent acquisition & IT staff augmentation solutions
+Public Cloud hosted at vendor server:
+upfront implementation cost and continuous monthly subscription (includes all support, maintenance deployment, etc.). Vendor hosts and manages the environment
+Private Cloud:
+hybrid model where vendor hosts the environment but the customer handles the management
+The last two options have only become available in the last decade for software solutions and as I stated earlier, due to the risk-averse nature of our industry, they have only become mainstream in the last few years for the finance and leasing industry. Both options allow them to adhere to the industry wide security regulations. Therefore, the key decision points here, beside costs, are how specific your internal best practices standards are and whether you have the bandwidth to manage in-house. At NetSol, we offer all three options to best suit our customer needs.
+As the leasing industry begins to better understand the cloud, and cloud providers begin to better understand the
+loan software for lenders
+in the leasing industry, I feel that more and more organizations will move toward cloud deployments for enterprise software. The advantages are real, and the benefits are being realized by those who take the time to explore the options available. Your organization may not be considering
+cloud based software solutions
+, but going forward, more and more of your competitors will be.
+If you're in BFSI (Banking, Financial Services, and Insurance), standing still isn't an option.
+Future of Technology
+Related
+blogs
+Broker-Lender Alignment: The Future of Asset Finance Success
+From manual friction to intelligent workflows: The next step for equipment finance
+Cyber resilience in APAC: Why 2026 demands more than traditional defence

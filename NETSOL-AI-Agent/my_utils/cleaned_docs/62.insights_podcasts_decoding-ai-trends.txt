@@ -1,0 +1,40 @@
+https://netsoltech.com/insights/podcasts/decoding-ai-trends
+Decoding AI trends | Transcend AI Labs podcast #1
+In the first episode of the
+Transcend AI Labs
+Podcast, host Erik Wagner, CMO of NETSOL Technologies, sits down with Faizaan Ghauri, Chief Strategy Officer, and Naeem Ghauri, Co-Founder and President, for a wide-ranging conversation on what AI actually means for the asset finance and retail industry and how NETSOL is building toward it. Recorded in Austin, the conversation spans NETSOL's AI-first journey, the challenge of upskilling teams across an organisation, how AI agents are beginning to reshape technology operations globally, and the data privacy and compliance considerations that every finance company deploying AI must take seriously.
+About this episode
+What does it mean for a software company to become AI-first, not in positioning, but in practice? For NETSOL, the answer starts well before the product: it starts with the organisation. Naeem Ghauri is direct on this point throughout the episode. The shift to AI-first began with moving to an API-first architecture, continued with a company-wide AI literacy programme that made foundational AI education mandatory for every employee, and has now reached the stage of deploying purpose-built AI agents trained on domain-specific asset finance data. This is not AI adoption as a feature addition to the
+AI-powered asset finance platform
+, it is AI adoption as a structural transformation of how NETSOL builds, deploys, and supports its products.
+What you'll learn
+This episode is built for technology leaders, chief strategy officers, and senior executives at financial services organisations evaluating what an AI-first approach requires, structurally, culturally, and technically. It covers:
+What "AI-first" means in operational terms for an asset finance technology company and why it is fundamentally different from adding AI features to an existing product stack.
+How NETSOL approached upskilling an organisation of over 1,300 people on AI, including the design of its "AI Literacy 101" programme and the advanced training that followed for engineering teams.
+How AI is being applied specifically in asset finance, from credit decisioning and intelligent document processing to customer engagement and portfolio management.
+What AI agents are, how they differ from chatbots, and why Faizaan Ghauri describes them as digital employees trained on domain-specific data rather than general-purpose models.
+The data privacy and legal compliance challenges that AI deployment in regulated finance environments introduces and the governance principles NETSOL has built to address them.
+How AI can better society and why NETSOL's philosophy of human-in-the-loop AI is central to that answer.
+Key themes from the discussion
+Three themes defined this conversation:
+AI-first starts with people, not products.
+The biggest blocker to AI adoption is not technology, it is organisational readiness. NETSOL's decision to make AI literacy mandatory across every function, not just engineering, reflects a view that AI transformation requires cultural buy-in at every level of a company. The upskilling chapter of this conversation is one of the most practically useful for any leader managing a team through AI adoption, because it addresses the human dimension that most AI strategy discussions skip entirely. The companion blog on
+AI Labs podcast highlights
+covers these themes in detail, including the specific insights on AI agents and domain-first model development that Faizaan and Naeem discuss across the episode.
+Domain specificity is the real competitive advantage.
+Faizaan Ghauri's framing of AI agents as digital employees trained on asset finance workflows, not generic models repurposed for the sector, is central to NETSOL's AI strategy. The argument is that off-the-shelf AI can automate a task; domain-trained AI can transform a workflow. Asset finance is a specialised domain with its own regulatory requirements, contract structures, and risk parameters. Models that understand those nuances deliver meaningfully better outcomes than those that do not.
+Data privacy and compliance cannot be retrofitted.
+The episode's most direct challenge to AI optimism comes in the discussion of data governance. Naeem and Faizaan are clear that the legal and compliance obligations of deploying AI in financial services cannot be treated as a secondary concern. NETSOL's architecture reflects this: clients train AI models on their own data without sharing proprietary information with NETSOL, and every AI deployment is designed with explainability and human-in-the-loop oversight built in from the start, not added after the fact.
+Going deeper: Related reading
+For asset finance leaders building or pressure-testing their AI strategy, the
+digital transformation AI whitepaper
+examines why asset finance requires AI as a strategic driver rather than a bolt-on capability and what the competitive consequences are for organisations that treat it as the latter. Leasing Life covered
+Transcend AI Labs launch
+at the time of its March 2025 announcement, providing external context on the innovation hub and the AI capabilities discussed across this episode.
+Related
+podcasts
+Podcast
+Data Migration in Asset Finance: Strategies, Pitfalls & Real-World Insights
+Navigating change management in long-term projects – Lessons from the field (episode 3)
+Strategy with Jason podcast featuring NETSOL's Adam Bruttell (Digital auto retail)
+Fighting fraud in wholesale finance | NETSOL podcast
