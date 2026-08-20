@@ -6,7 +6,7 @@ The agent uses scraped NETSOL website data as its knowledge base and can retriev
 
 ## Demo
 
-[![NETSOL AI Agent](assets/demo.png)](https://youtu.be/cPhgZzj08Jc)
+[![NETSOL AI Agent](demo.png)](https://youtu.be/cPhgZzj08Jc)
 
 ▶️ **[Watch the demo](https://youtu.be/cPhgZzj08Jc)**
 
