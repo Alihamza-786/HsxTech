@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Muhammad Haroon",
+    "city": "Lahore",
+    "contact": "03146843654",
+    "products_bought_previously": [
+      "Wireless Earbuds",
+      "Smart Watch"
+    ]
+  },
+  {
+    "name": "Imran Roomate",
+    "city": "Lahore",
+    "contact": "03116360823",
+    "products_bought_previously": [
+      "Wireless Earbuds",
+      "Smart Watch"
+    ]
+  },
+   {
+    "name": "Zain ul Abiden",
+    "city": "Lahore",
+    "contact": "03278927004",
+    "products_bought_previously": [
+      "Wireless Earbuds",
+      "Smart Watch"
+    ]
+  },
+  {
+    "name": "Waleed Anjum",
+    "city": "Islamabad",
+    "alternate_contact": "03146843654",
+    "contact": "03244422448",
+    "products_bought_previously": [
+      "Bluetooth Speaker",
+      "Fitness Tracker"
+    ]
+  },
+  {
+    "name": "Abad",
+    "city": "Islamabad",
+    "alternate_contact": "03146843654",
+    "contact": "03004309221",
+    "products_bought_previously": [
+      "Bluetooth Speaker",
+      "Fitness Tracker"
+    ]
+  },
+  {
+    "name": "Waleed Anjum",
+    "city": "Islamabad",
+    "alternate_contact": "03146843654",
+    "contact": "03137836956",
+    "products_bought_previously": [
+      "Bluetooth Speaker",
+      "Fitness Tracker"
+    ]
+  },
+  {
+    "name": "Ali Hamza",
+    "city": "Islamabad",
+    "alternate_contact": "03146843654",
+    "contact": "03442113955",
+    "products_bought_previously": [
+      "Bluetooth Speaker",
+      "Fitness Tracker"
+    ]
+  }
+  ,
+  {
+    "name": "Waleed Anjum",
+    "city": "Islamabad",
+    "alternate_contact": "03146843654",
+    "contact": "03344047290",
+    "products_bought_previously": [
+      "Bluetooth Speaker",
+      "Fitness Tracker"
+    ]
+  },{
+    "name": "ALi Muzzafar",
+    "city": "Islamabad",
+    "alternate_contact": "03146843654",
+    "contact": "03394144655",
+    "products_bought_previously": [
+      "Bluetooth Speaker",
+      "Fitness Tracker"
+    ]
+  },
+  {
+    "name": "AliMuzafar papa",
+    "city": "Islamabad",
+    "alternate_contact": "03146843654",
+    "contact": "03334366636",
+    "products_bought_previously": [
+      "Bluetooth Speaker",
+      "Fitness Tracker"
+    ]
+  },{
+    "name": "Ali Hamza",
+    "city": "Islamabad",
+    "alternate_contact": "03146843654",
+    "contact": "03114802732",
+    "products_bought_previously": [
+      "Bluetooth Speaker",
+      "Fitness Tracker"
+    ]
+  }
+]
